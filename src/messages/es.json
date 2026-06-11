@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "title": "Parque Nacional Lagunas de Zempoala | Estado de México",
+    "description": "Explora el Parque Nacional Lagunas de Zempoala en el Estado de México, México. Descubre siete lagunas, bosques de coníferas y rica biodiversidad en este hermoso parque nacional."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "Parque Nacional Lagunas de Zempoala",
+    "subtitle": "Estado de México · Morelos · México",
+    "rating": "4.5",
+    "reviewCount": "5,416",
+    "hours": "Sáb-Dom y festivos 09:00-18:00",
+    "openMaps": "Ver ubicación"
+  },
+  "intro": {
+    "title": "Explora el Parque Nacional Lagunas de Zempoala",
+    "description": "El Parque Nacional Lagunas de Zempoala se encuentra en la frontera entre el Estado de México y Morelos, no lejos de la Ciudad de México. Es la principal zona de recarga del acuífero de la microcuenca del río Apatlaco. Las lagunas y los bosques de coníferas crean un paisaje impresionante. También es el único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis). El parque cubre 4,790 hectáreas y fue establecido por decreto el 27 de noviembre de 1936.",
+    "visitGuide": {
+      "title": "Consejos de visita",
+      "items": [
+        "El parque abre sábados, domingos y días festivos, se recomienda llegar por la mañana",
+        "Entrada 95 MXN por persona, gratis para menores de 12 años",
+        "Usar zapatos cómodos para caminar, la mayoría de las áreas son transitables a pie, también se puede alquilar caballo",
+        "Clima frío en otoño/invierno, templado en primavera/verano, llevar ropa adecuada"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aspectos destacados",
+      "items": [
+        "Siete Lagunas: Zempoala significa 'muchas lagunas' en náhuatl. El parque cuenta con siete lagunas — Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta y Huilapan. Solo tres son permanentes; el resto son intermitentes según las lluvias.",
+        "Especies raras: El único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis), junto con especies endémicas como la cascabel transversa (Crotalus transversus).",
+        "Recarga de acuífero: La principal zona de recarga del acuífero de la microcuenca del río Apatlaco, uno de los pocos cuerpos de agua perennes cerca del área metropolitana de la Ciudad de México.",
+        "Ecoturismo: Actividades incluyen campismo, senderismo, meditación paisajística, fotografía de naturaleza, observación de flora y fauna y pesca deportiva."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta Turística",
+    "overview": "Descubre la ruta ideal para explorar el Parque Nacional Lagunas de Zempoala y experimentar el impresionante paisaje de lagunas y bosques de coníferas.",
+    "steps": [
+      "Sale de la Ciudad de México por la mañana por la Carretera Federal 95 hacia Cuernavaca, unas 2 horas hasta la entrada del parque.",
+      "Al llegar, visita el centro de visitantes para conocer el ecosistema del parque, las siete lagunas y la información de conservación.",
+      "Camina por los senderos interpretativos, disfruta las lagunas y los bosques de coníferas circundantes, y observa la vida silvestre.",
+      "Descansa en los miradores junto a la laguna y contempla el impresionante paisaje. La mayoría de las áreas son transitables a pie, también se puede alquilar caballo."
+    ],
+    "supplementsTitle": "Consejos Adicionales",
+    "supplements": [
+      "El parque está a gran altitud — frío en otoño/invierno, templado en primavera/verano, llevar ropa abrigada.",
+      "El parque solo abre fines de semana y días festivos, planifica tu viaje con anticipación.",
+      "Las instalaciones del parque incluyen baños, miradores, módulos de información y senderos interpretativos.",
+      "Restaurantes económicos y zonas de campamento cerca del parque, se recomienda llevar propia comida y agua."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el encanto de Lagunas de Zempoala",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Significado histórico",
+        "content": "El Parque Nacional Lagunas de Zempoala fue establecido por decreto federal el 27 de noviembre de 1936, uno de los primeros parques nacionales de México. El parque abarca Huitzilac en Morelos y Ocuilan en el Estado de México, con una superficie de 4,790 hectáreas. Protege el importante ecosistema de lagos de agua dulce y bosques de coníferas de la región, siendo un modelo de conservación natural en México."
+      },
+      {
+        "id": "nature",
+        "title": "Paisaje natural",
+        "content": "El parque cuenta con siete lagunas rodeadas de bosques de pino de Montezuma. Tres son lagunas permanentes (Quila, Zempoala, Compila), mientras que las cuatro restantes son intermitentes, dependiendo de las lluvias. Es el único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis), junto con especies endémicas como la cascabel transversa (Crotalus transversus) y la ajolote (Ambystoma altamirani). Otras especies representativas incluyen el gato montés (Lynx rufus), el mapache (Procyon lotor) y el chara (Cyanocitta stelleri)."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de visita",
+        "content": "Visitar el Parque Nacional Lagunas de Zempoala es una experiencia natural inolvidable. Puedes caminar por los senderos interpretativos alrededor de las lagunas, observar aves, acampar o practicar la meditación paisajística junto al lago. El parque también ofrece actividades de educación ambiental y fotografía de naturaleza. La mayoría de las áreas son transitables a pie, pero también se puede alquilar caballo. Las instalaciones incluyen centro de visitantes, miradores, módulos de información, baños, senderos interpretativos y tienda de artesanías."
+      },
+      {
+        "id": "rules",
+        "title": "Reglamento del Parque (ANP)",
+        "content": "1. Sea un visitante responsable y respetuoso con el medio ambiente.\n2. Al ingresar al Parque Nacional Lagunas de Zempoala, siga las instrucciones de los guardaparques.\nProtejamos juntos este precioso patrimonio natural."
+      },
+      {
+        "id": "species",
+        "title": "Flora y Fauna Representativa",
+        "content": "El parque alberga una gran variedad de flora y fauna. Los animales incluyen: gato montés (Lynx rufus), mapache (Procyon lotor), chara (Cyanocitta stelleri), cascabel de montaña (Crotalus triseriatus), ajolote (Ambystoma altamirani), codorniz coluda (Dendrortyx macroura), cascabel transversa (Crotalus transversus) y ocelote (Leopardus pardalis). Las plantas incluyen: pino de Montezuma (Pinus montezumae), zacatón (Muhlenbergia macroura), tule (Typha domingensis) y lobelia (Lobelia cardinalis)."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "Parque Nacional Lagunas de Zempoala",
+    "type": "Tipo de sitio",
+    "typeValue": "Parque Nacional",
+    "country": "País",
+    "countryValue": "México",
+    "city": "Estado",
+    "cityValue": "Ocuilan, Estado de México / Huitzilac, Morelos",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "2MHJ+Q2 Lagunas de Zempoala, Estado de México, México",
+    "plusCode": "Superficie",
+    "plusCodeValue": "4,790 hectáreas"
+  },
+  "hours": {
+    "title": "Horarios",
+    "outdoor": "Área del parque",
+    "outdoorTime": "Sábados, domingos y días festivos 09:00-18:00 (Cerrado Lun-Vie)",
+    "lighthouse": "Información climática",
+    "summer": "Primavera-Verano (Templado)",
+    "summerTime": "Clima templado, ideal para visitas al aire libre",
+    "winter": "Otoño-Invierno (Frío)",
+    "winterTime": "Bajas temperaturas, llevar ropa abrigada",
+    "warning": "Notas importantes",
+    "warningTime": "El parque solo abre fines de semana y días festivos, verifique la información más reciente antes de visitar",
+    "tip": "Llegar por la mañana evita multitudes, disfrutar una experiencia natural más tranquila"
+  },
+  "tickets": {
+    "title": "Entradas",
+    "outdoor": "Entrada al parque",
+    "outdoorPrice": "95 MXN por persona por día",
+    "lighthouse": "Política de descuentos",
+    "adults": "Adultos mayores/Jubilados/Discapacitados/Menores de 12",
+    "adultsPrice": "Gratis (identificación válida requerida)",
+    "students": "Estudiantes y docentes",
+    "studentsPrice": "75% de descuento (identificación válida requerida)",
+    "children": "Ciudadanos mexicanos y residentes extranjeros",
+    "childrenPrice": "50% de descuento (documento oficial válido requerido)",
+    "card": "Actividades en el parque",
+    "cardPrice": "Campismo, senderismo, fotografía de naturaleza, observación de flora y fauna, pesca deportiva, meditación paisajística, educación ambiental"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "airport": "Desde el aeropuerto",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de la Ciudad de México (AICM). Aproximadamente 2 horas en automóvil desde el aeropuerto hasta la entrada del parque.",
+    "selfDrive": "En automóvil",
+    "selfDriveDesc": "Desde la Ciudad de México, tomar la Carretera Federal 95 (carretera México/Cuernavaca), luego desviarse hacia el parque. A unos 20.3 km de Cuernavaca.",
+    "bus": "Transporte público",
+    "busDesc": "Desde la terminal de autobuses Tasqueña en la Ciudad de México, tomar Pullman de Morelos hacia Cuernavaca, luego transporte local hasta el parque.",
+    "intercity": "Dentro del parque",
+    "intercityDesc": "La mayoría de las áreas son transitables a pie, pero también se puede alquilar caballo dentro del parque.",
+    "cycling": "Servicios cercanos",
+    "cyclingDesc": "Bancos, cajeros automáticos, farmacias, hospitales, mercados/supermercados y servicios de transporte disponibles cerca del parque.",
+    "tips": "Consejos de viaje",
+    "tipsDesc": "El Parque Nacional Lagunas de Zempoala es una importante reserva natural de México, a solo 20.3 km de Cuernavaca. Se recomiendan las visitas los fines de semana."
+  },
+  "gallery": {
+    "title": "Fotos impresionantes",
+    "subtitle": "El encanto del Parque Nacional Lagunas de Zempoala",
+    "captions": [
+      "Vista panorámica del parque",
+      "Paisaje de lagunas",
+      "Ecología del bosque de coníferas",
+      "Senderos interpretativos",
+      "Bosque de pino de Montezuma",
+      "Reflejo en la laguna",
+      "Hábitat del ocelote",
+      "Paisaje natural",
+      "Siete lagunas",
+      "Vistas de lagos y montañas",
+      "Belleza natural",
+      "Ruta de senderismo",
+      "Lagunas y bosques",
+      "Conservación natural",
+      "Especies endémicas",
+      "Entrada del parque",
+      "Zona de campamento",
+      "Paisaje natural",
+      "Mirador"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAllPhotos": "Mostrar todas las fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de visitantes",
+    "declaration": "La información de reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "Hace 2 meses",
+        "rating": 5,
+        "text": "Un paraíso natural hermoso. Las lagunas son cristalinas y los bosques de pino y montañas circundantes son impresionantes. Altamente recomendado para todos los amantes de la naturaleza."
+      },
+      {
+        "name": "María García",
+        "date": "Hace 3 semanas",
+        "rating": 5,
+        "text": "Un excelente destino de ecoturismo. Las lagunas y los bosques de coníferas crean un paisaje impresionante. Aire fresco, ambiente tranquilo, escape perfecto de la Ciudad de México."
+      },
+      {
+        "name": "Juan Pérez",
+        "date": "Hace 1 mes",
+        "rating": 4,
+        "text": "Parque nacional muy hermoso. Las siete lagunas tienen cada una su propio encanto, los senderos están bien mantenidos. Se recomienda visitar por la mañana. La entrada de 95 pesos vale la pena."
+      },
+      {
+        "name": "Ana López",
+        "date": "Hace más de 6 meses",
+        "rating": 5,
+        "text": "Una de las reservas naturales más hermosas de México. La combinación de lagunas y bosques de pino es inolvidable. ¡También es el único lugar de Morelos donde se ha registrado el ocelote! Definitivamente vale la pena visitar."
+      },
+      {
+        "name": "Roberto Sánchez",
+        "date": "Hace 2 meses",
+        "rating": 4,
+        "text": "Gran experiencia natural. Las lagunas son muy hermosas, ideales para senderismo y campismo. Clima frío en otoño/invierno, recordar llevar ropa abrigada. El alquiler de caballos está disponible y es divertido."
+      },
+      {
+        "name": "Sofía Torres",
+        "date": "Hace 1 mes",
+        "rating": 5,
+        "text": "Hermoso parque nacional, lleno de encanto natural. Zempoala significa 'muchas lagunas' en náhuatl, y cada una de las siete lagunas tiene su propia belleza. Inolvidable."
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "Hace 3 meses",
+        "rating": 4,
+        "text": "Interesante reserva natural. Experimenta la belleza de la naturaleza de cerca, los senderos interpretativos son educativos. Se recomienda llevar propia comida y agua, instalaciones limitadas en el parque."
+      },
+      {
+        "name": "Laura Patricia",
+        "date": "Hace 2 semanas",
+        "rating": 5,
+        "text": "Gema natural. Lagunas de Zempoala es uno de los paraísos naturales más cercanos a la Ciudad de México. El paisaje de lagunas y bosques de pino es incomparable. Una visita obligada."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y mapa",
+    "subtitle": "2MHJ+Q2 Lagunas de Zempoala, Estado de México, México (20.3 km de Cuernavaca)",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Parque Nacional Lagunas de Zempoala. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos oficiales",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Consejo Nacional de Turismo de México",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretaría de Turismo del Gobierno de México",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "culturaedomex": {
+        "name": "Secretaría de Cultura y Turismo del Estado de México",
+        "url": "https://cultura.edomex.gob.mx/"
+      },
+      "visitmexicomorelos": {
+        "name": "Turismo del Estado de Morelos",
+        "url": "https://visitmexico.com/es/estado/17/morelos"
+      },
+      "conanp": {
+        "name": "Comisión Nacional de Áreas Naturales Protegidas - Archivo exclusivo Lagunas de Zempoala",
+        "url": "https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97"
+      },
+      "inah": {
+        "name": "Base de Datos de Patrimonio Nacional y Monumentos Históricos",
+        "url": "https://lugares.inah.gob.mx/es"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: junio 2026",
+    "sections": [
+      {
+        "heading": "1. Información que recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo utilizamos su información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a consultas y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros, como Google Maps (para mapas integrados y datos de ubicación) y Google Analytics (para análisis de tráfico). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus derechos",
+        "content": "De acuerdo con el Reglamento General de Protección de Datos (GDPR) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al procesamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de servicio",
+    "lastUpdated": "Última actualización: junio 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Precisión de la información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o precisión. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de responsabilidad",
+        "content": "Este sitio web se proporciona 'tal cual' sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo pero no limitado a decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Última actualización: junio 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies analíticas",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuración del sitio web."
+        }
+      ],
+      "title": "Cookies de preferencias",
+      "description": "Recuerdan sus configuraciones, como preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión de consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que desactivar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar todo"
+  },
+  "officialManagement": {
+    "title": "Acerca del Parque Nacional Lagunas de Zempoala",
+    "text": "El Parque Nacional Lagunas de Zempoala se encuentra en la frontera entre el Estado de México y Morelos, establecido por decreto el 27 de noviembre de 1936, con una superficie de 4,790 hectáreas. Es la principal zona de recarga del acuífero de la microcuenca del río Apatlaco y uno de los pocos cuerpos de agua perennes cerca del área metropolitana de la Ciudad de México. Zempoala significa 'muchas lagunas' en náhuatl, y el parque cuenta con siete lagunas. También es el único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis)."
+  },
+  "historyTimeline": {
+    "title": "Línea de Tiempo Histórica y Natural",
+    "items": [
+      {
+        "year": "Náhuatl",
+        "title": "Origen del nombre: El significado de Zempoala",
+        "plaque": "Nombres de las Siete Lagunas",
+        "description": "Zempoala significa 'muchas lagunas' en náhuatl, ya que el parque cuenta con siete lagunas: Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta y Huilapan. Solo tres son lagunas permanentes; el resto son intermitentes, cuya aparición y formación de grandes cuerpos de agua dependen de las lluvias."
+      },
+      {
+        "year": "1936",
+        "title": "27 de noviembre de 1936: Decreto del Parque Nacional",
+        "plaque": "Establecimiento por decreto federal",
+        "description": "El Parque Nacional Lagunas de Zempoala fue establecido oficialmente por decreto federal el 27 de noviembre de 1936, convirtiéndose en uno de los primeros parques nacionales de México. El parque abarca Ocuilan en el Estado de México y Huitzilac en Morelos, con 4,790 hectáreas, con el objetivo de proteger este importante ecosistema de lagos de agua dulce y bosques de coníferas."
+      },
+      {
+        "year": "Ecología",
+        "title": "Ecosistema único: Zona de recarga de acuífero",
+        "plaque": "Microcuenca del río Apatlaco",
+        "description": "El parque es la principal zona de recarga del acuífero de la microcuenca del río Apatlaco, uno de los pocos cuerpos de agua perennes cerca del área metropolitana de la Ciudad de México. Bosques densos, fácil acceso y otras tres áreas naturales protegidas en la región lo convierten en un hábitat importante para numerosas especies endémicas, como la cascabel transversa (Crotalus transversus)."
+      },
+      {
+        "year": "Raro",
+        "title": "Especies raras: Hogar del ocelote",
+        "plaque": "Leopardus pardalis",
+        "description": "Este es el único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis). Otras especies representativas incluyen el gato montés (Lynx rufus), el mapache (Procyon lotor), el chara (Cyanocitta stelleri), la cascabel del Volcán Transversal (Crotalus triseriatus), el ajolote (Ambystoma altamirani) y la codorniz colilarga (Dendrortyx macroura)."
+      },
+      {
+        "year": "Hoy",
+        "title": "Hoy: Ecoturismo y conservación natural",
+        "plaque": "Directrices para visitantes",
+        "description": "Hoy, el Parque Nacional Lagunas de Zempoala es un importante destino de ecoturismo en México. Los visitantes pueden disfrutar de campismo, senderismo, meditación paisajística, educación ambiental, fotografía de naturaleza, observación de flora y fauna y pesca deportiva. Las instalaciones incluyen centro de visitantes, miradores, módulos de información, baños, senderos interpretativos y tienda de artesanías. Sea un visitante responsable y ecológico, y siga las instrucciones de los guardabosques del parque."
+      }
+    ],
+    "guideTitle": "Consejo para Visitantes",
+    "guideContent": "Al visitar, comience en el **Centro de Visitantes** para conocer el ecosistema del parque y las siete lagunas; luego camine por los **Senderos Interpretativos** para disfrutar del impresionante paisaje de lagunas y bosques de coníferas; descanse en los **Miradores** para observar la vida silvestre; y finalmente visite la **Tienda de Artesanías** para souvenirs. Sea un visitante responsable y ecológico, y siga las instrucciones de los guardabosques del parque."
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "title": "Lagunas de Zempoala National Park | State of Mexico",
+    "description": "Explore Lagunas de Zempoala National Park in State of Mexico, Mexico. Discover seven lagoons, pine forests and rich biodiversity in this beautiful national park."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Lagunas de Zempoala National Park",
+    "subtitle": "State of Mexico · Morelos · Mexico",
+    "rating": "4.5",
+    "reviewCount": "5,416",
+    "hours": "Sat-Sun & Holidays 09:00-18:00",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Lagunas de Zempoala National Park",
+    "description": "Lagunas de Zempoala National Park is located on the border between State of Mexico and Morelos, not far from Mexico City. It is the main recharge area of the Apatlaco River micro-basin aquifer. The lagoons and coniferous forests create breathtaking scenery. It is also the only place in Morelos where the ocelot (Leopardus pardalis) has been recorded. The park covers 4,790 hectares and was established by decree on November 27, 1936.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Park open Saturday, Sunday and public holidays, morning arrival recommended",
+        "Entrance fee 95 MXN per person, free for children under 12",
+        "Wear comfortable walking shoes, most areas are walkable, horse rental available",
+        "Cold climate in fall/winter, mild in spring/summer, bring appropriate clothing"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Seven Lagoons: Zempoala means 'many lagoons' in Nahuatl. The park features seven lagoons — Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta and Huilapan. Only three are permanent; the rest are intermittent depending on rainfall.",
+        "Rare Species: The only place in Morelos where the ocelot (Leopardus pardalis) has been recorded, along with endemic species like the cross-banded rattlesnake (Crotalus transversus).",
+        "Aquifer Recharge: The main recharge area of the Apatlaco River micro-basin aquifer, one of the few perennial water bodies near the Mexico City metropolitan area.",
+        "Ecotourism: Activities include camping, hiking, landscape meditation, nature photography, wildlife observation and sport fishing."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "Discover the ideal route to explore Lagunas de Zempoala National Park and experience the breathtaking scenery of lagoons and coniferous forests.",
+    "steps": [
+      "Depart from Mexico City in the morning via Federal Highway 95 toward Cuernavaca, about 2 hours to the park entrance.",
+      "Upon arrival, visit the visitor center to learn about the park's ecosystem, seven lagoons and conservation information.",
+      "Hike along the interpretive trails, enjoy the lagoons and surrounding coniferous forests, and observe wildlife.",
+      "Rest at the viewpoints by the lake and take in the breathtaking scenery of lagoons and forests. Most areas are walkable, horse rental is also available."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Park is at high altitude — cold in fall/winter, mild in spring/summer, bring warm clothes.",
+      "Park only open on weekends and public holidays, please plan your trip in advance.",
+      "Park facilities include restrooms, viewpoints, information modules and interpretive trails.",
+      "Budget-friendly restaurants and camping areas near the park, recommend bringing your own food and water."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Lagunas de Zempoala",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Lagunas de Zempoala National Park was established by federal decree on November 27, 1936, one of the earliest national parks in Mexico. The park spans Huitzilac in Morelos and Ocuilan in State of Mexico, covering 4,790 hectares. It protects the region's important freshwater lake ecosystem and coniferous forests, a model for natural conservation in Mexico."
+      },
+      {
+        "id": "nature",
+        "title": "Natural Landscape",
+        "content": "The park features seven lagoons surrounded by Montezuma pine forests. Three are perennial lagoons (Quila, Zempoala, Compila), while the remaining four are intermittent, depending on rainfall. It is the only place in Morelos where the ocelot (Leopardus pardalis) has been recorded, along with endemic species such as the cross-banded rattlesnake (Crotalus transversus) and the Mexican salamander (Ambystoma altamirani). Other representative species include bobcat (Lynx rufus), raccoon (Procyon lotor), and Steller's jay (Cyanocitta stelleri)."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Visiting Lagunas de Zempoala National Park is an unforgettable natural experience. You can hike the interpretive trails around the lagoons, go bird watching, camp, or practice landscape meditation by the lake. The park also offers environmental education activities and nature photography opportunities. Most areas are walkable, but horse rental is available. Park facilities include a visitor center, viewpoints, information modules, restrooms, interpretive trails and a craft shop."
+      },
+      {
+        "id": "rules",
+        "title": "Park Rules (ANP)",
+        "content": "1. Be a responsible and environmentally friendly visitor.\n2. Upon entering Lagunas de Zempoala National Park, follow the instructions of the park rangers.\nLet's protect this precious natural heritage together."
+      },
+      {
+        "id": "species",
+        "title": "Representative Flora and Fauna",
+        "content": "The park is home to a wide variety of flora and fauna. Animals include: bobcat (Lynx rufus), raccoon (Procyon lotor), Steller's jay (Cyanocitta stelleri), Trans-Volcanic rattlesnake (Crotalus triseriatus), Altamira's axolotl (Ambystoma altamirani), long-tailed wood-partridge (Dendrortyx macroura), cross-banded mountain rattlesnake (Crotalus transversus), and ocelot (Leopardus pardalis). Plants include: Montezuma pine (Pinus montezumae), large-leaf aster (Muhlenbergia macroura), southern cattail (Typha domingensis), and cardinal flower (Lobelia cardinalis)."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Lagunas de Zempoala National Park",
+    "type": "Site Type",
+    "typeValue": "National Park",
+    "country": "Country",
+    "countryValue": "Mexico",
+    "city": "State/Province",
+    "cityValue": "Ocuilan, State of Mexico / Huitzilac, Morelos",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "2MHJ+Q2 Lagunas de Zempoala, State of Mexico, Mexico",
+    "plusCode": "Area",
+    "plusCodeValue": "4,790 hectares"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Area",
+    "outdoorTime": "Saturday, Sunday & Public Holidays 09:00-18:00 (Closed Mon-Fri)",
+    "lighthouse": "Climate Info",
+    "summer": "Spring-Summer (Mild)",
+    "summerTime": "Mild climate, ideal for outdoor visits",
+    "winter": "Fall-Winter (Cold)",
+    "winterTime": "Low temperatures, bring warm clothing",
+    "warning": "Important Notes",
+    "warningTime": "Park only open on weekends and public holidays, verify latest information before visiting",
+    "tip": "Morning arrival avoids crowds, enjoy a more peaceful natural experience"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Park Entrance",
+    "outdoorPrice": "95 MXN per person per day",
+    "lighthouse": "Discount Policy",
+    "adults": "Seniors/Retirees/Disabled/Children under 12",
+    "adultsPrice": "Free (valid ID required)",
+    "students": "Students and Teachers",
+    "studentsPrice": "75% discount (valid ID required)",
+    "children": "Mexican Citizens and Foreign Residents",
+    "childrenPrice": "50% discount (valid official document required)",
+    "card": "Park Activities",
+    "cardPrice": "Camping, hiking, nature photography, wildlife observation, sport fishing, landscape meditation, environmental education"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest airport: Mexico City International Airport (AICM). About 2 hours drive from the airport to the park entrance.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Mexico City, take Federal Highway 95 (Mexico/Cuernavaca highway), then turn onto the access road to the park. About 20.3 km from Cuernavaca.",
+    "bus": "Public Transport",
+    "busDesc": "From Mexico City's Tasqueña bus terminal, take Pullman de Morelos to Cuernavaca, then transfer to local transport to the park.",
+    "intercity": "Within the Park",
+    "intercityDesc": "Most areas are walkable, but horse rental is available inside the park.",
+    "cycling": "Nearby Services",
+    "cyclingDesc": "Banks, ATMs, pharmacies, hospitals, markets/supermarkets and transport services available near the park.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Lagunas de Zempoala National Park is an important natural reserve in Mexico, only 20.3 km from Cuernavaca. Weekend visits recommended."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Lagunas de Zempoala National Park",
+    "captions": [
+      "Park panoramic view",
+      "Lagoon scenery",
+      "Coniferous forest ecology",
+      "Interpretive trails",
+      "Montezuma pine forest",
+      "Lagoon reflection",
+      "Ocelot habitat",
+      "Natural landscape",
+      "Seven lagoons",
+      "Lake and mountain views",
+      "Natural beauty",
+      "Hiking path",
+      "Lagoons and forests",
+      "Nature conservation",
+      "Endemic species",
+      "Park entrance",
+      "Camping area",
+      "Natural scenery",
+      "Viewpoint"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A beautiful natural paradise. The lagoons are crystal clear, and the surrounding pine forests and mountain views are breathtaking. Highly recommended for all nature lovers."
+      },
+      {
+        "name": "María García",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "An excellent ecotourism destination. The lagoons and coniferous forests create a stunning landscape. Fresh air, peaceful environment, perfect getaway from Mexico City."
+      },
+      {
+        "name": "Juan Pérez",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Very beautiful national park. The seven lagoons each have their own character, hiking trails are well maintained. Morning visits recommended. The 95 peso entrance fee is well worth it."
+      },
+      {
+        "name": "Ana López",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "One of the most beautiful natural reserves in Mexico. The combination of lagoons and pine forests is unforgettable. It's also the only place in Morelos where the ocelot has been recorded! Definitely worth a visit."
+      },
+      {
+        "name": "Roberto Sánchez",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Great nature experience. The lagoons are very beautiful, suitable for hiking and camping. Cold climate in fall/winter, remember to bring warm clothes. Horse rental is available and fun."
+      },
+      {
+        "name": "Sofía Torres",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Beautiful national park, full of natural charm. Zempoala means 'many lagoons' in Nahuatl, and each of the seven lagoons has its own beauty. Unforgettable."
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Interesting natural reserve. Experience the beauty of nature up close, the interpretive trails are educational. Recommend bringing your own food and water, limited facilities in the park."
+      },
+      {
+        "name": "Laura Patricia",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Natural gem. Lagunas de Zempoala is one of the closest natural paradises to Mexico City. The scenery of lagoons and pine forests is unparalleled. A must-visit."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "2MHJ+Q2 Lagunas de Zempoala, State of Mexico, Mexico (20.3 km from Cuernavaca)",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Lagunas de Zempoala National Park. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Mexico National Tourism Board",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretary of Tourism of Mexico",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "culturaedomex": {
+        "name": "State of Mexico Ministry of Culture and Tourism",
+        "url": "https://cultura.edomex.gob.mx/"
+      },
+      "visitmexicomorelos": {
+        "name": "Morelos State Tourism",
+        "url": "https://visitmexico.com/es/estado/17/morelos"
+      },
+      "conanp": {
+        "name": "National Commission of Natural Protected Areas - Zempoala Lagoons Archive",
+        "url": "https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97"
+      },
+      "inah": {
+        "name": "National Heritage and Historic Monuments Database",
+        "url": "https://lugares.inah.gob.mx/es"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data) and Google Analytics (for traffic analysis). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Lagunas de Zempoala National Park",
+    "text": "Lagunas de Zempoala National Park is located on the border between State of Mexico and Morelos, established by decree on November 27, 1936, covering 4,790 hectares. It is the main recharge area of the Apatlaco River micro-basin aquifer and one of the few perennial water bodies near the Mexico City metropolitan area. Zempoala means 'many lagoons' in Nahuatl, and the park features seven lagoons. It is also the only place in Morelos where the ocelot (Leopardus pardalis) has been recorded."
+  },
+  "historyTimeline": {
+    "title": "History and Nature Timeline",
+    "items": [
+      {
+        "year": "Nahuatl",
+        "title": "Name Origin: The Meaning of Zempoala",
+        "plaque": "Names of the Seven Lagoons",
+        "description": "Zempoala means 'many lagoons' in Nahuatl, as the park features seven lagoons: Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta, and Huilapan. Only three are perennial lagoons; the rest are intermittent, their appearance and formation of large water bodies depending on rainfall."
+      },
+      {
+        "year": "1936",
+        "title": "November 27, 1936: National Park Decree",
+        "plaque": "Federal Decree Establishment",
+        "description": "Lagunas de Zempoala National Park was officially established by federal decree on November 27, 1936, becoming one of the earliest national parks in Mexico. The park spans Ocuilan in State of Mexico and Huitzilac in Morelos, covering 4,790 hectares, aimed at protecting this important freshwater lake ecosystem and coniferous forests."
+      },
+      {
+        "year": "Ecology",
+        "title": "Unique Ecosystem: Aquifer Recharge Area",
+        "plaque": "Apatlaco River Micro-basin",
+        "description": "The park is the main recharge area of the Apatlaco River micro-basin aquifer, one of the few perennial water bodies near the Mexico City metropolitan area. Dense forests, easy access, and three other natural protected areas in the region make it an important habitat for numerous endemic species, such as the cross-banded rattlesnake (Crotalus transversus)."
+      },
+      {
+        "year": "Rare",
+        "title": "Rare Species: Home of the Ocelot",
+        "plaque": "Leopardus pardalis",
+        "description": "This is the only place in Morelos where the ocelot (Leopardus pardalis) has been recorded. Other representative species include bobcat (Lynx rufus), raccoon (Procyon lotor), Steller's jay (Cyanocitta stelleri), Transverse Volcano rattlesnake (Crotalus triseriatus), Mexican salamander (Ambystoma altamirani), and Long-tailed Wood-partridge (Dendrortyx macroura)."
+      },
+      {
+        "year": "Today",
+        "title": "Today: Ecotourism and Nature Conservation",
+        "plaque": "Visitor Guidelines",
+        "description": "Today, Lagunas de Zempoala National Park is an important ecotourism destination in Mexico. Visitors can enjoy camping, hiking, landscape meditation, environmental education, nature photography, wildlife observation and sport fishing. Park facilities include a visitor center, viewpoints, information modules, restrooms, interpretive trails and a craft shop. Please be a responsible and eco-friendly visitor, and follow the park rangers' instructions."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, start at the **Visitor Center** to learn about the park's ecosystem and seven lagoons; then hike the **Interpretive Trails** to enjoy the breathtaking scenery of lagoons and coniferous forests; rest at the **Viewpoints** to observe wildlife; and finally visit the **Craft Shop** for souvenirs. Please be a responsible and eco-friendly visitor, and follow the park rangers' instructions."
+  }
+}
