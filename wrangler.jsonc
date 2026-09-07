@@ -8,9 +8,6 @@
     "directory": ".open-next/assets",
     "binding": "ASSETS"
   },
-  "routes": [
-    { "pattern": "www.zempoalanationalpark.com", "custom_domain": true }
-  ],
   "vars": {
     "CURRENT_SITE_DOMAIN": "www.zempoalanationalpark.com"
   },
