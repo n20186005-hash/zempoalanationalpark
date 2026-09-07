@@ -4,25 +4,25 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photoFiles = [
-  'lagunas-de-zempoala-national-park (1).jpg',
-  'lagunas-de-zempoala-national-park (2).jpg',
-  'lagunas-de-zempoala-national-park (3).jpg',
-  'lagunas-de-zempoala-national-park (4).jpg',
-  'lagunas-de-zempoala-national-park (5).jpg',
-  'lagunas-de-zempoala-national-park (6).jpg',
-  'lagunas-de-zempoala-national-park (7).jpg',
-  'lagunas-de-zempoala-national-park (8).jpg',
-  'lagunas-de-zempoala-national-park (9).jpg',
-  'lagunas-de-zempoala-national-park (10).jpg',
-  'lagunas-de-zempoala-national-park (11).jpg',
-  'lagunas-de-zempoala-national-park (12).jpg',
-  'lagunas-de-zempoala-national-park (13).jpg',
-  'lagunas-de-zempoala-national-park (14).jpg',
-  'lagunas-de-zempoala-national-park (15).jpg',
-  'lagunas-de-zempoala-national-park (16).jpg',
-  'lagunas-de-zempoala-national-park (17).jpg',
-  'lagunas-de-zempoala-national-park (18).jpg',
-  'lagunas-de-zempoala-national-park (19).jpg',
+  'lagunas-zempoala-park-scene-1.jpg',
+  'lagunas-zempoala-park-scene-2.jpg',
+  'lagunas-zempoala-park-scene-3.jpg',
+  'lagunas-zempoala-park-scene-4.jpg',
+  'lagunas-zempoala-park-scene-5.jpg',
+  'lagunas-zempoala-park-scene-6.jpg',
+  'lagunas-zempoala-park-scene-7.jpg',
+  'lagunas-zempoala-park-scene-8.jpg',
+  'lagunas-zempoala-park-scene-9.jpg',
+  'lagunas-zempoala-park-scene-10.jpg',
+  'lagunas-zempoala-park-scene-11.jpg',
+  'lagunas-zempoala-park-scene-12.jpg',
+  'lagunas-zempoala-park-scene-13.jpg',
+  'lagunas-zempoala-park-scene-14.jpg',
+  'lagunas-zempoala-park-scene-15.jpg',
+  'lagunas-zempoala-park-scene-16.jpg',
+  'lagunas-zempoala-park-scene-17.jpg',
+  'lagunas-zempoala-park-scene-18.jpg',
+  'lagunas-zempoala-park-scene-19.jpg',
 ];
 
 export default function Gallery() {
@@ -33,7 +33,9 @@ export default function Gallery() {
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Lagunas de Zempoala ${i + 1}`,
+    alt: captions?.[i]
+      ? `${captions[i]} - Lagunas de Zempoala National Park, Ocuilan`
+      : `Lagunas de Zempoala National Park ${i + 1}`,
   }));
 
   const visiblePhotos = photos;

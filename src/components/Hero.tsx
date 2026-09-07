@@ -8,9 +8,11 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/lagunas-de-zempoala-national-park (1).jpg"
-          alt="Lagunas de Zempoala National Park"
+          src="/gallery/lagunas-zempoala-park-scene-1.jpg"
+          alt="Lagunas de Zempoala National Park - Main view in Ocuilan, Mexico"
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

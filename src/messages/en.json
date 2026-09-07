@@ -1,7 +1,14 @@
 {
+  "notFound": {
+    "title": "Page not found",
+    "text": "The content you are looking for does not exist or has been moved.",
+    "home": "Back to home"
+  },
   "meta": {
-    "title": "Lagunas de Zempoala National Park | State of Mexico",
-    "description": "Explore Lagunas de Zempoala National Park in State of Mexico, Mexico. Discover seven lagoons, pine forests and rich biodiversity in this beautiful national park."
+    "title": "Lagunas de Zempoala National Park | Hours, Fees & Directions",
+    "description": "Lagunas de Zempoala National Park guide: opening hours, entrance fees, directions from CDMX & Cuernavaca, weather forecast and what to see. Rated 4.5★ (5,444 Google reviews).",
+    "ogTitle": "Lagunas de Zempoala National Park - Ocuilan Travel Guide",
+    "ogImageAlt": "Lagunas de Zempoala National Park in Ocuilan"
   },
   "header": {
     "home": "Home",
@@ -14,7 +21,7 @@
     "title": "Lagunas de Zempoala National Park",
     "subtitle": "State of Mexico · Morelos · Mexico",
     "rating": "4.5",
-    "reviewCount": "5,416",
+    "reviewCount": "5,444",
     "hours": "Sat-Sun & Holidays 09:00-18:00",
     "openMaps": "View Location"
   },
@@ -264,7 +271,8 @@
         "url": "https://lugares.inah.gob.mx/es"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "photoRights": "All photos displayed on this website are the property and copyright of their respective photographers."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -400,5 +408,492 @@
     ],
     "guideTitle": "Visitor Guide Tip",
     "guideContent": "When visiting, start at the **Visitor Center** to learn about the park's ecosystem and seven lagoons; then hike the **Interpretive Trails** to enjoy the breathtaking scenery of lagoons and coniferous forests; rest at the **Viewpoints** to observe wildlife; and finally visit the **Craft Shop** for souvenirs. Please be a responsible and eco-friendly visitor, and follow the park rangers' instructions."
+  },
+  "seoOverview": {
+    "welcome": "Welcome to **Lagunas de Zempoala National Park**, widely recognized as **Zempoala National Park**. Located in **Ocuilan**, **State of Mexico**, **Mexico** - on the border with **Morelos** - this national park is a primary hub for travelers exploring the lagoons, pine forests and rare wildlife of the region.",
+    "breadcrumbTitle": "Geographic Location",
+    "breadcrumb": [
+      "Lagunas de Zempoala National Park",
+      "Ocuilan",
+      "State of Mexico",
+      "Mexico"
+    ],
+    "cardsTitle": "Quick Guide",
+    "cards": [
+      {
+        "id": "about",
+        "heading": "About Lagunas de Zempoala National Park",
+        "text": "Established in 1936, the park protects seven highland lagoons - Zempoala, Quila, Compila, Tonatiwha, Seca, Prieta and Huilapan - surrounded by Montezuma pine forests, and is one of the few places in Mexico where the rare axolotl and the ocelot can be found."
+      },
+      {
+        "id": "location",
+        "heading": "Location & How to Visit Zempoala National Park in Ocuilan",
+        "text": "Lagunas de Zempoala National Park is easy to visit from Mexico City via Federal Highway 95, about 20.3 km from Cuernavaca. The park opens Saturday, Sunday and public holidays from 09:00 to 18:00; plan your trip with the interactive map below."
+      },
+      {
+        "id": "landmarks",
+        "heading": "Landmarks & Attractions Around Zempoala National Park",
+        "text": "When visiting **Lagunas de Zempoala National Park**, travelers can easily explore surrounding landmarks and points of interest, including **Cuernavaca**, with its historic center and cathedral, and the **pueblo mágico** of **Tepoztlán**, home to the Tepozteco pyramid. The **Pico del Águila** viewpoint lies along the same highway."
+      },
+      {
+        "id": "history",
+        "heading": "History & Significance of Lagunas de Zempoala National Park",
+        "text": "Created by federal decree on 27 November 1936, the park covers 4,790 hectares between Ocuilan (State of Mexico) and Huitzilac (Morelos). It is the main recharge area of the Apatlaco River micro-basin aquifer and one of the few perennial water bodies near the Mexico City metropolitan area."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions about Lagunas de Zempoala National Park",
+    "subtitle": "Everything you need to know before visiting Zempoala National Park in Ocuilan, State of Mexico.",
+    "items": [
+      {
+        "q": "Where is Lagunas de Zempoala National Park located?",
+        "a": "Lagunas de Zempoala National Park is located in Ocuilan, State of Mexico, Mexico, on the border with Morelos - about 20.3 km from Cuernavaca and a two-hour drive from Mexico City."
+      },
+      {
+        "q": "Is Zempoala National Park free to visit?",
+        "a": "No. Lagunas de Zempoala National Park charges an entrance fee of 95 MXN per person per day. Children under 12, seniors, retirees and visitors with disabilities enter free with valid ID, while students and teachers receive a 75% discount."
+      },
+      {
+        "q": "When is Lagunas de Zempoala National Park open?",
+        "a": "Zempoala National Park is open on Saturday, Sunday and public holidays from 09:00 to 18:00, and is closed from Monday to Friday."
+      },
+      {
+        "q": "What can you do at Lagunas de Zempoala National Park?",
+        "a": "Visitors can enjoy camping, hiking, birdwatching, nature photography, sport fishing, landscape meditation and environmental education among the seven lagoons of the park in Ocuilan, State of Mexico."
+      },
+      {
+        "q": "Which wildlife can you see at Lagunas de Zempoala National Park?",
+        "a": "The park is home to rare species such as the ocelot (Leopardus pardalis), the cross-banded rattlesnake (Crotalus transversus) and the Mexican axolotl (Ambystoma altamirani), together with Montezuma pine forests."
+      },
+      {
+        "q": "How do you get to Lagunas de Zempoala National Park from Mexico City?",
+        "a": "Drive along Federal Highway 95 (Mexico-Cuernavaca) and follow the signed access road to the park, roughly two hours from Mexico City and 20.3 km from Cuernavaca."
+      },
+      {
+        "q": "What attractions are near Lagunas de Zempoala National Park?",
+        "a": "Nearby landmarks include Cuernavaca with its cathedral and historic center, Tepoztlán with the Tepozteco pyramid, and the Pico del Águila viewpoint."
+      }
+    ]
+  },
+  "sourcesSection": {
+    "title": "Sources & Official Information",
+    "intro": "This visitor guide was compiled from official and authoritative sources to keep the information accurate and up to date.",
+    "portalPrefix": "For official updates and regional tourism information, visit",
+    "portalLabel": "Mexico / State of Mexico Official Tourism Portal",
+    "portalUrl": "https://cultura.edomex.gob.mx/",
+    "items": [
+      {
+        "name": "National Commission of Natural Protected Areas (CONANP) - Lagunas de Zempoala",
+        "url": "https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97"
+      },
+      {
+        "name": "Secretariat of Tourism of the Government of Mexico (SECTUR)",
+        "url": "https://www.gob.mx/sectur"
+      },
+      {
+        "name": "State of Mexico Ministry of Culture and Tourism",
+        "url": "https://cultura.edomex.gob.mx/"
+      },
+      {
+        "name": "Visit Mexico - National Tourism Board",
+        "url": "https://visitmexico.com/"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather & 7-Day Forecast",
+    "subtitle": "Live conditions for the lagoon zone at about 2,800 m above sea level. Mountain weather can change within an hour - check before you set off.",
+    "updated": "Updated",
+    "now": "Now",
+    "today": "Today",
+    "week": "Next 7 Days",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipNow": "Precipitation",
+    "maxTemp": "Max",
+    "minTemp": "Min",
+    "precipChance": "Precip. chance",
+    "uvLabel": "UV index",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "tip": "Open days are weekends and public holidays (09:00-18:00). Cold mornings and sudden rain are common; bring layers and a light rain jacket.",
+    "unavailable": "Live forecast is temporarily unavailable. Please refresh the page later.",
+    "conditions": {
+      "clear": "Clear sky",
+      "partlyCloudy": "Partly cloudy",
+      "cloudy": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Light rain",
+      "rain": "Rain",
+      "showers": "Showers",
+      "snow": "Snow",
+      "thunderstorm": "Thunderstorm",
+      "thunderstormHail": "Thunderstorm with hail"
+    },
+    "adviceTitle": "Tips for Today",
+    "groupClothing": "Clothing & Layers",
+    "groupActivity": "Plan Your Visit",
+    "groupItems": "Pack List",
+    "riskTitle": "Risks & Alerts",
+    "fallbackNone": "No special conditions today. At 2,800 m the weather can change within an hour - check the forecast before heading up.",
+    "aSunny": "Clear sky: start early for calm lagoon water and the best photo light.",
+    "aCloudy": "Overcast: soft light for photos and comfortable long walks without direct sun.",
+    "aFog": "Fog is possible: viewpoints may be clouded in; it usually lifts around midday.",
+    "aRainPlan": "High rain chance later: do the trails in the morning and keep a plan B under the picnic ramadas.",
+    "aRainNow": "It's raining now: trails are slippery; stick to the main paths and the lagoon shore.",
+    "aHotDay": "Warm day: avoid 12:00-16:00 sun, hike in forest shade and take breaks.",
+    "aWindNote": "Noticeable wind by the lagoons and ridges: viewpoints feel colder - keep your hat secure.",
+    "cLayers": "Big temperature swing: dress in layers and shed one at midday.",
+    "cCold": "Cold day (mornings below 10 °C): warm jacket, beanie and light gloves.",
+    "cHot": "Warm at 2,800 m: light breathable clothes plus a loose long sleeve for sun cover.",
+    "cRainGear": "Light waterproof jacket and grip footwear - trails wet up fast.",
+    "cWindBreak": "Light windbreaker: open areas feel several degrees colder in the wind.",
+    "iPoncho": "Compact poncho or rain jacket plus a cover for your backpack.",
+    "iSunscreen": "Strong high-altitude sun: SPF50+ sunscreen, sunglasses and a hat.",
+    "iWater": "Water (1 L per person) - dehydration creeps up on you at altitude.",
+    "iExtraLayer": "One extra warm layer in the pack for cold mornings.",
+    "iPoles": "If it's muddy, light trekking poles help on the way down to the lagoons.",
+    "riskStorm": "Thunderstorm: leave open ridges, lagoon shores and lone trees - consider postponing the hike.",
+    "riskHeavyRain": "Heavy rain: avoid ravines and low ground - trails can briefly turn into streams.",
+    "riskWind": "Strong gusty wind: use caution on exposed ridges and open trails.",
+    "riskIce": "Possible ice on shaded trails: wear grippy footwear and walk slowly."
+  },
+  "seasonalGuide": {
+    "title": "Seasonal Visiting Strategy",
+    "subtitle": "A practical table based on the region's long-term climate, hydrology and wildlife patterns. Weather varies from day to day - always confirm with the live forecast before travelling.",
+    "columns": {
+      "season": "Season & Period",
+      "weather": "Typical Weather",
+      "water": "Lagoons & Water",
+      "wildlife": "Wildlife Watching",
+      "tips": "Gear & Planning"
+    },
+    "rows": [
+      {
+        "id": "decFeb",
+        "period": "Dec - Feb",
+        "season": "Dry & cool",
+        "weather": "Clear, dry days with very cold mornings and nights; night frost possible.",
+        "water": "Permanent lagoons remain at a stable, lower level; seasonal lagoons are mostly dry or very shallow.",
+        "wildlife": "Birds gather at the water at sunrise; footprints of mammals can be found along the shores.",
+        "tips": "Best for crisp photo light. Bring layers, gloves and sun protection; arrive by late morning for the warmest hours."
+      },
+      {
+        "id": "marMay",
+        "period": "Mar - May",
+        "season": "Dry & warmer",
+        "weather": "Warmest and driest months; strong sun and a higher fire risk in the pine forest.",
+        "water": "Water levels keep receding; some seasonal basins can dry out completely by late May.",
+        "wildlife": "Best in the early morning and late afternoon; reptiles bask in the sun and bird song increases.",
+        "tips": "Start very early and carry extra drinking water. Strictly respect fire rules and stay on marked trails."
+      },
+      {
+        "id": "junAug",
+        "period": "Jun - Aug",
+        "season": "Rainy-season peak",
+        "weather": "Mild days with frequent afternoon showers or thunderstorms and sudden temperature drops.",
+        "water": "The lagoons refill and look their fullest; seasonal lagoons reappear.",
+        "wildlife": "Amphibians such as salamanders become active and breed - look, but never touch or disturb them.",
+        "tips": "Waterproof shoes, a rain jacket and quick-dry clothes. Trails can be slippery; allow extra time."
+      },
+      {
+        "id": "sepNov",
+        "period": "Sep - Nov",
+        "season": "Rainy-season tail",
+        "weather": "Rain gradually eases; crisp, clear mornings with occasional drizzle.",
+        "water": "Full water levels early in the season, then slowly stabilising.",
+        "wildlife": "Migration season - excellent for birdwatching; wildlife remains active before winter.",
+        "tips": "Fewer visitors and beautiful light for photography. Mornings are cool - carry a light jacket."
+      }
+    ]
+  },
+  "routePlans": {
+    "title": "Routes by Travel Group",
+    "subtitle": "Three field-tested ways to enjoy the park, matched to who is travelling and at what pace. All routes can be shortened or lengthened on the day.",
+    "routeLabel": "Suggested route",
+    "tipsLabel": "Good to know",
+    "cards": [
+      {
+        "id": "family",
+        "title": "Families with Children",
+        "tag": "Slow pace, frequent breaks",
+        "duration": "Half day recommended",
+        "route": [
+          "Visitor centre first: map, restrooms and the latest ranger notices.",
+          "Short interpretive walk along the Zempoala lagoon shore.",
+          "Picnic at a viewpoint with tables before the busiest hours.",
+          "Optional short horse ride (led by local operators) for older kids."
+        ],
+        "tips": [
+          "High altitude tires children quickly - keep activities light.",
+          "Bring water, snacks and sunscreen; few food options are available inside.",
+          "Most rewarding in the dry season when paths are firm."
+        ]
+      },
+      {
+        "id": "photo",
+        "title": "Photography & Nature Lovers",
+        "tag": "Slow, patient, sunrise to sunset",
+        "duration": "Full day recommended",
+        "route": [
+          "Sunrise reflections on Quila or Zempoala lagoon.",
+          "Interpretive trail loop through Montezuma pine forest.",
+          "Midday rest, then misty or stormy sky shots in the rainy season.",
+          "Late afternoon wildlife and bird photography near the shores."
+        ],
+        "tips": [
+          "Dawn fog over the water is a signature of the rainy months.",
+          "A telephoto lens helps for birds and shy mammals.",
+          "Carry a tripod and protect gear from sudden showers."
+        ]
+      },
+      {
+        "id": "accessible",
+        "title": "Low-Mobility & Easy Access",
+        "tag": "Relaxed, mostly flat",
+        "duration": "2-3 hours recommended",
+        "route": [
+          "Park near the entrance and use the visitor centre facilities.",
+          "Enjoy the main lagoon viewpoint directly next to the parking area.",
+          "Short flat stretches around the information modules.",
+          "Optional horse ride or drive between viewpoints with assistance."
+        ],
+        "tips": [
+          "Terrain near the lagoons is mostly walkable but natural and uneven.",
+          "Accessibility of trails changes with the season - confirm on site.",
+          "Weekday visits (if open) or early arrival means less crowding."
+        ]
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Recommended Itineraries",
+    "subtitle": "Two balanced plans built around the park's opening hours (09:00-18:00 on weekends and public holidays).",
+    "plans": [
+      {
+        "id": "halfDay",
+        "title": "Half-Day Visit",
+        "duration": "about 5 hours",
+        "steps": [
+          {
+            "time": "09:00",
+            "text": "Arrive at the gate, pay the entrance fee and use the visitor centre facilities."
+          },
+          {
+            "time": "09:40",
+            "text": "Gentle interpretive walk along the Zempoala lagoon shore and viewpoints."
+          },
+          {
+            "time": "11:00",
+            "text": "Picnic or snack break at a designated rest area."
+          },
+          {
+            "time": "11:40",
+            "text": "Second lagoon viewpoint (Quila) or a short optional horse ride."
+          },
+          {
+            "time": "13:30",
+            "text": "Head back; stop for lunch in a nearby gateway town on the return road."
+          }
+        ]
+      },
+      {
+        "id": "fullDay",
+        "title": "Full-Day Visit",
+        "duration": "about 8 hours",
+        "steps": [
+          {
+            "time": "09:00",
+            "text": "Enter early to beat the crowd; visitor centre and exhibits."
+          },
+          {
+            "time": "09:45",
+            "text": "Interpretive trail loop in the Montezuma pine forest."
+          },
+          {
+            "time": "12:00",
+            "text": "Picnic lunch at the camping-rest area with a lagoon view."
+          },
+          {
+            "time": "13:00",
+            "text": "Rest during the warmest hours; optional horse ride or craft-shop stop."
+          },
+          {
+            "time": "15:00",
+            "text": "Walk the far shoreline to observe wildlife and late light."
+          },
+          {
+            "time": "16:30",
+            "text": "Sunset photo session at the main viewpoint."
+          },
+          {
+            "time": "17:30",
+            "text": "Return to the car before closing time (18:00) and leave no trace."
+          }
+        ]
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Visitor Services & Nearby Facilities",
+    "subtitle": "Neutral overview by service type - no business names, no endorsements. Availability changes with the season and opening days; always confirm on site.",
+    "parkTitle": "Inside the park",
+    "townTitle": "Nearby gateway towns",
+    "tipTitle": "Practical note",
+    "items": [
+      {
+        "id": "wc",
+        "name": "Public restrooms (WC)",
+        "park": "Limited - near the entrance and the main lagoon areas.",
+        "town": "Public and paid restrooms in nearby towns.",
+        "tip": "Bring your own tissue and hand sanitiser."
+      },
+      {
+        "id": "parking",
+        "name": "Parking",
+        "park": "Managed parking near the entrance; fills up early on busy weekends.",
+        "town": "Street and square parking in gateway towns.",
+        "tip": "Arrive before 10:00 on holidays."
+      },
+      {
+        "id": "visitorCenter",
+        "name": "Visitor centre & information",
+        "park": "At the entrance with exhibits, notices and local information.",
+        "town": "-",
+        "tip": "Ask rangers about trail conditions for the day."
+      },
+      {
+        "id": "food",
+        "name": "Food & refreshments",
+        "park": "Seasonal local food stands may operate on open days; options are limited.",
+        "town": "Street food, small restaurants and convenience stores.",
+        "tip": "It is safest to bring your own food and water."
+      },
+      {
+        "id": "water",
+        "name": "Drinking water",
+        "park": "Very limited; no guaranteed refill points.",
+        "town": "Shops and restaurants sell bottled water.",
+        "tip": "Carry at least 1.5-2 L per person."
+      },
+      {
+        "id": "camping",
+        "name": "Camping",
+        "park": "Designated camping zones with your own equipment.",
+        "town": "-",
+        "tip": "Use only marked sites; no open fires outside them."
+      },
+      {
+        "id": "lodging",
+        "name": "Accommodation",
+        "park": "-",
+        "town": "Hotels, inns, cabins and campsites of different types in Ocuilan, Huitzilac and Cuernavaca.",
+        "tip": "Book ahead on long weekends."
+      },
+      {
+        "id": "shops",
+        "name": "Groceries & supplies",
+        "park": "None inside the park.",
+        "town": "Markets, small shops and supermarkets in gateway towns.",
+        "tip": "Buy supplies before entering the mountain road."
+      },
+      {
+        "id": "fuel",
+        "name": "Fuel & EV charging",
+        "park": "None inside the park.",
+        "town": "Service stations along the connecting highway towns; public EV chargers are scarce and mostly in Cuernavaca or urban areas.",
+        "tip": "Fill the tank and check your EV range before climbing."
+      },
+      {
+        "id": "medical",
+        "name": "First aid & emergency",
+        "park": "No full medical facility; rangers can help coordinate.",
+        "town": "Clinics and hospitals in Huitzilac, Ocuilan and Cuernavaca.",
+        "tip": "Keep emergency numbers and your own medicines handy."
+      },
+      {
+        "id": "bank",
+        "name": "Banks & ATMs",
+        "park": "None inside the park.",
+        "town": "ATMs in larger gateway towns.",
+        "tip": "Carry cash - many local services are cash only."
+      },
+      {
+        "id": "signal",
+        "name": "Phone signal & internet",
+        "park": "Patchy and often absent between lagoons.",
+        "town": "Better coverage in towns.",
+        "tip": "Download offline maps before your visit."
+      },
+      {
+        "id": "localServices",
+        "name": "Horse rental & local guiding",
+        "park": "Offered by local operators on open days.",
+        "town": "May be arranged in gateway towns.",
+        "tip": "Choose clearly identified local providers and agree prices first."
+      }
+    ]
+  },
+  "storySection": {
+    "title": "The Story Behind the Lagoons",
+    "subtitle": "Name, memory and conservation - the threads that connect these lagoons to the people who lived beside them.",
+    "cards": [
+      {
+        "id": "name",
+        "title": "What Zempoala Means",
+        "text": "Zempoala comes from the Nahuatl word for \"place of many waters\" or \"twenty waters\". The name echoes in several towns of central Mexico and here it points to a landscape once dotted with far more water bodies than the seven that survive today."
+      },
+      {
+        "id": "legend",
+        "title": "The Legend of Zempoatl",
+        "text": "According to an oral tradition retold by the National Water Commission (CONAGUA), Zempoatl was a young woman of Huitzilac whose story of love and loss ended in tears. Her grieving father and brothers wept day and night, and their tears filled the valley - giving life to the lagoons that still mirror the sky today. The park's name and the legend meet in the same idea: this is a place born of water."
+      },
+      {
+        "id": "decree",
+        "title": "A Protected Landscape Since 1936",
+        "text": "The lagoons were declared Lagunas de Zempoala National Park in 1936 - one of the first national parks in Mexico - protecting almost 4,790 hectares of lagoons and Montezuma pine forest across the State of Mexico and Morelos. The decree was later adjusted in 1947 to define today's protected area."
+      }
+    ],
+    "sourceLabel": "Oral legend source: National Water Commission (CONAGUA), Government of Mexico"
+  },
+  "conservation": {
+    "title": "Science Corner & Visitor Responsibilities",
+    "subtitle": "A national park is a living laboratory. Understanding why these lagoons exist helps us visit without leaving a mark.",
+    "topicsTitle": "Little Science Stories",
+    "topics": [
+      {
+        "id": "volcano",
+        "title": "Lakes born in a volcanic land",
+        "text": "The lagoons occupy natural depressions of an ancient volcanic landscape in the Sierra de Ajusco-Chichinauhtzin at about 2,800 m. Rain and thin volcanic soils slowly feed the basins, which is why the area is one of the few permanent water bodies close to Mexico City."
+      },
+      {
+        "id": "seasonal",
+        "title": "Why some lagoons appear and disappear",
+        "text": "Only three lagoons are permanent (Quila, Zempoala, Compila); the other four are seasonal. They fill when the summer rains arrive and shrink or vanish in the dry season - a natural rhythm, not a sign of damage."
+      },
+      {
+        "id": "axolotl",
+        "title": "Why the axolotl is so rare",
+        "text": "The Mexican salamander (Ambystoma altamirani) lives only in this mountain region. Habitat loss, water pollution, introduced predatory fish, and collection for the pet trade have pushed it to the edge. Seeing one here is a privilege - and a reason to stay quiet and keep the water clean."
+      },
+      {
+        "id": "forest",
+        "title": "The forest that stores the water",
+        "text": "Montezuma pines and mixed forest act as a giant sponge: they capture fog and rain, slow the runoff and recharge the aquifer below. Protecting trees is protecting the lagoons themselves."
+      }
+    ],
+    "rulesTitle": "Visitor Responsibilities",
+    "rules": [
+      "Walk only on marked trails and never disturb signs, fences or equipment.",
+      "Camp only in designated areas; fires are allowed only where authorised.",
+      "Never feed, chase or touch wildlife - including horses and birds.",
+      "Do not take plants, animals, stones or water from the park.",
+      "Carry all rubbish out with you, especially plastic and glass.",
+      "Keep noise low so wildlife and other visitors can enjoy the silence.",
+      "Leave the lagoons untouched: no washing, no waste, no chemicals.",
+      "Smoking is a fire risk in pine forest - follow the park's fire rules."
+    ]
   }
 }

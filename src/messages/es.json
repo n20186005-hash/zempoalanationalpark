@@ -1,7 +1,14 @@
 {
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "El contenido que buscas no existe o se ha movido.",
+    "home": "Volver al inicio"
+  },
   "meta": {
-    "title": "Parque Nacional Lagunas de Zempoala | Estado de México",
-    "description": "Explora el Parque Nacional Lagunas de Zempoala en el Estado de México, México. Descubre siete lagunas, bosques de coníferas y rica biodiversidad en este hermoso parque nacional."
+    "title": "Lagunas de Zempoala, Parque Nacional: horarios, cómo llegar y mapa",
+    "description": "Guía del Parque Nacional Lagunas de Zempoala: horarios, precio de entrada, cómo llegar desde CDMX y Cuernavaca, clima y qué ver. 4.5★ (5,444 reseñas de Google).",
+    "ogTitle": "Parque Nacional Lagunas de Zempoala - Guía de viaje de Ocuilan",
+    "ogImageAlt": "Parque Nacional Lagunas de Zempoala en Ocuilan"
   },
   "header": {
     "home": "Inicio",
@@ -14,7 +21,7 @@
     "title": "Parque Nacional Lagunas de Zempoala",
     "subtitle": "Estado de México · Morelos · México",
     "rating": "4.5",
-    "reviewCount": "5,416",
+    "reviewCount": "5,444",
     "hours": "Sáb-Dom y festivos 09:00-18:00",
     "openMaps": "Ver ubicación"
   },
@@ -264,7 +271,8 @@
         "url": "https://lugares.inah.gob.mx/es"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "photoRights": "Todas las fotografías mostradas en este sitio web son propiedad de sus respectivos fotógrafos y están protegidas por derechos de autor."
   },
   "privacy": {
     "title": "Política de privacidad",
@@ -400,5 +408,492 @@
     ],
     "guideTitle": "Consejo para Visitantes",
     "guideContent": "Al visitar, comience en el **Centro de Visitantes** para conocer el ecosistema del parque y las siete lagunas; luego camine por los **Senderos Interpretativos** para disfrutar del impresionante paisaje de lagunas y bosques de coníferas; descanse en los **Miradores** para observar la vida silvestre; y finalmente visite la **Tienda de Artesanías** para souvenirs. Sea un visitante responsable y ecológico, y siga las instrucciones de los guardabosques del parque."
+  },
+  "seoOverview": {
+    "welcome": "Bienvenido al **Parque Nacional Lagunas de Zempoala**, ampliamente reconocido como **Parque Nacional Zempoala**. Ubicado en **Ocuilan**, **Estado de México**, **México** - en la frontera con **Morelos** - este parque nacional es un punto de partida ideal para explorar las lagunas, los bosques de pino y la fauna única de la región.",
+    "breadcrumbTitle": "Ubicación geográfica",
+    "breadcrumb": [
+      "Parque Nacional Lagunas de Zempoala",
+      "Ocuilan",
+      "Estado de México",
+      "México"
+    ],
+    "cardsTitle": "Guía rápida",
+    "cards": [
+      {
+        "id": "about",
+        "heading": "Acerca del Parque Nacional Lagunas de Zempoala",
+        "text": "Establecido en 1936, el parque protege siete lagunas de alta montaña - Zempoala, Quila, Compila, Tonatiwha, Seca, Prieta y Huilapan - rodeadas de bosques de pino de Montezuma, y es uno de los pocos lugares de México donde pueden encontrarse el ajolote y el ocelote."
+      },
+      {
+        "id": "location",
+        "heading": "Ubicación y cómo visitar el Parque Nacional Zempoala en Ocuilan",
+        "text": "El Parque Nacional Lagunas de Zempoala se visita fácilmente desde Ciudad de México por la Carretera Federal 95, a unos 20.3 km de Cuernavaca. Abre sábados, domingos y días festivos de 09:00 a 18:00; planifica tu visita con el mapa interactivo."
+      },
+      {
+        "id": "landmarks",
+        "heading": "Lugares de interés alrededor del Parque Nacional Zempoala",
+        "text": "Al visitar **el Parque Nacional Lagunas de Zempoala**, se pueden recorrer fácilmente los puntos de interés cercanos, como **Cuernavaca**, con su centro histórico y su catedral, y el **pueblo mágico** de **Tepoztlán**, donde se encuentra la pirámide del Tepozteco. El mirador **Pico del Águila** está en la misma carretera."
+      },
+      {
+        "id": "history",
+        "heading": "Historia e importancia del Parque Nacional Lagunas de Zempoala",
+        "text": "Creado por decreto federal el 27 de noviembre de 1936, el parque abarca 4,790 hectáreas entre Ocuilan (Estado de México) y Huitzilac (Morelos). Es la principal zona de recarga del acuífero de la microcuenca del río Apatlaco y uno de los pocos cuerpos de agua perennes cerca de la Ciudad de México."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Preguntas frecuentes sobre el Parque Nacional Lagunas de Zempoala",
+    "subtitle": "Todo lo que necesitas saber antes de visitar el Parque Nacional Zempoala en Ocuilan, Estado de México.",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra el Parque Nacional Lagunas de Zempoala?",
+        "a": "El Parque Nacional Lagunas de Zempoala se encuentra en Ocuilan, Estado de México, México, en la frontera con Morelos - a unos 20.3 km de Cuernavaca y a dos horas en automóvil de la Ciudad de México."
+      },
+      {
+        "q": "¿Es gratuito visitar el Parque Nacional Zempoala?",
+        "a": "No. El Parque Nacional Lagunas de Zempoala cobra una entrada de 95 MXN por persona al día. Los menores de 12 años, adultos mayores, jubilados y personas con discapacidad entran gratis con identificación válida; estudiantes y docentes reciben 75% de descuento."
+      },
+      {
+        "q": "¿Cuándo abre el Parque Nacional Lagunas de Zempoala?",
+        "a": "El Parque Nacional Zempoala abre los sábados, domingos y días festivos de 09:00 a 18:00 y permanece cerrado de lunes a viernes."
+      },
+      {
+        "q": "¿Qué se puede hacer en el Parque Nacional Lagunas de Zempoala?",
+        "a": "Se puede acampar, practicar senderismo, observar aves, fotografía de naturaleza, pesca deportiva, meditación paisajística y educación ambiental entre las siete lagunas del parque en Ocuilan, Estado de México."
+      },
+      {
+        "q": "¿Qué fauna se puede ver en el Parque Nacional Lagunas de Zempoala?",
+        "a": "El parque alberga especies raras como el ocelote (Leopardus pardalis), la cascabel transversa (Crotalus transversus) y el ajolote (Ambystoma altamirani), además de bosques de pino de Montezuma."
+      },
+      {
+        "q": "¿Cómo llegar al Parque Nacional Lagunas de Zempoala desde Ciudad de México?",
+        "a": "Tome la Carretera Federal 95 (México-Cuernavaca) y siga la carretera señalizada hacia el parque: unas dos horas desde Ciudad de México y 20.3 km desde Cuernavaca."
+      },
+      {
+        "q": "¿Qué atractivos hay cerca del Parque Nacional Lagunas de Zempoala?",
+        "a": "Cerca se encuentran Cuernavaca con su catedral y centro histórico, Tepoztlán con la pirámide del Tepozteco y el mirador Pico del Águila."
+      }
+    ]
+  },
+  "sourcesSection": {
+    "title": "Fuentes e información oficial",
+    "intro": "Esta guía del visitante fue elaborada con fuentes oficiales y autorizadas para mantener la información precisa y actualizada.",
+    "portalPrefix": "Para actualizaciones oficiales e información turística regional, visite",
+    "portalLabel": "Portal Oficial de Turismo de México / Estado de México",
+    "portalUrl": "https://cultura.edomex.gob.mx/",
+    "items": [
+      {
+        "name": "Comisión Nacional de Áreas Naturales Protegidas (CONANP) - Lagunas de Zempoala",
+        "url": "https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97"
+      },
+      {
+        "name": "Secretaría de Turismo del Gobierno de México (SECTUR)",
+        "url": "https://www.gob.mx/sectur"
+      },
+      {
+        "name": "Secretaría de Cultura y Turismo del Estado de México",
+        "url": "https://cultura.edomex.gob.mx/"
+      },
+      {
+        "name": "Visit Mexico - Consejo Nacional de Turismo",
+        "url": "https://visitmexico.com/"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Tiempo y pronóstico a 7 días",
+    "subtitle": "Condiciones actuales en la zona de las lagunas, a unos 2,800 m de altitud. El clima de montaña puede cambiar en una hora: consúltalo antes de salir.",
+    "updated": "Actualizado",
+    "now": "Ahora",
+    "today": "Hoy",
+    "week": "Próximos 7 días",
+    "feelsLike": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "precipNow": "Precipitación",
+    "maxTemp": "Máx",
+    "minTemp": "Mín",
+    "precipChance": "Prob. de lluvia",
+    "uvLabel": "Índice UV",
+    "sunrise": "Amanecer",
+    "sunset": "Atardecer",
+    "tip": "Los días de visita son sábados, domingos y festivos (09:00-18:00). Las mañanas son frías y las lluvias súbitas son frecuentes: lleva ropa de capas y una chaqueta ligera impermeable.",
+    "unavailable": "El pronóstico en vivo no está disponible temporalmente. Vuelve a cargar la página más tarde.",
+    "conditions": {
+      "clear": "Cielo despejado",
+      "partlyCloudy": "Parcialmente nublado",
+      "cloudy": "Nublado",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "rain": "Lluvia",
+      "showers": "Chubascos",
+      "snow": "Nieve",
+      "thunderstorm": "Tormenta eléctrica",
+      "thunderstormHail": "Tormenta con granizo"
+    },
+    "adviceTitle": "Consejos para hoy",
+    "groupClothing": "Ropa y capas",
+    "groupActivity": "Plan del día",
+    "groupItems": "Qué llevar",
+    "riskTitle": "Riesgos y alertas",
+    "fallbackNone": "Sin condiciones especiales hoy. A 2,800 m el clima puede cambiar en una hora: revisa el pronóstico antes de subir.",
+    "aSunny": "Cielo despejado: madruga para ver las lagunas con el agua quieta y la mejor luz para fotos.",
+    "aCloudy": "Cielo nublado: luz suave para fotos y caminatas largas sin sol directo.",
+    "aFog": "Posible niebla: los miradores pueden quedar tapados; suele disiparse hacia el mediodía.",
+    "aRainPlan": "Probabilidad de lluvia alta por la tarde: haz las caminatas por la mañana y guarda un plan B bajo las palapas.",
+    "aRainNow": "Está lloviendo: senderos resbalosos; quédate en las veredas principales y junto a las lagunas.",
+    "aHotDay": "Día caluroso: evita el sol entre 12:00 y 16:00, camina a la sombra del bosque y descansa.",
+    "aWindNote": "Viento perceptible en lagunas y cumbres: los miradores se sienten más fríos; sujeta bien tu gorra.",
+    "cLayers": "Amplitud térmica grande: viste por capas (playera + forro + chaqueta) y quítate algo al mediodía.",
+    "cCold": "Día frío (mañanas bajo 10 °C): chaqueta abrigada, gorro y guantes ligeros.",
+    "cHot": "Calor a 2,800 m: ropa fresca y transpirable, con manga larga ligera para el sol.",
+    "cRainGear": "Chaqueta ligera impermeable y calzado con buen agarre: las veredas se mojan rápido.",
+    "cWindBreak": "Cortavientos ligero: en las zonas abiertas el viento enfría la sensación térmica.",
+    "iPoncho": "Poncho o impermeable compacto y una funda para proteger tu mochila.",
+    "iSunscreen": "Sol fuerte a 2,800 m: bloqueador SPF 50+, gafas de sol y gorra.",
+    "iWater": "Agua (1 L por persona): la deshidratación se nota más en altura.",
+    "iExtraLayer": "Una capa de abrigo extra en la mochila para las mañanas frías.",
+    "iPoles": "Si hay lodo, unos bastones ligeros ayudan en la bajada hacia las lagunas.",
+    "riskStorm": "Tormenta eléctrica: aléjate de cumbres, veredas abiertas y orillas de lagunas; evita árboles aislados y valora posponer el paseo.",
+    "riskHeavyRain": "Lluvia intensa: evita barrancas y zonas bajas; las veredas pueden volverse arroyos.",
+    "riskWind": "Viento fuerte en ráfagas: ten precaución en cumbres y veredas abiertas.",
+    "riskIce": "Posible hielo en veredas sombreadas: usa calzado con buen agarre y camina lento."
+  },
+  "seasonalGuide": {
+    "title": "Estrategia de visita por temporada",
+    "subtitle": "Tabla práctica basada en el clima, la hidrología y los patrones de fauna de la región a largo plazo. El tiempo cambia día a día: confírmalo siempre con el pronóstico en vivo antes de viajar.",
+    "columns": {
+      "season": "Temporada y periodo",
+      "weather": "Clima típico",
+      "water": "Lagunas y agua",
+      "wildlife": "Observación de fauna",
+      "tips": "Equipo y planificación"
+    },
+    "rows": [
+      {
+        "id": "decFeb",
+        "period": "Dic - Feb",
+        "season": "Seca y fría",
+        "weather": "Días secos y despejados con mañanas y noches muy frías; posible helada nocturna.",
+        "water": "Las lagunas permanentes se mantienen en un nivel bajo estable; las estacionales están casi secas o muy someras.",
+        "wildlife": "Las aves se concentran junto al agua al amanecer; se ven huellas de mamíferos en las orillas.",
+        "tips": "Ideal para fotografía con luz limpia. Lleva ropa de capas, guantes y protección solar; llega a media mañana para las horas más templadas."
+      },
+      {
+        "id": "marMay",
+        "period": "Mar - May",
+        "season": "Seca y más cálida",
+        "weather": "Meses más cálidos y secos; sol intenso y mayor riesgo de incendio en el bosque de pino.",
+        "water": "El nivel del agua sigue bajando; algunas cuencas estacionales pueden secarse por completo a finales de mayo.",
+        "wildlife": "Mejor al amanecer y al atardecer; los reptiles toman el sol y el canto de las aves aumenta.",
+        "tips": "Sal muy temprano y lleva más agua. Respeta estrictamente las normas de fuego y camina solo por los senderos marcados."
+      },
+      {
+        "id": "junAug",
+        "period": "Jun - Ago",
+        "season": "Pico de lluvias",
+        "weather": "Días templados con lluvias o tormentas por la tarde y bajones bruscos de temperatura.",
+        "water": "Las lagunas se recargan y lucen más llenas; reaparecen las lagunas estacionales.",
+        "wildlife": "Los anfibios, como las salamandras, están activos y en reproducción: obsérvalos, pero nunca los toques ni molestes.",
+        "tips": "Calzado impermeable, chaqueta de lluvia y ropa de secado rápido. Los senderos pueden estar resbaladizos; toma más tiempo."
+      },
+      {
+        "id": "sepNov",
+        "period": "Sep - Nov",
+        "season": "Fin de lluvias",
+        "weather": "Las lluvias van cediendo; mañanas despejadas y frescas con alguna llovizna.",
+        "water": "Niveles llenos a inicios de la temporada y luego estabilización paulatina.",
+        "wildlife": "Temporada de migración: excelente para observar aves; la fauna sigue activa antes del invierno.",
+        "tips": "Menos visitantes y luz hermosa para la fotografía. Las mañanas son frescas: lleva una chaqueta ligera."
+      }
+    ]
+  },
+  "routePlans": {
+    "title": "Rutas según el grupo de viajeros",
+    "subtitle": "Tres maneras de disfrutar el parque según quién viaja y a qué ritmo. Todas pueden acortarse o alargarse sobre la marcha.",
+    "routeLabel": "Ruta sugerida",
+    "tipsLabel": "Datos útiles",
+    "cards": [
+      {
+        "id": "family",
+        "title": "Familias con niños",
+        "tag": "Ritmo tranquilo, paradas frecuentes",
+        "duration": "Se recomienda medio día",
+        "route": [
+          "Primero el centro de visitantes: mapa, sanitarios y avisos de los guardabosques.",
+          "Breve caminata interpretativa por la orilla de la laguna de Zempoala.",
+          "Comida campestre en un mirador con mesas, antes de las horas de más afluencia.",
+          "Opcional: paseo corto a caballo (guiado por operadores locales) para niños mayores."
+        ],
+        "tips": [
+          "La altitud cansa a los niños con rapidez: mantén las actividades ligeras.",
+          "Lleva agua, botanas y protector solar; dentro hay pocas opciones de comida.",
+          "En temporada seca los senderos están firmes y es más cómodo."
+        ]
+      },
+      {
+        "id": "photo",
+        "title": "Fotografía y naturaleza",
+        "tag": "Lento y paciente, de amanecer a atardecer",
+        "duration": "Se recomienda el día completo",
+        "route": [
+          "Reflejos del amanecer en las lagunas Quila o Zempoala.",
+          "Circuito por el sendero interpretativo entre pinos de Montezuma.",
+          "Descanso al mediodía y, en época de lluvias, fotos de cielos nublados o tormentosos.",
+          "Fotografía de fauna y aves al atardecer cerca de las orillas."
+        ],
+        "tips": [
+          "La niebla matinal sobre el agua es una imagen clásica de los meses lluviosos.",
+          "Un teleobjetivo ayuda con aves y mamíferos esquivos.",
+          "Lleva trípode y protege el equipo de las lluvias súbitas."
+        ]
+      },
+      {
+        "id": "accessible",
+        "title": "Accesibilidad y menor esfuerzo",
+        "tag": "Tranquila, en su mayoría plana",
+        "duration": "Se recomiendan 2-3 horas",
+        "route": [
+          "Estaciona cerca de la entrada y usa las instalaciones del centro de visitantes.",
+          "Disfruta del mirador principal de la laguna junto al área de estacionamiento.",
+          "Tramos cortos y planos alrededor de los módulos de información.",
+          "Opcional: paseo a caballo o traslado en auto entre miradores con ayuda."
+        ],
+        "tips": [
+          "El terreno junto a las lagunas es caminable pero natural y desigual.",
+          "La accesibilidad cambia con la temporada: confírmala en el sitio.",
+          "Llegar temprano o en días de menor afluencia reduce las aglomeraciones."
+        ]
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Itinerarios recomendados",
+    "subtitle": "Dos planes equilibrados según el horario del parque (09:00-18:00, sábados, domingos y festivos).",
+    "plans": [
+      {
+        "id": "halfDay",
+        "title": "Visita de medio día",
+        "duration": "unas 5 horas",
+        "steps": [
+          {
+            "time": "09:00",
+            "text": "Llega a la caseta, paga la entrada y usa las instalaciones del centro de visitantes."
+          },
+          {
+            "time": "09:40",
+            "text": "Caminata interpretativa suave por la orilla de la laguna de Zempoala y sus miradores."
+          },
+          {
+            "time": "11:00",
+            "text": "Comida campestre o refrigerio en un área de descanso señalizada."
+          },
+          {
+            "time": "11:40",
+            "text": "Segundo mirador (laguna de Quila) o breve paseo a caballo opcional."
+          },
+          {
+            "time": "13:30",
+            "text": "Regreso; almuerza en un pueblo cercano de la carretera de vuelta."
+          }
+        ]
+      },
+      {
+        "id": "fullDay",
+        "title": "Visita de día completo",
+        "duration": "unas 8 horas",
+        "steps": [
+          {
+            "time": "09:00",
+            "text": "Entra temprano para evitar la multitud; centro de visitantes y exhibiciones."
+          },
+          {
+            "time": "09:45",
+            "text": "Circuito por el sendero interpretativo del bosque de pinos de Montezuma."
+          },
+          {
+            "time": "12:00",
+            "text": "Almuerzo campestre en el área de descanso-camping con vista a la laguna."
+          },
+          {
+            "time": "13:00",
+            "text": "Descanso en las horas más cálidas; paseo a caballo opcional o visita a la tienda artesanal."
+          },
+          {
+            "time": "15:00",
+            "text": "Recorre la orilla lejana para observar fauna y la luz de la tarde."
+          },
+          {
+            "time": "16:30",
+            "text": "Sesión de fotos del atardecer en el mirador principal."
+          },
+          {
+            "time": "17:30",
+            "text": "Regresa al auto antes del cierre (18:00) y no dejes rastro."
+          }
+        ]
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Servicios al visitante y alrededores",
+    "subtitle": "Resumen neutral por tipo de servicio: sin nombres de negocios ni recomendaciones. La disponibilidad cambia según la temporada y los días de apertura; confírmalo siempre en el sitio.",
+    "parkTitle": "Dentro del parque",
+    "townTitle": "Pueblos cercanos",
+    "tipTitle": "Nota práctica",
+    "items": [
+      {
+        "id": "wc",
+        "name": "Sanitarios públicos (WC)",
+        "park": "Limitados: cerca de la entrada y de las lagunas principales.",
+        "town": "Sanitarios públicos y de pago en los pueblos cercanos.",
+        "tip": "Lleva papel higiénico y gel antibacterial propios."
+      },
+      {
+        "id": "parking",
+        "name": "Estacionamiento",
+        "park": "Estacionamiento administrado cerca de la entrada; se llena temprano en fines de semana.",
+        "town": "Estacionamiento en calles y plazas de los pueblos cercanos.",
+        "tip": "En días festivos llega antes de las 10:00."
+      },
+      {
+        "id": "visitorCenter",
+        "name": "Centro de visitantes e información",
+        "park": "En la entrada, con exhibiciones, avisos e información local.",
+        "town": "-",
+        "tip": "Pregunta a los guardabosques por el estado de los senderos del día."
+      },
+      {
+        "id": "food",
+        "name": "Comida y refrigerios",
+        "park": "Puede haber puestos locales de temporada en días de apertura; opciones limitadas.",
+        "town": "Comida callejera, pequeños restaurantes y tiendas de conveniencia.",
+        "tip": "Lo más seguro es llevar tu propia comida y agua."
+      },
+      {
+        "id": "water",
+        "name": "Agua potable",
+        "park": "Muy limitada; sin puntos de relleno garantizados.",
+        "town": "Tiendas y restaurantes venden agua embotellada.",
+        "tip": "Lleva al menos 1.5-2 L por persona."
+      },
+      {
+        "id": "camping",
+        "name": "Campamento",
+        "park": "Zonas de camping designadas, con equipo propio.",
+        "town": "-",
+        "tip": "Usa solo los sitios marcados; no hagas fogatas fuera de ellos."
+      },
+      {
+        "id": "lodging",
+        "name": "Alojamiento",
+        "park": "-",
+        "town": "Hoteles, posadas, cabañas y campamentos de distintos tipos en Ocuilan, Huitzilac y Cuernavaca.",
+        "tip": "Reserva con anticipación en puentes y festivos."
+      },
+      {
+        "id": "shops",
+        "name": "Tiendas y despensa",
+        "park": "No hay dentro del parque.",
+        "town": "Mercados, tiendas pequeñas y supermercados en los pueblos cercanos.",
+        "tip": "Compra provisiones antes de subir a la carretera de montaña."
+      },
+      {
+        "id": "fuel",
+        "name": "Gasolina y carga eléctrica",
+        "park": "No hay dentro del parque.",
+        "town": "Estaciones de servicio en los pueblos de la carretera de acceso; cargadores públicos escasos, sobre todo en Cuernavaca o zonas urbanas.",
+        "tip": "Llena el tanque y revisa la autonomía de tu auto eléctrico antes de subir."
+      },
+      {
+        "id": "medical",
+        "name": "Primeros auxilios y emergencias",
+        "park": "Sin instalación médica completa; los guardabosques ayudan a coordinar.",
+        "town": "Clínicas y hospitales en Huitzilac, Ocuilan y Cuernavaca.",
+        "tip": "Lleva contigo números de emergencia y tus medicamentos."
+      },
+      {
+        "id": "bank",
+        "name": "Bancos y cajeros",
+        "park": "No hay dentro del parque.",
+        "town": "Cajeros en los pueblos más grandes.",
+        "tip": "Lleva efectivo: muchos servicios locales solo aceptan efectivo."
+      },
+      {
+        "id": "signal",
+        "name": "Señal telefónica e internet",
+        "park": "Intermitente y a menudo ausente entre lagunas.",
+        "town": "Mejor cobertura en los pueblos.",
+        "tip": "Descarga mapas sin conexión antes de la visita."
+      },
+      {
+        "id": "localServices",
+        "name": "Renta de caballos y guías locales",
+        "park": "Operadores locales los ofrecen en días de apertura.",
+        "town": "Se puede gestionar en los pueblos cercanos.",
+        "tip": "Elige prestadores claramente identificados y acuerda el precio de antemano."
+      }
+    ]
+  },
+  "storySection": {
+    "title": "La historia detrás de las lagunas",
+    "subtitle": "Nombre, memoria y conservación: los hilos que unen estas lagunas con la gente que vivió junto a ellas.",
+    "cards": [
+      {
+        "id": "name",
+        "title": "Qué significa Zempoala",
+        "text": "Zempoala proviene del náhuatl y significa \"lugar de muchas aguas\" o \"veinte aguas\". El nombre se repite en varias poblaciones del centro de México y, aquí, alude a un paisaje que alguna vez tuvo muchos más cuerpos de agua que los siete que existen hoy."
+      },
+      {
+        "id": "legend",
+        "title": "La leyenda de Zempoatl",
+        "text": "Según una tradición oral difundida por la Comisión Nacional del Agua (CONAGUA), Zempoatl fue una joven de Huitzilac cuya historia de amor y pérdida terminó en lágrimas. Su padre y sus hermanos, inconsolables, lloraron día y noche hasta que sus lágrimas llenaron el valle y dieron vida a las lagunas que hoy reflejan el cielo. El nombre del parque y la leyenda coinciden en la misma idea: este es un lugar nacido del agua."
+      },
+      {
+        "id": "decree",
+        "title": "Un paisaje protegido desde 1936",
+        "text": "Las lagunas se declararon Parque Nacional Lagunas de Zempoala en 1936, uno de los primeros parques nacionales de México, protegiendo casi 4,790 hectáreas de lagunas y bosque de pino de Montezuma entre el Estado de México y Morelos. El decreto se ajustó después, en 1947, para definir el área protegida actual."
+      }
+    ],
+    "sourceLabel": "Fuente de la leyenda oral: Comisión Nacional del Agua (CONAGUA), Gobierno de México"
+  },
+  "conservation": {
+    "title": "Divulgación científica y responsabilidades",
+    "subtitle": "Un parque nacional es un laboratorio vivo. Entender por qué existen estas lagunas ayuda a visitarlas sin dejar huella.",
+    "topicsTitle": "Pequeñas historias de ciencia",
+    "topics": [
+      {
+        "id": "volcano",
+        "title": "Lagunas nacidas en tierra volcánica",
+        "text": "Las lagunas ocupan depresiones naturales de un antiguo paisaje volcánico en la Sierra de Ajusco-Chichinauhtzin, a unos 2,800 m. La lluvia y los suelos volcánicos delgados alimentan lentamente las cuencas, por eso esta es una de las pocas aguas permanentes cerca de la Ciudad de México."
+      },
+      {
+        "id": "seasonal",
+        "title": "Por qué algunas lagunas aparecen y desaparecen",
+        "text": "Solo tres lagunas son permanentes (Quila, Zempoala y Compila); las otras cuatro son estacionales. Se llenan con las lluvias de verano y disminuyen o se secan en la temporada seca: es un ritmo natural, no una señal de daño."
+      },
+      {
+        "id": "axolotl",
+        "title": "Por qué el ajolote es tan raro",
+        "text": "La salamandra mexicana (Ambystoma altamirani) solo vive en esta región montañosa. La pérdida de hábitat, la contaminación del agua, los peces depredadores introducidos y la captura para el comercio de mascotas la han llevado al límite. Verla aquí es un privilegio y una razón para guardar silencio y mantener limpia el agua."
+      },
+      {
+        "id": "forest",
+        "title": "El bosque que guarda el agua",
+        "text": "Los pinos de Montezuma y el bosque mixto actúan como una gran esponja: capturan la niebla y la lluvia, frenan la escorrentía y recargan el acuífero. Proteger los árboles es proteger las propias lagunas."
+      }
+    ],
+    "rulesTitle": "Responsabilidades del visitante",
+    "rules": [
+      "Camina solo por senderos marcados y no muevas señales, cercos ni equipos.",
+      "Acampa únicamente en zonas designadas; el fuego solo está permitido donde se autoriza.",
+      "Nunca alimentes, persigas ni toques a la fauna, incluidos caballos y aves.",
+      "No extraigas plantas, animales, piedras ni agua del parque.",
+      "Saca toda tu basura, especialmente plástico y vidrio.",
+      "Mantén el ruido bajo para que la fauna y otros visitantes disfruten del silencio.",
+      "Deja las lagunas intactas: sin lavado, sin residuos, sin químicos.",
+      "Fumar es un riesgo de incendio en el bosque de pino: sigue las normas del parque."
+    ]
   }
 }

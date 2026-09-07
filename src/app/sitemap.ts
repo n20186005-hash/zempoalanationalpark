@@ -1,9 +1,10 @@
 import { MetadataRoute } from 'next';
+import { SITE_URL } from '@/lib/site';
 
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://zempoalanationalpark.com';
+  const baseUrl = SITE_URL;
   const locales = ['zh', 'en', 'es'];
   const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 

@@ -25,14 +25,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Lagunas+de+Zempoala+National+Park,+State+of+Mexico,+Mexico&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.7799020689763!2d-99.3199381!3d19.029417899999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cde429edec9e17%3A0x51af80e2781bdf7d!2sLagunas%20de%20Zempoala%20National%20Park!5e0!3m2!1sen!2s!4v1788746099589!5m2!1sen!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Lagunas de Zempoala National Park"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Lagunas de Zempoala National Park, Ocuilan, State of Mexico"
           />
         </div>
 
