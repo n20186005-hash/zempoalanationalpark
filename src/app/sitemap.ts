@@ -6,7 +6,17 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = SITE_URL;
   const locales = ['zh', 'en', 'es'];
-  const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  const routes = [
+    '',
+    '/privacy-policy',
+    '/terms-of-service',
+    '/cookie-settings',
+    '/como-llegar',
+    '/precios-y-horarios',
+    '/fotos',
+    '/que-hacer',
+    '/desde-cdmx',
+  ];
 
   const sitemap: MetadataRoute.Sitemap = [];
 

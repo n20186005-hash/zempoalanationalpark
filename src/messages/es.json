@@ -5,9 +5,9 @@
     "home": "Volver al inicio"
   },
   "meta": {
-    "title": "Lagunas de Zempoala, Parque Nacional: horarios, cómo llegar y mapa",
-    "description": "Guía del Parque Nacional Lagunas de Zempoala: horarios, precio de entrada, cómo llegar desde CDMX y Cuernavaca, clima y qué ver. 4.5★ (5,444 reseñas de Google).",
-    "ogTitle": "Parque Nacional Lagunas de Zempoala - Guía de viaje de Ocuilan",
+    "title": "Lagunas de Zempoala: Horarios, Precios y Cómo Llegar (2026)",
+    "description": "Visita el Parque Nacional Lagunas de Zempoala. Consulta horarios, costo de entrada, cómo llegar desde CDMX, mapa, actividades y consejos para tu visita.",
+    "ogTitle": "Lagunas de Zempoala: Guía para Visitar el Parque Nacional",
     "ogImageAlt": "Parque Nacional Lagunas de Zempoala en Ocuilan"
   },
   "header": {
@@ -18,10 +18,10 @@
     "backToHome": "Volver al inicio"
   },
   "hero": {
-    "title": "Parque Nacional Lagunas de Zempoala",
+    "title": "Lagunas de Zempoala: Guía para Visitar el Parque Nacional",
     "subtitle": "Estado de México · Morelos · México",
     "rating": "4.5",
-    "reviewCount": "5,444",
+    "reviewCount": "5,451",
     "hours": "Sáb-Dom y festivos 09:00-18:00",
     "openMaps": "Ver ubicación"
   },
@@ -121,7 +121,8 @@
     "winterTime": "Bajas temperaturas, llevar ropa abrigada",
     "warning": "Notas importantes",
     "warningTime": "El parque solo abre fines de semana y días festivos, verifique la información más reciente antes de visitar",
-    "tip": "Llegar por la mañana evita multitudes, disfrutar una experiencia natural más tranquila"
+    "tip": "Llegar por la mañana evita multitudes, disfrutar una experiencia natural más tranquila",
+    "verified": "Información verificada en octubre de 2026 (fuente: CONANP)."
   },
   "tickets": {
     "title": "Entradas",
@@ -135,7 +136,8 @@
     "children": "Ciudadanos mexicanos y residentes extranjeros",
     "childrenPrice": "50% de descuento (documento oficial válido requerido)",
     "card": "Actividades en el parque",
-    "cardPrice": "Campismo, senderismo, fotografía de naturaleza, observación de flora y fauna, pesca deportiva, meditación paisajística, educación ambiental"
+    "cardPrice": "Campismo, senderismo, fotografía de naturaleza, observación de flora y fauna, pesca deportiva, meditación paisajística, educación ambiental",
+    "verified": "Precios verificados en octubre de 2026 (fuente: CONANP)."
   },
   "transport": {
     "title": "Cómo llegar",
@@ -180,59 +182,13 @@
     "showAllPhotos": "Mostrar todas las fotos"
   },
   "reviews": {
-    "title": "Reseñas de visitantes",
-    "declaration": "La información de reseñas se puede ver a través de Google Maps (enlace externo).",
-    "moreReviews": "Ver en Google Maps",
-    "items": [
-      {
-        "name": "Carlos Mendoza",
-        "date": "Hace 2 meses",
-        "rating": 5,
-        "text": "Un paraíso natural hermoso. Las lagunas son cristalinas y los bosques de pino y montañas circundantes son impresionantes. Altamente recomendado para todos los amantes de la naturaleza."
-      },
-      {
-        "name": "María García",
-        "date": "Hace 3 semanas",
-        "rating": 5,
-        "text": "Un excelente destino de ecoturismo. Las lagunas y los bosques de coníferas crean un paisaje impresionante. Aire fresco, ambiente tranquilo, escape perfecto de la Ciudad de México."
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "Hace 1 mes",
-        "rating": 4,
-        "text": "Parque nacional muy hermoso. Las siete lagunas tienen cada una su propio encanto, los senderos están bien mantenidos. Se recomienda visitar por la mañana. La entrada de 95 pesos vale la pena."
-      },
-      {
-        "name": "Ana López",
-        "date": "Hace más de 6 meses",
-        "rating": 5,
-        "text": "Una de las reservas naturales más hermosas de México. La combinación de lagunas y bosques de pino es inolvidable. ¡También es el único lugar de Morelos donde se ha registrado el ocelote! Definitivamente vale la pena visitar."
-      },
-      {
-        "name": "Roberto Sánchez",
-        "date": "Hace 2 meses",
-        "rating": 4,
-        "text": "Gran experiencia natural. Las lagunas son muy hermosas, ideales para senderismo y campismo. Clima frío en otoño/invierno, recordar llevar ropa abrigada. El alquiler de caballos está disponible y es divertido."
-      },
-      {
-        "name": "Sofía Torres",
-        "date": "Hace 1 mes",
-        "rating": 5,
-        "text": "Hermoso parque nacional, lleno de encanto natural. Zempoala significa 'muchas lagunas' en náhuatl, y cada una de las siete lagunas tiene su propia belleza. Inolvidable."
-      },
-      {
-        "name": "Miguel Ángel",
-        "date": "Hace 3 meses",
-        "rating": 4,
-        "text": "Interesante reserva natural. Experimenta la belleza de la naturaleza de cerca, los senderos interpretativos son educativos. Se recomienda llevar propia comida y agua, instalaciones limitadas en el parque."
-      },
-      {
-        "name": "Laura Patricia",
-        "date": "Hace 2 semanas",
-        "rating": 5,
-        "text": "Gema natural. Lagunas de Zempoala es uno de los paraísos naturales más cercanos a la Ciudad de México. El paisaje de lagunas y bosques de pino es incomparable. Una visita obligada."
-      }
-    ]
+    "title": "Calificación y reseñas",
+    "declaration": "La calificación se muestra tal cual la publica Google Maps. Este sitio no aloja ni verifica las reseñas individuales de los visitantes.",
+    "ratingValue": "4.5",
+    "reviewCount": "5,451",
+    "snapshot": "4.5 ★ · 5,451 reseñas en Google Maps",
+    "verifiedNote": "Calificación consultada en octubre de 2026.",
+    "moreReviews": "Ver reseñas en Google Maps"
   },
   "mapSection": {
     "title": "Ubicación y mapa",
@@ -538,7 +494,7 @@
     "groupItems": "Qué llevar",
     "riskTitle": "Riesgos y alertas",
     "fallbackNone": "Sin condiciones especiales hoy. A 2,800 m el clima puede cambiar en una hora: revisa el pronóstico antes de subir.",
-    "aSunny": "Cielo despejado: madruga para ver las lagunas con el agua quieta y la mejor luz para fotos.",
+    "aSunny": "Cielo despejado: llega temprano tras la apertura (09:00) para ver las lagunas con el agua quieta y la mejor luz para fotos.",
     "aCloudy": "Cielo nublado: luz suave para fotos y caminatas largas sin sol directo.",
     "aFog": "Posible niebla: los miradores pueden quedar tapados; suele disiparse hacia el mediodía.",
     "aRainPlan": "Probabilidad de lluvia alta por la tarde: haz las caminatas por la mañana y guarda un plan B bajo las palapas.",
@@ -635,10 +591,10 @@
       {
         "id": "photo",
         "title": "Fotografía y naturaleza",
-        "tag": "Lento y paciente, de amanecer a atardecer",
+        "tag": "Lento y paciente, de la apertura (09:00) al atardecer",
         "duration": "Se recomienda el día completo",
         "route": [
-          "Reflejos del amanecer en las lagunas Quila o Zempoala.",
+          "Reflejos de la luz de la mañana en las lagunas Quila o Zempoala (el parque abre a las 09:00).",
           "Circuito por el sendero interpretativo entre pinos de Montezuma.",
           "Descanso al mediodía y, en época de lluvias, fotos de cielos nublados o tormentosos.",
           "Fotografía de fauna y aves al atardecer cerca de las orillas."
@@ -895,5 +851,90 @@
       "Deja las lagunas intactas: sin lavado, sin residuos, sin químicos.",
       "Fumar es un riesgo de incendio en el bosque de pino: sigue las normas del parque."
     ]
+  },
+  "topics": {
+    "home": "Inicio",
+    "faqTitle": "Preguntas frecuentes",
+    "guidesTitle": "Guías prácticas",
+    "como-llegar": {
+      "title": "Cómo llegar a Lagunas de Zempoala",
+      "subtitle": "Ruta en auto, transporte público y consejos desde CDMX y Cuernavaca",
+      "intro": "El Parque Nacional Lagunas de Zempoala se visita fácilmente como día de excursión desde la Ciudad de México. Está en la Carretera Federal 95 (México–Cuernavaca), a unos 20.3 km de Cuernavaca y unas dos horas de la CDMX.",
+      "sections": [
+        { "heading": "En automóvil", "body": "Desde la Ciudad de México, toma la Carretera Federal 95 hacia el sur por Cuernavaca. Después de Cuernavaca, sigue la carretera señalizada hacia el parque; el acceso está a unos 20.3 km. Hay estacionamiento administrado cerca de la entrada que se llena temprano los fines de semana." },
+        { "heading": "Transporte público", "body": "Desde la Terminal de Autobuses de Pasajeros de Oriente (TAPO) o Tasqueña en la CDMX, toma un autobús a Cuernavaca (Pullman de Morelos o similar). En Cuernavaca, toma transporte local hacia el parque; conviene coordinarlo con los días de apertura (sábados, domingos y festivos)." },
+        { "heading": "Consejos de viaje", "body": "El parque solo abre fines de semana y días festivos de 09:00 a 18:00. Llega temprano, lleva efectivo para la entrada (95 MXN), comida y agua, y descarga mapas sin conexión porque la señal es intermitente." }
+      ],
+      "faq": [
+        { "q": "¿Se puede llegar en transporte público?", "a": "Sí: autobús a Cuernavaca y luego transporte local hacia el parque. El último tramo es más fácil con auto o taxi por los horarios de apertura." },
+        { "q": "¿Cuánto tiempo se tarda desde la CDMX?", "a": "Unas dos horas en automóvil, dependiendo del tráfico en la Carretera Federal 95." },
+        { "q": "¿Hay estacionamiento?", "a": "Sí, hay estacionamiento administrado cerca de la entrada; se llena temprano los fines de semana y festivos." }
+      ],
+      "relatedTitle": "Guías relacionadas"
+    },
+    "precios-y-horarios": {
+      "title": "Horarios y precios de Lagunas de Zempoala",
+      "subtitle": "Entrada, descuentos y días de apertura en 2026",
+      "intro": "El parque abre solo sábados, domingos y días festivos de 09:00 a 18:00. La entrada general cuesta 95 MXN por persona y cuenta con descuentos para estudiantes, residentes y gratuidad para grupos específicos.",
+      "sections": [
+        { "heading": "Horarios", "body": "Sábados, domingos y días festivos de 09:00 a 18:00. Cerrado de lunes a viernes. Verifica las fechas festivas antes de tu visita." },
+        { "heading": "Precio de entrada", "body": "95 MXN por persona por día. Se paga en la caseta de entrada; lleva efectivo, muchos servicios locales solo aceptan efectivo." },
+        { "heading": "Descuentos y gratuidad", "body": "Entrada gratuita para menores de 12 años, adultos mayores, jubilados y personas con discapacidad (identificación válida). Estudiantes y docentes 75% de descuento; ciudadanos mexicanos y residentes extranjeros 50% de descuento (documento oficial)." }
+      ],
+      "faq": [
+        { "q": "¿Cuánto cuesta la entrada?", "a": "95 MXN por persona por día, con descuentos para estudiantes y residentes y gratuidad para menores de 12 y adultos mayores." },
+        { "q": "¿Qué días está abierto el parque?", "a": "Solo sábados, domingos y días festivos, de 09:00 a 18:00." },
+        { "q": "¿Se aceptan tarjetas en la entrada?", "a": "No siempre; lleva efectivo para la entrada y los servicios dentro y cerca del parque." }
+      ],
+      "relatedTitle": "Guías relacionadas"
+    },
+    "fotos": {
+      "title": "Fotos de Lagunas de Zempoala",
+      "subtitle": "Lagunas, bosque de pino y paisajes de altura",
+      "intro": "Las siete lagunas rodeadas de pino de Montezuma forman uno de los paisajes más fotografiados cerca de la Ciudad de México. Aquí tienes consejos para fotografiarlas y qué esperar en cada temporada.",
+      "sections": [
+        { "heading": "Mejor luz", "body": "La luz más suave es por la mañana tras la apertura (09:00) y al atardecer. El agua suele estar más calmada y refleja el cielo." },
+        { "heading": "Qué fotografiar", "body": "Las lagunas permanentes (Quila, Zempoala, Compila), los miradores, los senderos interpretativos y la fauna como el ocelote o diversas aves." },
+        { "heading": "Por temporada", "body": "Lluvias (jun–ago): lagunas llenas y cielos dramáticos. Seca (nov–feb): aire limpio y frío, ideal para paisajes nítidos." }
+      ],
+      "faq": [
+        { "q": "¿Se puede entrar antes de las 09:00 para fotos?", "a": "No; el parque abre a las 09:00 los días de visita. Llega temprano tras la apertura para la mejor luz." },
+        { "q": "¿Hay tour de fotografía?", "a": "No es un servicio del parque; los guías locales ofrecen caballos y recorridos, acuerda el precio de antemano." },
+        { "q": "¿Se permite el uso de dron?", "a": "Verifica con los guardaparques; normalmente el uso de drones está restringido en el área natural protegida." }
+      ],
+      "relatedTitle": "Guías relacionadas"
+    },
+    "que-hacer": {
+      "title": "Qué hacer en Lagunas de Zempoala",
+      "subtitle": "Actividades en la naturaleza para todos los ritmos",
+      "intro": "El parque combina siete lagunas, bosque de coníferas y senderos accesibles. Puedes acampar, caminar, observar aves, fotografiar y aprender sobre conservación.",
+      "sections": [
+        { "heading": "Senderismo y miradores", "body": "Recorre los senderos interpretativos alrededor de las lagunas y descansa en los miradores con vista al agua." },
+        { "heading": "Campismo y picnic", "body": "Hay zonas de campamento designadas y áreas de descanso; usa solo sitios marcados y retira tu basura." },
+        { "heading": "Observación de fauna", "body": "El parque es el único lugar de Morelos con registro del ocelote; también hay aves, anfibios y el ajolote de altura." }
+      ],
+      "faq": [
+        { "q": "¿Se puede acampar?", "a": "Sí, en zonas de campamento designadas y con equipo propio." },
+        { "q": "¿Es apto para niños?", "a": "Sí, hay rutas planas cerca del centro de visitantes y miradores accesibles." },
+        { "q": "¿Se permite la pesca?", "a": "La pesca deportiva está permitida como actividad; respeta las normas del área natural protegida." }
+      ],
+      "relatedTitle": "Guías relacionadas"
+    },
+    "desde-cdmx": {
+      "title": "Lagunas de Zempoala desde la Ciudad de México",
+      "subtitle": "Escapada de un día: ruta, tiempo y consejos",
+      "intro": "A solo unas dos horas de la CDMX, Lagunas de Zempoala es una de las escapadas naturales más cercanas. Ideal para un día de senderismo, foto y aire fresco.",
+      "sections": [
+        { "heading": "Ruta rápida", "body": "Sal temprano por la Carretera Federal 95 hacia Cuernavaca; el parque está 20.3 km después. Llega cerca de la apertura (09:00) para aprovechar el día." },
+        { "heading": "Plan de día", "body": "Mañana en las lagunas y miradores, comida en el área de descanso, tarde de fotografía o paseo a caballo, regreso antes de las 18:00." },
+        { "heading": "Qué llevar", "body": "Efectivo, agua (1.5–2 L por persona), ropa de capas, bloqueador, snacks y mapas sin conexión." }
+      ],
+      "faq": [
+        { "q": "¿Vale la pena ir solo un día?", "a": "Sí, es perfecto para una escapada de día desde la CDMX." },
+        { "q": "¿Cuánto cuesta el viaje?", "a": "Entrada 95 MXN por persona; el transporte varía según auto o autobús más taxi local." },
+        { "q": "¿Cuál es la mejor temporada?", "a": "Todo el año; la temporada de lluvias llena las lagunas y la seca ofrece aire limpio y frío." }
+      ],
+      "relatedTitle": "Guías relacionadas"
+    }
   }
 }

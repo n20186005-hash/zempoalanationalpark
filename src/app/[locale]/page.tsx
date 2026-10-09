@@ -19,6 +19,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FaqSection from '@/components/FaqSection';
 import MapEmbed from '@/components/MapEmbed';
+import TopicLinks from '@/components/TopicLinks';
 import SourcesSection from '@/components/SourcesSection';
 import ConservationSection from '@/components/ConservationSection';
 import Footer from '@/components/Footer';
@@ -42,6 +43,11 @@ export default async function HomePage({
         <EntityOverview />
         <Intro />
         <BasicInfo />
+        <HoursSection />
+        <TicketsSection />
+        <TransportSection />
+        <MapEmbed />
+        <TopicLinks />
         <WeatherSection locale={locale} />
         <SeasonalGuide />
         <RoutePlans />
@@ -49,14 +55,10 @@ export default async function HomePage({
         <HistoryTimeline />
         <StorySection />
         <RouteSection />
-        <HoursSection />
-        <TicketsSection />
-        <TransportSection />
         <FacilitiesSection />
         <Gallery />
         <Reviews />
         <FaqSection />
-        <MapEmbed />
         <SourcesSection />
         <ConservationSection />
       </main>

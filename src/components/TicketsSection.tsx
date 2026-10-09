@@ -82,6 +82,8 @@ export default function TicketsSection() {
             <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('cardPrice')}</p>
           </div>
         </div>
+
+        <p className="mt-6 text-xs" style={{ color: 'var(--text-muted)' }}>{t('verified')}</p>
       </div>
     </section>
   );

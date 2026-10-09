@@ -28,7 +28,7 @@ const jsonLdGraph = [
       '@type': 'AggregateRating',
       ratingValue: '4.5',
       bestRating: '5',
-      ratingCount: '5444',
+      ratingCount: '5451',
       url: MAPS_URL,
     },
     isAccessibleForFree: false,
@@ -104,9 +104,9 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        zh: zhUrl,
+        'zh-CN': zhUrl,
         en: enUrl,
-        es: esUrl,
+        'es-MX': esUrl,
         'x-default': esUrl,
       } as Record<string, string>,
     },

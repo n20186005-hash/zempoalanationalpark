@@ -6,7 +6,7 @@
   },
   "meta": {
     "title": "Lagunas de Zempoala National Park | Hours, Fees & Directions",
-    "description": "Lagunas de Zempoala National Park guide: opening hours, entrance fees, directions from CDMX & Cuernavaca, weather forecast and what to see. Rated 4.5★ (5,444 Google reviews).",
+    "description": "Lagunas de Zempoala National Park guide: opening hours, entrance fees, directions from CDMX & Cuernavaca, weather forecast and what to see. Rated 4.5★ (5,451 Google reviews).",
     "ogTitle": "Lagunas de Zempoala National Park - Ocuilan Travel Guide",
     "ogImageAlt": "Lagunas de Zempoala National Park in Ocuilan"
   },
@@ -21,7 +21,7 @@
     "title": "Lagunas de Zempoala National Park",
     "subtitle": "State of Mexico · Morelos · Mexico",
     "rating": "4.5",
-    "reviewCount": "5,444",
+    "reviewCount": "5,451",
     "hours": "Sat-Sun & Holidays 09:00-18:00",
     "openMaps": "View Location"
   },
@@ -121,7 +121,8 @@
     "winterTime": "Low temperatures, bring warm clothing",
     "warning": "Important Notes",
     "warningTime": "Park only open on weekends and public holidays, verify latest information before visiting",
-    "tip": "Morning arrival avoids crowds, enjoy a more peaceful natural experience"
+    "tip": "Morning arrival avoids crowds, enjoy a more peaceful natural experience",
+    "verified": "Information verified October 2026 (source: CONANP)."
   },
   "tickets": {
     "title": "Ticket Information",
@@ -135,7 +136,8 @@
     "children": "Mexican Citizens and Foreign Residents",
     "childrenPrice": "50% discount (valid official document required)",
     "card": "Park Activities",
-    "cardPrice": "Camping, hiking, nature photography, wildlife observation, sport fishing, landscape meditation, environmental education"
+    "cardPrice": "Camping, hiking, nature photography, wildlife observation, sport fishing, landscape meditation, environmental education",
+    "verified": "Prices verified October 2026 (source: CONANP)."
   },
   "transport": {
     "title": "Transportation",
@@ -180,59 +182,13 @@
     "showAllPhotos": "Show All Photos"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View on Google Maps",
-    "items": [
-      {
-        "name": "Carlos Mendoza",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "A beautiful natural paradise. The lagoons are crystal clear, and the surrounding pine forests and mountain views are breathtaking. Highly recommended for all nature lovers."
-      },
-      {
-        "name": "María García",
-        "date": "3 weeks ago",
-        "rating": 5,
-        "text": "An excellent ecotourism destination. The lagoons and coniferous forests create a stunning landscape. Fresh air, peaceful environment, perfect getaway from Mexico City."
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "1 month ago",
-        "rating": 4,
-        "text": "Very beautiful national park. The seven lagoons each have their own character, hiking trails are well maintained. Morning visits recommended. The 95 peso entrance fee is well worth it."
-      },
-      {
-        "name": "Ana López",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "One of the most beautiful natural reserves in Mexico. The combination of lagoons and pine forests is unforgettable. It's also the only place in Morelos where the ocelot has been recorded! Definitely worth a visit."
-      },
-      {
-        "name": "Roberto Sánchez",
-        "date": "2 months ago",
-        "rating": 4,
-        "text": "Great nature experience. The lagoons are very beautiful, suitable for hiking and camping. Cold climate in fall/winter, remember to bring warm clothes. Horse rental is available and fun."
-      },
-      {
-        "name": "Sofía Torres",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "Beautiful national park, full of natural charm. Zempoala means 'many lagoons' in Nahuatl, and each of the seven lagoons has its own beauty. Unforgettable."
-      },
-      {
-        "name": "Miguel Ángel",
-        "date": "3 months ago",
-        "rating": 4,
-        "text": "Interesting natural reserve. Experience the beauty of nature up close, the interpretive trails are educational. Recommend bringing your own food and water, limited facilities in the park."
-      },
-      {
-        "name": "Laura Patricia",
-        "date": "2 weeks ago",
-        "rating": 5,
-        "text": "Natural gem. Lagunas de Zempoala is one of the closest natural paradises to Mexico City. The scenery of lagoons and pine forests is unparalleled. A must-visit."
-      }
-    ]
+    "title": "Rating & Reviews",
+    "declaration": "The rating is shown exactly as published by Google Maps. This site does not host or verify individual visitor reviews.",
+    "ratingValue": "4.5",
+    "reviewCount": "5,451",
+    "snapshot": "4.5 ★ · 5,451 reviews on Google Maps",
+    "verifiedNote": "Rating checked October 2026.",
+    "moreReviews": "View reviews on Google Maps"
   },
   "mapSection": {
     "title": "Location & Map",
@@ -538,7 +494,7 @@
     "groupItems": "Pack List",
     "riskTitle": "Risks & Alerts",
     "fallbackNone": "No special conditions today. At 2,800 m the weather can change within an hour - check the forecast before heading up.",
-    "aSunny": "Clear sky: start early for calm lagoon water and the best photo light.",
+    "aSunny": "Clear sky: arrive soon after the 09:00 opening for calm lagoon water and the best photo light.",
     "aCloudy": "Overcast: soft light for photos and comfortable long walks without direct sun.",
     "aFog": "Fog is possible: viewpoints may be clouded in; it usually lifts around midday.",
     "aRainPlan": "High rain chance later: do the trails in the morning and keep a plan B under the picnic ramadas.",
@@ -635,10 +591,10 @@
       {
         "id": "photo",
         "title": "Photography & Nature Lovers",
-        "tag": "Slow, patient, sunrise to sunset",
+        "tag": "Slow, patient, from opening (09:00) to sunset",
         "duration": "Full day recommended",
         "route": [
-          "Sunrise reflections on Quila or Zempoala lagoon.",
+          "Morning-light reflections on Quila or Zempoala lagoon (park opens at 09:00).",
           "Interpretive trail loop through Montezuma pine forest.",
           "Midday rest, then misty or stormy sky shots in the rainy season.",
           "Late afternoon wildlife and bird photography near the shores."
@@ -895,5 +851,90 @@
       "Leave the lagoons untouched: no washing, no waste, no chemicals.",
       "Smoking is a fire risk in pine forest - follow the park's fire rules."
     ]
+  },
+  "topics": {
+    "home": "Home",
+    "faqTitle": "Frequently asked questions",
+    "guidesTitle": "Practical guides",
+    "como-llegar": {
+      "title": "How to get to Lagunas de Zempoala",
+      "subtitle": "Driving route, public transport and tips from CDMX and Cuernavaca",
+      "intro": "Lagunas de Zempoala National Park is an easy day trip from Mexico City. It sits on Federal Highway 95 (Mexico–Cuernavaca), about 20.3 km from Cuernavaca and roughly two hours from the CDMX.",
+      "sections": [
+        { "heading": "By car", "body": "From Mexico City, take Federal Highway 95 south toward Cuernavaca. After Cuernavaca, follow the signed road to the park; the entrance is about 20.3 km on. There is a staffed parking area near the entrance that fills early on weekends." },
+        { "heading": "Public transport", "body": "From the Terminal de Autobuses de Pasajeros de Oriente (TAPO) or Tasqueña in CDMX, take a bus to Cuernavaca (Pullman de Morelos or similar). In Cuernavaca, take local transport toward the park; coordinate it with opening days (Saturday, Sunday and holidays)." },
+        { "heading": "Travel tips", "body": "The park only opens weekends and holidays from 09:00 to 18:00. Arrive early, bring cash for the 95 MXN entry, food and water, and download offline maps because signal is intermittent." }
+      ],
+      "faq": [
+        { "q": "Can you get there by public transport?", "a": "Yes: bus to Cuernavaca then local transport to the park. The last stretch is easier by car or taxi because of opening hours." },
+        { "q": "How long from the CDMX?", "a": "About two hours by car, depending on traffic on Federal Highway 95." },
+        { "q": "Is there parking?", "a": "Yes, a staffed parking area near the entrance; it fills early on weekends and holidays." }
+      ],
+      "relatedTitle": "Related guides"
+    },
+    "precios-y-horarios": {
+      "title": "Lagunas de Zempoala hours and prices",
+      "subtitle": "Entry fee, discounts and opening days in 2026",
+      "intro": "The park only opens Saturday, Sunday and public holidays from 09:00 to 18:00. General entry is 95 MXN per person, with discounts for students, residents and free entry for specific groups.",
+      "sections": [
+        { "heading": "Opening hours", "body": "Saturday, Sunday and public holidays from 09:00 to 18:00. Closed Monday to Friday. Check holiday dates before your visit." },
+        { "heading": "Entry fee", "body": "95 MXN per person per day, paid at the entrance booth. Bring cash; many local services are cash only." },
+        { "heading": "Discounts and free entry", "body": "Free for children under 12, seniors, retirees and people with disabilities (valid ID). Students and teachers 75% off; Mexican citizens and foreign residents 50% off (official document)." }
+      ],
+      "faq": [
+        { "q": "How much is the entry?", "a": "95 MXN per person per day, with discounts for students and residents and free entry for under-12s and seniors." },
+        { "q": "Which days is the park open?", "a": "Only Saturday, Sunday and public holidays, from 09:00 to 18:00." },
+        { "q": "Are cards accepted at the entrance?", "a": "Not always; bring cash for the entry and for services inside and near the park." }
+      ],
+      "relatedTitle": "Related guides"
+    },
+    "fotos": {
+      "title": "Photos of Lagunas de Zempoala",
+      "subtitle": "Lagoons, pine forest and high-altitude scenery",
+      "intro": "The seven lagoons surrounded by Montezuma pine form one of the most photographed landscapes near Mexico City. Here are tips for photographing them and what to expect each season.",
+      "sections": [
+        { "heading": "Best light", "body": "The softest light is in the morning after opening (09:00) and at sunset. The water is usually calmer and reflects the sky." },
+        { "heading": "What to photograph", "body": "The permanent lagoons (Quila, Zempoala, Compila), the viewpoints, the interpretive trails and wildlife such as the ocelot or various birds." },
+        { "heading": "By season", "body": "Rainy season (Jun–Aug): full lagoons and dramatic skies. Dry season (Nov–Feb): clean, cold air, ideal for crisp landscapes." }
+      ],
+      "faq": [
+        { "q": "Can you enter before 09:00 for photos?", "a": "No; the park opens at 09:00 on visit days. Arrive early after opening for the best light." },
+        { "q": "Is there a photo tour?", "a": "Not a park service; local guides offer horses and tours, agree the price in advance." },
+        { "q": "Are drones allowed?", "a": "Check with the rangers; drone use is normally restricted in the protected natural area." }
+      ],
+      "relatedTitle": "Related guides"
+    },
+    "que-hacer": {
+      "title": "Things to do in Lagunas de Zempoala",
+      "subtitle": "Nature activities for every pace",
+      "intro": "The park combines seven lagoons, coniferous forest and accessible trails. You can camp, walk, watch birds, photograph and learn about conservation.",
+      "sections": [
+        { "heading": "Hiking and viewpoints", "body": "Walk the interpretive trails around the lagoons and rest at the viewpoints overlooking the water." },
+        { "heading": "Camping and picnics", "body": "There are designated camping areas and rest zones; use only marked sites and take your rubbish with you." },
+        { "heading": "Wildlife watching", "body": "The park is the only place in Morelos with a recorded ocelot; there are also birds, amphibians and the high-altitude axolotl." }
+      ],
+      "faq": [
+        { "q": "Can you camp?", "a": "Yes, in designated camping areas with your own equipment." },
+        { "q": "Is it good for children?", "a": "Yes, there are flat routes near the visitor center and accessible viewpoints." },
+        { "q": "Is fishing allowed?", "a": "Sport fishing is allowed as an activity; respect the rules of the protected natural area." }
+      ],
+      "relatedTitle": "Related guides"
+    },
+    "desde-cdmx": {
+      "title": "Lagunas de Zempoala from Mexico City",
+      "subtitle": "Day trip: route, time and tips",
+      "intro": "Just about two hours from the CDMX, Lagunas de Zempoala is one of the closest nature getaways. Ideal for a day of hiking, photos and fresh air.",
+      "sections": [
+        { "heading": "Quick route", "body": "Leave early via Federal Highway 95 toward Cuernavaca; the park is 20.3 km beyond. Arrive near opening (09:00) to make the most of the day." },
+        { "heading": "Day plan", "body": "Morning at the lagoons and viewpoints, lunch at the rest area, afternoon photo or horse ride, back before 18:00." },
+        { "heading": "What to bring", "body": "Cash, water (1.5–2 L per person), layers, sunscreen, snacks and offline maps." }
+      ],
+      "faq": [
+        { "q": "Is a single day worth it?", "a": "Yes, it is perfect for a day trip from the CDMX." },
+        { "q": "How much does the trip cost?", "a": "95 MXN entry per person; transport varies with car or bus plus local taxi." },
+        { "q": "Best season?", "a": "All year; the rainy season fills the lagoons and the dry season offers clean, cold air." }
+      ],
+      "relatedTitle": "Related guides"
+    }
   }
 }

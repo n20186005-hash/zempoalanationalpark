@@ -1,15 +1,15 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations } from 'next-intl';
 
 function Stars({ count }: { count: number }) {
   return (
-    <div className="flex gap-0.5">
+    <div className="flex gap-0.5" aria-hidden="true">
       {[1, 2, 3, 4, 5].map((i) => (
         <svg
           key={i}
-          width="14"
-          height="14"
+          width="20"
+          height="20"
           viewBox="0 0 24 24"
-          fill={i <= count ? '#f0b429' : 'var(--border-color)'}
+          fill={i <= Math.round(count) ? '#f0b429' : 'var(--border-color)'}
           stroke="none"
         >
           <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
@@ -21,13 +21,6 @@ function Stars({ count }: { count: number }) {
 
 export default function Reviews() {
   const t = useTranslations('reviews');
-  const messages = useMessages() as any;
-  const items = (messages?.reviews?.items || []) as Array<{
-    name: string;
-    date: string;
-    rating: number;
-    text: string;
-  }>;
 
   return (
     <section id="reviews" className="section-padding">
@@ -40,54 +33,34 @@ export default function Reviews() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
-        <p
-          className="text-sm leading-relaxed mb-10 max-w-2xl"
-          style={{ color: 'var(--text-muted)' }}
+        <div
+          className="rounded-2xl p-6 sm:p-8 mb-8 flex flex-col sm:flex-row sm:items-center gap-6"
+          style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)', boxShadow: 'var(--card-shadow)' }}
         >
-          {t('declaration')}
-        </p>
-
-        <div className="grid sm:grid-cols-2 gap-4 sm:gap-6 mb-8">
-          {items.map((review, i) => (
-            <div
-              key={i}
-              className="rounded-xl p-5 sm:p-6 transition-shadow hover:shadow-md"
-              style={{
-                background: 'var(--card-bg)',
-                boxShadow: 'var(--card-shadow)',
-                border: '1px solid var(--border-color)',
-              }}
-            >
-              <div className="flex items-start justify-between mb-3">
-                <div>
-                  <div className="flex items-center gap-2 mb-1">
-                    <div
-                      className="w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold text-white"
-                      style={{ background: 'var(--accent)' }}
-                    >
-                      {review.name.charAt(0)}
-                    </div>
-                    <span
-                      className="text-sm font-semibold"
-                      style={{ color: 'var(--text-primary)' }}
-                    >
-                      {review.name}
-                    </span>
-                  </div>
-                </div>
-                <span className="text-xs" style={{ color: 'var(--text-muted)' }}>
-                  {review.date}
-                </span>
-              </div>
-              <Stars count={review.rating} />
-              <p className="text-sm mt-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-                {review.text}
+          <div className="flex items-center gap-4">
+            <span className="text-5xl font-bold font-display" style={{ color: 'var(--accent)' }}>
+              {t('ratingValue')}
+            </span>
+            <div>
+              <Stars count={Number(t('ratingValue'))} />
+              <p className="text-sm mt-1 font-medium" style={{ color: 'var(--text-secondary)' }}>
+                {t('reviewCount')} · Google Maps
               </p>
             </div>
-          ))}
+          </div>
+          <p
+            className="text-sm leading-relaxed sm:border-l sm:pl-6"
+            style={{ color: 'var(--text-muted)' }}
+          >
+            {t('declaration')}
+          </p>
         </div>
 
-        {/* More reviews link — arrow only */}
+        <p className="text-xs mb-6" style={{ color: 'var(--text-muted)' }}>
+          {t('verifiedNote')}
+        </p>
+
+        {/* Google Maps link — arrow only */}
         <div className="flex justify-center">
           <a
             href="https://maps.app.goo.gl/fZYMqK4G6o9FANmg8"

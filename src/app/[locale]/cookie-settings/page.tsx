@@ -19,9 +19,9 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'zh-CN': zhUrl,
         'en': enUrl,
-        'es': esUrl,
+        'es-MX': esUrl,
         'x-default': esUrl,
       },
     },
