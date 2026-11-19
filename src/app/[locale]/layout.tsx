@@ -28,7 +28,7 @@ const jsonLdGraph = [
       '@type': 'AggregateRating',
       ratingValue: '4.5',
       bestRating: '5',
-      ratingCount: '5451',
+      ratingCount: '5459',
       url: MAPS_URL,
     },
     isAccessibleForFree: false,
