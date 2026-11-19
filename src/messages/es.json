@@ -21,9 +21,10 @@
     "title": "Lagunas de Zempoala: Guía para Visitar el Parque Nacional",
     "subtitle": "Estado de México · Morelos · México",
     "rating": "4.5",
-    "reviewCount": "5,451",
+    "reviewCount": "5,459",
     "hours": "Sáb-Dom y festivos 09:00-18:00",
-    "openMaps": "Ver ubicación"
+    "openMaps": "Ver ubicación",
+    "imageAlt": "Paisaje principal de las Lagunas de Zempoala en Ocuilan, México"
   },
   "intro": {
     "title": "Explora el Parque Nacional Lagunas de Zempoala",
@@ -185,15 +186,16 @@
     "title": "Calificación y reseñas",
     "declaration": "La calificación se muestra tal cual la publica Google Maps. Este sitio no aloja ni verifica las reseñas individuales de los visitantes.",
     "ratingValue": "4.5",
-    "reviewCount": "5,451",
-    "snapshot": "4.5 ★ · 5,451 reseñas en Google Maps",
+    "reviewCount": "5,459",
+    "snapshot": "4.5 ★ · 5,459 reseñas en Google Maps",
     "verifiedNote": "Calificación consultada en octubre de 2026.",
     "moreReviews": "Ver reseñas en Google Maps"
   },
   "mapSection": {
     "title": "Ubicación y mapa",
     "subtitle": "2MHJ+Q2 Lagunas de Zempoala, Estado de México, México (20.3 km de Cuernavaca)",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "iframeTitle": "Google Maps: Parque Nacional Lagunas de Zempoala, Ocuilan"
   },
   "footer": {
     "rights": "© 2026 Parque Nacional Lagunas de Zempoala. Todos los derechos reservados.",
@@ -363,10 +365,10 @@
       }
     ],
     "guideTitle": "Consejo para Visitantes",
-    "guideContent": "Al visitar, comience en el **Centro de Visitantes** para conocer el ecosistema del parque y las siete lagunas; luego camine por los **Senderos Interpretativos** para disfrutar del impresionante paisaje de lagunas y bosques de coníferas; descanse en los **Miradores** para observar la vida silvestre; y finalmente visite la **Tienda de Artesanías** para souvenirs. Sea un visitante responsable y ecológico, y siga las instrucciones de los guardabosques del parque."
+    "guideContent": "Al visitar, comience en el Centro de Visitantes para conocer el ecosistema del parque y las siete lagunas; luego camine por los Senderos Interpretativos para disfrutar del impresionante paisaje de lagunas y bosques de coníferas; descanse en los miradores para observar la vida silvestre; y finalmente visite la tienda de artesanías para recuerdos. Sea un visitante responsable y ecológico, y siga las instrucciones de los guardabosques del parque."
   },
   "seoOverview": {
-    "welcome": "Bienvenido al **Parque Nacional Lagunas de Zempoala**, ampliamente reconocido como **Parque Nacional Zempoala**. Ubicado en **Ocuilan**, **Estado de México**, **México** - en la frontera con **Morelos** - este parque nacional es un punto de partida ideal para explorar las lagunas, los bosques de pino y la fauna única de la región.",
+    "welcome": "Bienvenido al Parque Nacional Lagunas de Zempoala, ampliamente reconocido como Parque Nacional Zempoala. Ubicado en Ocuilan, Estado de México, México - en la frontera con Morelos - este parque nacional es un punto de partida ideal para explorar las lagunas, los bosques de pino y la fauna única de la región.",
     "breadcrumbTitle": "Ubicación geográfica",
     "breadcrumb": [
       "Parque Nacional Lagunas de Zempoala",
@@ -389,7 +391,7 @@
       {
         "id": "landmarks",
         "heading": "Lugares de interés alrededor del Parque Nacional Zempoala",
-        "text": "Al visitar **el Parque Nacional Lagunas de Zempoala**, se pueden recorrer fácilmente los puntos de interés cercanos, como **Cuernavaca**, con su centro histórico y su catedral, y el **pueblo mágico** de **Tepoztlán**, donde se encuentra la pirámide del Tepozteco. El mirador **Pico del Águila** está en la misma carretera."
+        "text": "Al visitar el Parque Nacional Lagunas de Zempoala, se pueden explorar otros destinos de la región, como Cuernavaca, con su centro histórico y su catedral, y el pueblo mágico de Tepoztlán, donde se encuentra la pirámide del Tepozteco. El mirador Pico del Águila está en la misma carretera."
       },
       {
         "id": "history",
@@ -1101,7 +1103,7 @@
       "sections": [
         {
           "heading": "Calificación y fuente",
-          "body": "La página principal muestra una referencia de 4.5 estrellas y 5,451 reseñas de Google Maps, consultada en octubre de 2026. Es una captura histórica, no una actualización en tiempo real; abre el perfil de Google Maps para consultar la cifra actual y las reseñas originales."
+          "body": "La página principal muestra una referencia de 4.5 estrellas y 5,459 reseñas de Google Maps, consultada en noviembre de 2026. Es una captura histórica, no una actualización en tiempo real; abre el perfil de Google Maps para consultar la cifra actual y las reseñas originales."
         },
         {
           "heading": "Cómo leer opiniones recientes",
@@ -1329,5 +1331,15 @@
       ],
       "relatedTitle": "Guías relacionadas"
     }
+  },
+  "accessibility": {
+    "theme": "Cambiar entre tema claro y oscuro",
+    "language": "Elegir idioma",
+    "toggleCookie": "Cambiar preferencia de cookies",
+    "closeGallery": "Cerrar visor de fotos",
+    "previousPhoto": "Foto anterior",
+    "nextPhoto": "Foto siguiente",
+    "galleryAltSuffix": "Parque Nacional Lagunas de Zempoala, Ocuilan",
+    "galleryPhoto": "Foto {number} de las Lagunas de Zempoala"
   }
 }
