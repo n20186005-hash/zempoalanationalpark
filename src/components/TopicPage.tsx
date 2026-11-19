@@ -99,11 +99,11 @@ export default function TopicPage({ topic }: { topic: string }) {
 
           {data.photos?.length > 0 && (
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
-              {data.photos.map((photo: { src: string; alt: string; source: string }, i: number) => (
+              {data.photos.map((photo: { src: string; alt: string; source: string; credit?: string }, i: number) => (
                 <figure key={i} className="min-w-0 rounded-xl overflow-hidden" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
                   <img src={photo.src} alt={photo.alt} loading="lazy" className="w-full h-56 object-cover" />
                   <figcaption className="p-3 text-xs break-words" style={{ color: 'var(--text-muted)' }}>
-                    {photo.alt} · <a href={photo.source} target="_blank" rel="noopener noreferrer" className="underline">Wikimedia Commons</a>
+                    {photo.alt} · <a href={photo.source} target="_blank" rel="noopener noreferrer" className="underline">{photo.credit || 'Wikimedia Commons'}</a>
                   </figcaption>
                 </figure>
               ))}
@@ -115,8 +115,8 @@ export default function TopicPage({ topic }: { topic: string }) {
             <dl className="grid sm:grid-cols-2 gap-5 text-sm">
               <div><dt className="font-semibold mb-1">{labels.place}</dt><dd style={{ color: 'var(--text-secondary)' }}>{data.location || 'Parque Nacional Lagunas de Zempoala · Huitzilac / Ocuilan, México'}</dd></div>
               <div><dt className="font-semibold mb-1">{labels.access}</dt><dd style={{ color: 'var(--text-secondary)' }}>{data.access || messages?.topics?.['como-llegar']?.subtitle}</dd></div>
-              <div><dt className="font-semibold mb-1">{labels.manager}</dt><dd style={{ color: 'var(--text-secondary)' }}>Comisión Nacional de Áreas Naturales Protegidas (CONANP) · <a className="underline" href="https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97" target="_blank" rel="noopener noreferrer">{labels.source}</a></dd></div>
-              <div><dt className="font-semibold mb-1">{labels.rating}</dt><dd style={{ color: 'var(--text-secondary)' }}>{messages?.reviews?.ratingValue} ★ · {messages?.reviews?.reviewCount} · {labels.reference}<div><a className="underline" href={parkMap} target="_blank" rel="noopener noreferrer">Google Maps</a></div></dd></div>
+              <div><dt className="font-semibold mb-1">{labels.manager}</dt><dd style={{ color: 'var(--text-secondary)' }}>{data.manager || 'Comisión Nacional de Áreas Naturales Protegidas (CONANP)'} · <a className="underline" href={data.managerUrl || 'https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97'} target="_blank" rel="noopener noreferrer">{data.manager ? data.managerLinkLabel || labels.source : labels.source}</a></dd></div>
+              <div><dt className="font-semibold mb-1">{data.ratingLabel || labels.rating}</dt><dd style={{ color: 'var(--text-secondary)' }}>{data.ratingValue || messages?.reviews?.ratingValue} ★ · {data.reviewCount || messages?.reviews?.reviewCount} · {data.ratingDate || labels.reference}<div><a className="underline" href={data.mapUrl || parkMap} target="_blank" rel="noopener noreferrer">Google Maps</a></div></dd></div>
             </dl>
           </section>
 
