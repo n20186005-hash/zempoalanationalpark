@@ -22,6 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/desde-cuernavaca',
     '/desde-huitzilac',
     '/laguna-zempoala',
+    '/parroquia-san-juan-bautista-huitzilac',
   ];
 
   const sitemap: MetadataRoute.Sitemap = [];
