@@ -1263,6 +1263,71 @@
         }
       ],
       "relatedTitle": "Related guides"
+    },
+    "parroquia-san-juan-bautista-huitzilac": {
+      "title": "San Juan Bautista Parish Church, Huitzilac: history and visit",
+      "subtitle": "A historic church in central Huitzilac on the route toward Lagunas de Zempoala",
+      "intro": "Parroquia de San Juan Bautista stands at the main square of Huitzilac, Morelos. This active place of worship is a separate cultural stop from Lagunas de Zempoala National Park.",
+      "location": "Plaza Principal, 62510 Huitzilac, Morelos, Mexico",
+      "access": "In central Huitzilac; navigate to the church itself, not the national park",
+      "manager": "Diocese of Cuernavaca / San Juan Bautista parish community",
+      "managerUrl": "https://www.comunicaciondiocesiscuernavaca.com/directorio",
+      "managerLinkLabel": "Diocesan directory",
+      "ratingLabel": "Church visitor rating",
+      "ratingValue": "5.0",
+      "reviewCount": "6 reviews",
+      "ratingDate": "Google Maps · checked 19 November 2026",
+      "sections": [
+        {
+          "heading": "History",
+          "body": "INAH heritage records identify the church and settlement of Huitzilac. Local religious history goes back to Franciscan evangelization in the sixteenth century; later phases of the building should not be confused with the origin of the settlement."
+        },
+        {
+          "heading": "Architecture and details",
+          "body": "From the square, notice the stone façade, bell tower and the church's relationship with the surrounding town. Interior access depends on parish activities; keep clear of religious services."
+        },
+        {
+          "heading": "Visitor basics",
+          "body": "We have not confirmed universal tourist opening hours or an admission charge. Contact the parish directly before planning an interior visit or attending Mass. Respect worship, photography restrictions and quiet areas."
+        },
+        {
+          "heading": "Directions and combined trip",
+          "body": "The church is on Huitzilac's main square. If pairing it with Lagunas de Zempoala, use separate map destinations: the church is in town, while the national park lies farther along mountain roads."
+        },
+        {
+          "heading": "Photo stops",
+          "body": "The façade from the public square provides a clear view of the landmark and town setting. Avoid obstructing entrances or photographing worshippers without consent."
+        },
+        {
+          "heading": "Management and sources",
+          "body": "The parish belongs to the Diocese of Cuernavaca. The diocesan directory identifies its address, INAH documents the historical site, and Explora Morelos provides the matched exterior photograph."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is this church part of the national park?",
+          "a": "No. It is an independently managed parish in central Huitzilac."
+        },
+        {
+          "q": "What are the visiting hours?",
+          "a": "Opening may depend on religious services; confirm directly with the parish."
+        },
+        {
+          "q": "Can I stop here on a park trip?",
+          "a": "Yes, but use the specific church location and check the road conditions separately."
+        }
+      ],
+      "mapLabel": "Open San Juan Bautista Parish on Google Maps",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Parroquia%20de%20San%20Juan%20Bautista%20Huitzilac&query_place_id=ChIJVRXh10fhzYURevVaNXO2I_M",
+      "photos": [
+        {
+          "src": "https://exploramorelos.com/wp-content/uploads/2020/09/huitzilac-001-ret-1920x1024.jpg",
+          "alt": "San Juan Bautista Parish Church in Huitzilac",
+          "source": "https://exploramorelos.com/huitzilac/",
+          "credit": "Explora Morelos"
+        }
+      ],
+      "relatedTitle": "Related guides"
     }
   }
 }
