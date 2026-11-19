@@ -10,6 +10,7 @@ function CookieToggle({
   onToggle,
   locked,
   badge,
+  actionLabel,
 }: {
   label: string;
   description: string;
@@ -17,6 +18,7 @@ function CookieToggle({
   onToggle: () => void;
   locked?: boolean;
   badge?: string;
+  actionLabel: string;
 }) {
   return (
     <div
@@ -42,7 +44,7 @@ function CookieToggle({
       <button
         onClick={locked ? undefined : onToggle}
         className={`cookie-toggle flex-shrink-0 ${enabled ? 'active' : ''} ${locked ? 'opacity-60 cursor-not-allowed' : ''}`}
-        aria-label={`Toggle ${label}`}
+        aria-label={`${actionLabel}: ${label}`}
         disabled={locked}
       />
     </div>
@@ -51,6 +53,7 @@ function CookieToggle({
 
 export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
+  const a11y = useTranslations('accessibility');
   const ht = useTranslations('header');
   const locale = useLocale();
   const homeHref = locale === 'zh' ? '/zh' : `/${locale}`;
@@ -107,6 +110,7 @@ export default function CookieSettingsClient() {
 
         <div className="space-y-4 mb-8">
           <CookieToggle
+            actionLabel={a11y('toggleCookie')}
             label={t('essential.title')}
             description={t('essential.description')}
             enabled={true}
@@ -118,6 +122,7 @@ export default function CookieSettingsClient() {
           {t.raw('analytics.items') && Array.isArray(t.raw('analytics.items')) && 
             t.raw('analytics.items').map((item: any, i: number) => (
               <CookieToggle
+                actionLabel={a11y('toggleCookie')}
                 key={i}
                 label={t('analytics.title')}
                 description={t('analytics.description')}
@@ -131,6 +136,7 @@ export default function CookieSettingsClient() {
           {t.raw('preferences.items') && Array.isArray(t.raw('preferences.items')) && 
             t.raw('preferences.items').map((item: any, i: number) => (
               <CookieToggle
+                actionLabel={a11y('toggleCookie')}
                 key={i}
                 label={t('preferences.title')}
                 description={t('preferences.description')}
@@ -144,6 +150,7 @@ export default function CookieSettingsClient() {
           {t.raw('marketing.items') && Array.isArray(t.raw('marketing.items')) && 
             t.raw('marketing.items').map((item: any, i: number) => (
               <CookieToggle
+                actionLabel={a11y('toggleCookie')}
                 key={i}
                 label={t('marketing.title')}
                 description={t('marketing.description')}
