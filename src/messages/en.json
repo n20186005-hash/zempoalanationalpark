@@ -1201,6 +1201,68 @@
       "mapLabel": "Directions from Huitzilac",
       "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Huitzilac%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
       "relatedTitle": "Related guides"
+    },
+    "laguna-zempoala": {
+      "title": "Laguna de Zempoala: main lake and visitor guide",
+      "subtitle": "The main lake, conifer forest and practical tips inside Lagunas de Zempoala National Park",
+      "intro": "Laguna de Zempoala lies below Cerro de Zempoala. CONANP's management plan describes it as the principal lake and a focus of public-use facilities. It is a separate waterbody from Tonatiahua and Compila.",
+      "location": "Laguna Zempoala · Lagunas de Zempoala National Park, State of Mexico / Morelos, Mexico",
+      "access": "Follow the marked park public-area access from Huitzilac; check current roads and signs",
+      "sections": [
+        {
+          "heading": "History and landscape",
+          "body": "The national park was established in 1936 to protect its lakes and forests. Laguna de Zempoala is fed by streams from the uplands, creating a landscape of open water, meadow and conifers."
+        },
+        {
+          "heading": "What to look for",
+          "body": "Observe reflections of forested slopes, the transition from shore to meadow, waterbirds from a distance and wetland vegetation. Do not disturb wildlife or remove plants."
+        },
+        {
+          "heading": "Facilities and visitor information",
+          "body": "The public-use zone concentrates visitor services, which may change by season. Verify current hours, entrance fees, parking and open trails; never assume the shore is an authorized swimming area."
+        },
+        {
+          "heading": "Directions and walking",
+          "body": "From Huitzilac follow signed access to the park's visitor area or navigate specifically to Laguna Zempoala. Stay on open paths and leave time for photographs and rest; other lakes may not be readily accessible."
+        },
+        {
+          "heading": "Photos and families",
+          "body": "Photograph the clouds, forest and reflections from permitted lakeside viewpoints. Carry warm layers, water and grippy shoes; keep children away from steep or slippery edges."
+        },
+        {
+          "heading": "Management and sources",
+          "body": "CONANP administers the federally protected area. Geography is based on the park management plan; the two photographs are identified as Laguna de Zempoala by Wikimedia Commons."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is it the same lake as Tonatiahua?",
+          "a": "No. They are separate lakes within the national park."
+        },
+        {
+          "q": "Can visitors swim?",
+          "a": "Do not assume permission; follow current park staff instructions and restricted-area signs."
+        },
+        {
+          "q": "How much time should I allow?",
+          "a": "Plan a relaxed outing for viewpoints and open paths, with extra time for changing weather."
+        }
+      ],
+      "mapLabel": "Locate Laguna Zempoala on Google Maps",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=19.050717%2C-99.314035",
+      "photos": [
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Zempoala_(6068074727).jpg",
+          "alt": "View of Laguna de Zempoala",
+          "source": "https://commons.wikimedia.org/wiki/File:Laguna_de_Zempoala_(6068074727).jpg"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Zempoala.jpg",
+          "alt": "Laguna de Zempoala shore and landscape",
+          "source": "https://commons.wikimedia.org/wiki/File:Laguna_de_Zempoala.jpg"
+        }
+      ],
+      "relatedTitle": "Related guides"
     }
   }
 }
