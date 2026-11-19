@@ -1263,6 +1263,71 @@
         }
       ],
       "relatedTitle": "相关攻略"
+    },
+    "parroquia-san-juan-bautista-huitzilac": {
+      "title": "Huitzilac 圣胡安洗者堂历史与游览指南",
+      "subtitle": "前往 Zempoala 湖区途中可独立参观的历史教堂",
+      "intro": "Parroquia de San Juan Bautista 位于莫雷洛斯州 Huitzilac 镇中心广场，是仍在使用的天主教教堂，与 Lagunas de Zempoala 国家公园属于不同的独立游览地点。",
+      "location": "Plaza Principal, 62510 Huitzilac, Morelos, Mexico",
+      "access": "位于 Huitzilac 镇中心；请导航到教堂，不要使用国家公园的统一定位",
+      "manager": "Cuernavaca 教区／San Juan Bautista 堂区",
+      "managerUrl": "https://www.comunicaciondiocesiscuernavaca.com/directorio",
+      "managerLinkLabel": "教区目录",
+      "ratingLabel": "教堂游客评分",
+      "ratingValue": "5.0",
+      "reviewCount": "6 条评价",
+      "ratingDate": "Google Maps · 2026 年 11 月 19 日查询",
+      "sections": [
+        {
+          "heading": "历史背景",
+          "body": "墨西哥国家人类学与历史研究所 INAH 收录了该教堂与 Huitzilac 聚落的历史资料。当地宗教活动与十六世纪方济各会传播有关，现存建筑的历次改建应与聚落起源分别理解。"
+        },
+        {
+          "heading": "建筑观察重点",
+          "body": "可从中心广场欣赏石砌立面、钟楼及教堂与街区的关系。内部开放受宗教活动影响，游览时应避免干扰礼拜。"
+        },
+        {
+          "heading": "基本信息与参观",
+          "body": "目前没有核实到统一的游客开放时段或门票规定。如计划进堂或参加弥撒，应事先联系堂区；尊重拍摄限制和安静空间。"
+        },
+        {
+          "heading": "交通与联游",
+          "body": "教堂位于 Huitzilac 的 Plaza Principal。若与 Lagunas de Zempoala 安排同一天游览，请分别导航：教堂位于镇中心，国家公园还需沿山区道路继续前往。"
+        },
+        {
+          "heading": "摄影机位",
+          "body": "从公共广场可拍摄立面、钟楼和城镇环境。不要堵塞入口，也不要未经同意拍摄参加宗教活动者。"
+        },
+        {
+          "heading": "管理主体与资料来源",
+          "body": "教堂属于 Cuernavaca 教区。地址可核对教区目录，历史建筑资料来自 INAH，外观照片由 Explora Morelos 标明为 Huitzilac 教堂。"
+        }
+      ],
+      "faq": [
+        {
+          "q": "教堂属于国家公园吗？",
+          "a": "不属于。它是 Huitzilac 镇中心独立管理的宗教场所。"
+        },
+        {
+          "q": "什么时候可以入内？",
+          "a": "开放可能随宗教活动变化，建议提前直接向堂区确认。"
+        },
+        {
+          "q": "能顺路前往国家公园吗？",
+          "a": "可以结合行程，但必须分别核对导航终点和道路状况。"
+        }
+      ],
+      "mapLabel": "在 Google Maps 查看 San Juan Bautista 教堂",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Parroquia%20de%20San%20Juan%20Bautista%20Huitzilac&query_place_id=ChIJVRXh10fhzYURevVaNXO2I_M",
+      "photos": [
+        {
+          "src": "https://exploramorelos.com/wp-content/uploads/2020/09/huitzilac-001-ret-1920x1024.jpg",
+          "alt": "Huitzilac 镇中心的 San Juan Bautista 教堂",
+          "source": "https://exploramorelos.com/huitzilac/",
+          "credit": "Explora Morelos"
+        }
+      ],
+      "relatedTitle": "相关攻略"
     }
   }
 }
