@@ -12,6 +12,7 @@ export const TOPIC_KEYS = [
   'opiniones',
   'desde-cuernavaca',
   'desde-huitzilac',
+  'laguna-zempoala',
 ] as const;
 
 export type TopicKey = (typeof TOPIC_KEYS)[number];
