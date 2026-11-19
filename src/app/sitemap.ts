@@ -18,6 +18,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/desde-cdmx',
     '/cabanas-y-alojamiento',
     '/pesca-y-natacion',
+    '/opiniones',
+    '/desde-cuernavaca',
+    '/desde-huitzilac',
   ];
 
   const sitemap: MetadataRoute.Sitemap = [];
