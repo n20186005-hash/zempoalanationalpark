@@ -40,7 +40,7 @@
     "alsoKnownAs": {
       "title": "核心亮点",
       "items": [
-        "七座潟湖：Zempoala 在纳瓦特尔语中意为“众多潟湖”，公园由七座潟湖组成——奎拉潟湖、Zempoala潟湖、康皮拉潟湖、托纳蒂瓦潟湖、塞卡潟湖、普列塔潟湖和韦亚潘潟湖。其中三座为常年潟湖，其余为间歇性潟湖。",
+        "七座潟湖：Zempoala 在纳瓦特尔语中意为“众多潟湖”，公园由七座潟湖组成——奎拉潟湖、Zempoala潟湖、康皮拉潟湖、托纳蒂瓦潟湖、塞卡潟湖、普列塔潟湖和韦亚潘潟湖。Zempoala 主湖常年有水；Compila 在旱季明显缩小，Quila 主要在雨季形成浅水。",
         "珍稀物种：莫雷洛斯州唯一有美洲豹猫（Leopardus pardalis）记录的地方，还有横斑鳄（Crotalus transversus）等特有物种。",
         "含水层补给：阿帕特拉科河微流域含水层的主要补给区，是墨西哥城都市区附近为数不多的常年水体之一。",
         "生态旅游：可进行露营、徒步、景观冥想、自然摄影、观察动植物和运动钓鱼等活动。"
@@ -75,7 +75,7 @@
       {
         "id": "nature",
         "title": "自然景观",
-        "content": "公园内有七座潟湖，被蒙特祖玛松等针叶林环绕。其中三座为常年潟湖（奎拉潟湖、Zempoala潟湖、康皮拉潟湖），其余四座为间歇性潟湖，其出现取决于降雨量。这里也是莫雷洛斯州唯一有美洲豹猫（Leopardus pardalis）记录的地方，还有横斑鳄（Crotalus transversus）、墨西哥钝口螈（Ambystoma altamirani）等特有物种。代表性物种还包括野猫（Lynx rufus）、浣熊（Procyon lotor）、蓝知更鸟（Cyanocitta stelleri）等。"
+        "content": "公园内有七座潟湖，被蒙特祖玛松等针叶林环绕。Zempoala 主湖常年有水，Tonatiahua 受常流溪水补给；Compila 和 Quila 则有明显季节变化。这里也是莫雷洛斯州唯一有美洲豹猫（Leopardus pardalis）记录的地方，还有横斑鳄（Crotalus transversus）、墨西哥钝口螈（Ambystoma altamirani）等特有物种。代表性物种还包括野猫（Lynx rufus）、浣熊（Procyon lotor）、蓝知更鸟（Cyanocitta stelleri）等。"
       },
       {
         "id": "experience",
@@ -335,7 +335,7 @@
         "year": "纳瓦特尔语",
         "title": "名称起源：Zempoala 的含义",
         "plaque": "七座潟湖的名称",
-        "description": "Zempoala 在纳瓦特尔语中意为“众多潟湖”，因为构成这座国家公园景观的潟湖共有七个：奎拉潟湖、Zempoala潟湖、康皮拉潟湖、托纳蒂瓦潟湖、塞卡潟湖、普列塔潟湖和韦亚潘潟湖。其中只有三个是常年潟湖；其余的都是间歇性潟湖，其出现和形成大型水体都取决于降雨量。"
+        "description": "Zempoala 在纳瓦特尔语中意为“众多潟湖”，因为构成这座国家公园景观的潟湖共有七个：奎拉潟湖、Zempoala潟湖、康皮拉潟湖、托纳蒂瓦潟湖、塞卡潟湖、普列塔潟湖和韦亚潘潟湖。湖泊水文各不相同：Zempoala 常年有水，Compila 旱季显著缩小，Quila 在雨季形成浅水。"
       },
       {
         "year": "1936",
@@ -827,7 +827,7 @@
       {
         "id": "seasonal",
         "title": "为什么有些潟湖时有时无",
-        "text": "公园内只有三座常年潟湖（奎拉、森波阿拉、康皮拉），其余四座为季节性潟湖：夏季雨水到来时充盈，干季则缩小乃至消失——这是自然的节律，而非生态受损的信号。"
+        "text": "CONANP 记载 Zempoala 为常年水体，Tonatiahua 有常流溪水补给；Compila 旱季大幅缩小，Quila 则在雨季形成持续数月的浅水。不同湖盆须分别判断。"
       },
       {
         "id": "axolotl",
@@ -935,7 +935,7 @@
         },
         {
           "heading": "拍什么",
-          "body": "常年潟湖（奎拉、Zempoala、康皮拉）、观景点、解说步道，以及美洲豹猫或各类鸟类等野生动物。"
+          "body": "Zempoala 主湖、Compila 和 Quila 的季节性湖盆、观景点、解说步道，以及美洲豹猫或各类鸟类等野生动物。"
         },
         {
           "heading": "按季节",
