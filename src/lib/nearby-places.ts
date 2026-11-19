@@ -47,7 +47,7 @@ export const NEARBY_PLACES: NearbyPlace[] = [
     }
   },
   {
-    slug: 'palacio-de-cortes', name: 'Museo Regional de los Pueblos de Morelos, Palacio de Cortés', city: 'Cuernavaca', address: 'Plaza de Armas, Cuernavaca Centro, Morelos, México', map: 'Museo Regional de los Pueblos de Morelos Palacio de Cortés Cuernavaca',
+    slug: 'palacio-de-cortes', name: 'Museo Regional de los Pueblos de Morelos, Palacio de Cortés', city: 'Cuernavaca', address: 'Francisco Leyva 100, Centro, 62000 Cuernavaca, Morelos, México (entrada por Jardín Juárez)', map: 'Museo Regional de los Pueblos de Morelos Palacio de Cortés Francisco Leyva 100 Cuernavaca',
     image: 'https://lugares.inah.gob.mx/sites/default/files/museos/20230321_MRPM_095__Luis_Gerardo_Pena_Torres_INAH.jpg', imageSource: 'https://lugares.inah.gob.mx/es/node/4249', source: 'https://lugares.inah.gob.mx/es/node/4249',
     manager: 'Instituto Nacional de Antropología e Historia (INAH)', access: 'Cuernavaca Centro, a un costado de la plaza central', admission: 'Consultar horario y tarifa vigentes del museo en INAH', stay: 'Cuernavaca Centro',
     text: {
