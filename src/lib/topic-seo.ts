@@ -13,6 +13,7 @@ export const TOPIC_KEYS = [
   'desde-cuernavaca',
   'desde-huitzilac',
   'laguna-zempoala',
+  'parroquia-san-juan-bautista-huitzilac',
 ] as const;
 
 export type TopicKey = (typeof TOPIC_KEYS)[number];
