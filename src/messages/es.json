@@ -40,7 +40,7 @@
     "alsoKnownAs": {
       "title": "Aspectos destacados",
       "items": [
-        "Siete Lagunas: Zempoala significa 'muchas lagunas' en náhuatl. El parque cuenta con siete lagunas — Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta y Huilapan. Solo tres son permanentes; el resto son intermitentes según las lluvias.",
+        "Siete Lagunas: Zempoala significa 'muchas lagunas' en náhuatl. El parque cuenta con siete lagunas — Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta y Huilapan. La Laguna Zempoala es permanente; Compila se reduce drásticamente en estiaje y Quila forma agua somera en temporada de lluvias.",
         "Especies raras: El único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis), junto con especies endémicas como la cascabel transversa (Crotalus transversus).",
         "Recarga de acuífero: La principal zona de recarga del acuífero de la microcuenca del río Apatlaco, uno de los pocos cuerpos de agua perennes cerca del área metropolitana de la Ciudad de México.",
         "Ecoturismo: Actividades incluyen campismo, senderismo, meditación paisajística, fotografía de naturaleza, observación de flora y fauna y pesca deportiva."
@@ -75,7 +75,7 @@
       {
         "id": "nature",
         "title": "Paisaje natural",
-        "content": "El parque cuenta con siete lagunas rodeadas de bosques de pino de Montezuma. Tres son lagunas permanentes (Quila, Zempoala, Compila), mientras que las cuatro restantes son intermitentes, dependiendo de las lluvias. Es el único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis), junto con especies endémicas como la cascabel transversa (Crotalus transversus) y la ajolote (Ambystoma altamirani). Otras especies representativas incluyen el gato montés (Lynx rufus), el mapache (Procyon lotor) y el chara (Cyanocitta stelleri)."
+        "content": "El parque cuenta con siete lagunas rodeadas de bosques de pino de Montezuma. Zempoala mantiene agua todo el año; Tonatiahua recibe un arroyo permanente, mientras que Compila y Quila muestran una marcada estacionalidad. Es el único lugar de Morelos donde se ha registrado el ocelote (Leopardus pardalis), junto con especies endémicas como la cascabel transversa (Crotalus transversus) y la ajolote (Ambystoma altamirani). Otras especies representativas incluyen el gato montés (Lynx rufus), el mapache (Procyon lotor) y el chara (Cyanocitta stelleri)."
       },
       {
         "id": "experience",
@@ -335,7 +335,7 @@
         "year": "Náhuatl",
         "title": "Origen del nombre: El significado de Zempoala",
         "plaque": "Nombres de las Siete Lagunas",
-        "description": "Zempoala significa 'muchas lagunas' en náhuatl, ya que el parque cuenta con siete lagunas: Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta y Huilapan. Solo tres son lagunas permanentes; el resto son intermitentes, cuya aparición y formación de grandes cuerpos de agua dependen de las lluvias."
+        "description": "Zempoala significa 'muchas lagunas' en náhuatl, ya que el parque cuenta con siete lagunas: Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta y Huilapan. El comportamiento hídrico varía: Zempoala es permanente, Compila disminuye en estiaje y Quila presenta agua somera en época de lluvias."
       },
       {
         "year": "1936",
@@ -827,7 +827,7 @@
       {
         "id": "seasonal",
         "title": "Por qué algunas lagunas aparecen y desaparecen",
-        "text": "Solo tres lagunas son permanentes (Quila, Zempoala y Compila); las otras cuatro son estacionales. Se llenan con las lluvias de verano y disminuyen o se secan en la temporada seca: es un ritmo natural, no una señal de daño."
+        "text": "CONANP describe Zempoala como permanente, Tonatiahua como alimentada por un arroyo permanente, Compila como muy reducida en estiaje y Quila con agua somera durante meses lluviosos. La situación de cada cuenca debe interpretarse por separado."
       },
       {
         "id": "axolotl",
@@ -935,7 +935,7 @@
         },
         {
           "heading": "Qué fotografiar",
-          "body": "Las lagunas permanentes (Quila, Zempoala, Compila), los miradores, los senderos interpretativos y la fauna como el ocelote o diversas aves."
+          "body": "La Laguna Zempoala, las cuencas estacionales de Compila y Quila, los miradores, los senderos interpretativos y la fauna como el ocelote o diversas aves."
         },
         {
           "heading": "Por temporada",
