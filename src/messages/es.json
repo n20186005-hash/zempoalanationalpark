@@ -1263,6 +1263,71 @@
         }
       ],
       "relatedTitle": "Guías relacionadas"
+    },
+    "parroquia-san-juan-bautista-huitzilac": {
+      "title": "Parroquia de San Juan Bautista en Huitzilac: historia y visita",
+      "subtitle": "Templo histórico del centro de Huitzilac, una parada cultural rumbo a Lagunas de Zempoala",
+      "intro": "La Parroquia de San Juan Bautista se encuentra en la Plaza Principal de Huitzilac, Morelos. Es un sitio religioso activo y una referencia patrimonial del pueblo; se visita de manera independiente del Parque Nacional Lagunas de Zempoala.",
+      "location": "Plaza Principal, 62510 Huitzilac, Morelos, México",
+      "access": "En el centro de Huitzilac; sigue la ubicación específica de la parroquia, no la del parque nacional",
+      "manager": "Diócesis de Cuernavaca / comunidad parroquial de San Juan Bautista",
+      "managerUrl": "https://www.comunicaciondiocesiscuernavaca.com/directorio",
+      "managerLinkLabel": "Directorio diocesano",
+      "ratingLabel": "Valoración de la parroquia",
+      "ratingValue": "5.0",
+      "reviewCount": "6 reseñas",
+      "ratingDate": "Google Maps · consulta 19 de noviembre de 2026",
+      "sections": [
+        {
+          "heading": "Origen e historia",
+          "body": "Las referencias patrimoniales del INAH documentan la parroquia y el poblado de Huitzilac. La historia religiosa local se vincula a la evangelización franciscana desde el siglo XVI; los cambios constructivos posteriores deben distinguirse del origen del asentamiento."
+        },
+        {
+          "heading": "Arquitectura y qué observar",
+          "body": "Desde la plaza se distingue la fachada de piedra, el campanario y la relación del templo con el tejido urbano de Huitzilac. Observa detalles exteriores sin obstaculizar actos litúrgicos; el acceso interior depende de la actividad parroquial."
+        },
+        {
+          "heading": "Información práctica",
+          "body": "No hay horario turístico ni tarifa de visita de acceso universal confirmados. Antes de desplazarte para entrar al templo o asistir a misa, consulta directamente a la parroquia. Respeta celebraciones, fotografía restringida y espacios de oración."
+        },
+        {
+          "heading": "Transporte y ruta combinada",
+          "body": "La parroquia está en la Plaza Principal del pueblo. Si también visitas Lagunas de Zempoala, navega a cada lugar por separado: el templo se encuentra en el centro de Huitzilac y el parque más adelante por carretera de montaña."
+        },
+        {
+          "heading": "Fotografía y alrededores",
+          "body": "Los mejores encuadres públicos incluyen la fachada vista desde la plaza y el conjunto del templo con el paisaje del poblado. Evita fotografiar a asistentes sin permiso y no bloquees accesos."
+        },
+        {
+          "heading": "Administración y referencias",
+          "body": "La parroquia pertenece a la Diócesis de Cuernavaca. Su dirección figura en el directorio diocesano y el valor histórico en el inventario del INAH. La fotografía de fachada procede de la guía regional Explora Morelos."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿La parroquia pertenece al parque nacional?",
+          "a": "No. Es un templo del centro de Huitzilac, con ubicación y administración propias."
+        },
+        {
+          "q": "¿Cuándo abre para visitas?",
+          "a": "Los horarios pueden depender de los servicios religiosos; confírmalos directamente con la parroquia."
+        },
+        {
+          "q": "¿Cómo llegar desde las lagunas?",
+          "a": "Utiliza la navegación independiente hacia la Plaza Principal de Huitzilac y verifica la carretera antes de salir."
+        }
+      ],
+      "mapLabel": "Ver Parroquia de San Juan Bautista en Google Maps",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Parroquia%20de%20San%20Juan%20Bautista%20Huitzilac&query_place_id=ChIJVRXh10fhzYURevVaNXO2I_M",
+      "photos": [
+        {
+          "src": "https://exploramorelos.com/wp-content/uploads/2020/09/huitzilac-001-ret-1920x1024.jpg",
+          "alt": "Parroquia de San Juan Bautista en el centro de Huitzilac",
+          "source": "https://exploramorelos.com/huitzilac/",
+          "credit": "Explora Morelos"
+        }
+      ],
+      "relatedTitle": "Guías relacionadas"
     }
   }
 }
