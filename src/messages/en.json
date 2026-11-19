@@ -1093,6 +1093,114 @@
         }
       ],
       "relatedTitle": "Related guides"
+    },
+    "opiniones": {
+      "title": "Lagunas de Zempoala reviews: what visitors should check",
+      "subtitle": "Google Maps ratings, recent experiences and planning advice",
+      "intro": "Reviews help set expectations, but access, weather and facilities can change. Read the original Google Maps reviews and compare their visit dates before planning.",
+      "sections": [
+        {
+          "heading": "Rating and source",
+          "body": "The homepage displays a historical snapshot of 4.5 stars from 5,451 Google Maps reviews, checked in October 2026. It is not live data; open Google Maps for the latest count and original comments."
+        },
+        {
+          "heading": "How to compare recent reviews",
+          "body": "Sort by date and look for notes about access, parking, trail conditions, cleanliness and facilities. Compare several accounts, especially across rainy and dry seasons."
+        },
+        {
+          "heading": "Official information comes first",
+          "body": "Reviews do not replace park notices. Check current opening arrangements, fees, road closures and conservation rules with the administration."
+        },
+        {
+          "heading": "First-time visitors and families",
+          "body": "Bring water, warm layers and grippy shoes. Mountain weather and uneven terrain may affect the outing; choose open trails suited to your group."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does this site publish visitor reviews?",
+          "a": "No. Individual reviews belong to their authors and are available on Google Maps."
+        },
+        {
+          "q": "Is the displayed rating live?",
+          "a": "No. The snapshot dates to October 2026; check Google Maps for current values."
+        }
+      ],
+      "mapLabel": "See current Google Maps reviews",
+      "mapUrl": "https://maps.app.goo.gl/fZYMqK4G6o9FANmg8",
+      "relatedTitle": "Related guides"
+    },
+    "desde-cuernavaca": {
+      "title": "Getting to Lagunas de Zempoala from Cuernavaca",
+      "subtitle": "Driving directions and a practical day-trip plan",
+      "intro": "Cuernavaca is a convenient starting point for a day trip to Lagunas de Zempoala. The route crosses mountain terrain, so check the current road and park entrance location first.",
+      "sections": [
+        {
+          "heading": "Driving route",
+          "body": "Use the directions link with Cuernavaca as your origin and the national park as your destination. Follow current road signs and closures rather than depending on an approximate distance."
+        },
+        {
+          "heading": "Transport and return",
+          "body": "If driving, allow for fuel and a daylight return. Without a car, verify local transport and the return journey beforehand; do not assume frequent service to the park gate."
+        },
+        {
+          "heading": "What to do",
+          "body": "Plan around authorized viewpoints, open trails and lagoon photography. Allow extra time for food and changing mountain weather."
+        },
+        {
+          "heading": "What to pack",
+          "body": "Bring water, warm layers, rain protection in wet months, sturdy shoes, cash and offline navigation."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is it a possible day trip from Cuernavaca?",
+          "a": "Yes, provided current opening hours and road conditions suit your plan."
+        },
+        {
+          "q": "Does the map link show public transit?",
+          "a": "It opens driving directions. Verify local transit options and schedules separately."
+        }
+      ],
+      "mapLabel": "Directions from Cuernavaca",
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Cuernavaca%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
+      "relatedTitle": "Related guides"
+    },
+    "desde-huitzilac": {
+      "title": "Huitzilac to Lagunas de Zempoala: route and nearby sights",
+      "subtitle": "How to reach the lagoons and explore the mountain setting",
+      "intro": "Huitzilac is a useful waypoint for the mountain approach to Lagunas de Zempoala. Verify the actual park entrance rather than treating the town as the final destination.",
+      "sections": [
+        {
+          "heading": "Route and location",
+          "body": "Check the Google Maps route from Huitzilac to Lagunas de Zempoala National Park before departure. Follow road signs and local closure notices."
+        },
+        {
+          "heading": "Stops along the way",
+          "body": "Enjoy the pine forest scenery from designated stopping places only. Avoid parking on the roadway or entering private land."
+        },
+        {
+          "heading": "Half-day or full-day outing",
+          "body": "Give the lagoons and open trails priority. For additional sights around Huitzilac, verify each location and opening arrangement separately; they are not automatically part of the national park."
+        },
+        {
+          "heading": "Weather and safety",
+          "body": "Fog and rain can reduce visibility. Carry warm clothes, water and offline maps, and plan to return in daylight."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is Huitzilac the park entrance?",
+          "a": "It is a nearby town used for orientation. Navigate to the specific national park location."
+        },
+        {
+          "q": "Can I combine this with Cuernavaca?",
+          "a": "Yes if road conditions and timing permit; plan the lagoon visit first."
+        }
+      ],
+      "mapLabel": "Directions from Huitzilac",
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Huitzilac%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
+      "relatedTitle": "Related guides"
     }
   }
 }
