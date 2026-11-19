@@ -3,6 +3,7 @@
 import { useLocale, useMessages, useTranslations } from 'next-intl';
 import { SITE_URL } from '@/lib/site';
 import { TOPIC_KEYS } from '@/lib/topic-seo';
+import { getAttractionExtra } from '@/lib/attraction-extra';
 
 export default function TopicPage({ topic }: { topic: string }) {
   const locale = useLocale();
@@ -10,6 +11,7 @@ export default function TopicPage({ topic }: { topic: string }) {
   const messages = useMessages() as any;
   const data = messages?.topics?.[topic];
   if (!data) return null;
+  const extra = getAttractionExtra(locale, topic);
 
   const sections: Array<{ heading: string; body: string }> = data.sections || [];
   const faq: Array<{ q: string; a: string }> = data.faq || [];
@@ -110,6 +112,14 @@ export default function TopicPage({ topic }: { topic: string }) {
             </div>
           )}
 
+          {extra && (
+            <section className="mb-12 rounded-2xl p-6 sm:p-8" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+              <h2 className="font-display text-2xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>{extra.aboutTitle}</h2>
+              <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{extra.about}</p>
+              <a href={data.managerUrl || 'https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97'} target="_blank" rel="noopener noreferrer" className="inline-block mt-4 text-sm underline" style={{ color: 'var(--accent)' }}>{data.managerLinkLabel || labels.source}</a>
+            </section>
+          )}
+
           <section className="mb-12 rounded-2xl p-5 sm:p-7" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
             <h2 className="font-display text-2xl font-semibold mb-5" style={{ color: 'var(--text-primary)' }}>{labels.info}</h2>
             <dl className="grid sm:grid-cols-2 gap-5 text-sm">
@@ -121,6 +131,7 @@ export default function TopicPage({ topic }: { topic: string }) {
           </section>
 
           <div className="space-y-10 mb-14">
+            {extra && <section><h2 className="font-display text-2xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>{extra.historyTitle}</h2><p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{extra.history}</p></section>}
             {sections.map((s, i) => (
               <section key={i}>
                 <h2
@@ -135,6 +146,12 @@ export default function TopicPage({ topic }: { topic: string }) {
               </section>
             ))}
           </div>
+
+          {extra && <div className="space-y-10 mb-12">
+            <section><h2 className="font-display text-2xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>{extra.routeTitle}</h2><ol className="space-y-3">{extra.route.map((step, i) => <li key={i} className="flex gap-4 leading-relaxed" style={{ color: 'var(--text-secondary)' }}><span className="font-semibold shrink-0" style={{ color: 'var(--accent)' }}>{i + 1}.</span><span>{step}</span></li>)}</ol></section>
+            <section><h2 className="font-display text-2xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>{extra.photoTitle}</h2><ul className="list-disc pl-5 space-y-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{extra.photoTips.map((tip, i) => <li key={i}>{tip}</li>)}</ul></section>
+            <section className="rounded-xl p-5" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}><h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>{extra.adviceTitle}</h2><p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{extra.advice}</p></section>
+          </div>}
 
           {(data.mapUrl || data.location) && (
             <a href={data.mapUrl || parkMap} target="_blank" rel="noopener noreferrer"
