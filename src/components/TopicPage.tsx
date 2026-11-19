@@ -14,6 +14,14 @@ export default function TopicPage({ topic }: { topic: string }) {
   const sections: Array<{ heading: string; body: string }> = data.sections || [];
   const faq: Array<{ q: string; a: string }> = data.faq || [];
   const others = TOPIC_KEYS.filter((k) => k !== topic);
+  const labels = {
+    es: { info: 'Información básica', place: 'Lugar', access: 'Acceso y transporte', manager: 'Administración', rating: 'Opiniones del parque', reference: 'Referencia de Google Maps · octubre de 2026', source: 'Información de CONANP', map: 'Ver ubicación en Google Maps' },
+    en: { info: 'Visitor information', place: 'Location', access: 'Getting there', manager: 'Management', rating: 'Park reviews', reference: 'Google Maps snapshot · October 2026', source: 'CONANP information', map: 'Open Google Maps location' },
+    zh: { info: '基本资料', place: '地点', access: '交通与抵达', manager: '管理主体', rating: '公园游客评价', reference: 'Google Maps 数据快照 · 2026 年 10 月', source: 'CONANP 公开资料', map: '打开 Google Maps 地点' },
+  }[locale as 'es' | 'en' | 'zh'] || {
+    info: 'Visitor information', place: 'Location', access: 'Getting there', manager: 'Management', rating: 'Park reviews', reference: 'Google Maps snapshot · October 2026', source: 'CONANP information', map: 'Open Google Maps location',
+  };
+  const parkMap = 'https://maps.app.goo.gl/fZYMqK4G6o9FANmg8';
 
   const breadcrumbLd = {
     '@context': 'https://schema.org',
@@ -89,6 +97,29 @@ export default function TopicPage({ topic }: { topic: string }) {
             {data.intro}
           </div>
 
+          {data.photos?.length > 0 && (
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
+              {data.photos.map((photo: { src: string; alt: string; source: string }, i: number) => (
+                <figure key={i} className="min-w-0 rounded-xl overflow-hidden" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
+                  <img src={photo.src} alt={photo.alt} loading="lazy" className="w-full h-56 object-cover" />
+                  <figcaption className="p-3 text-xs break-words" style={{ color: 'var(--text-muted)' }}>
+                    {photo.alt} · <a href={photo.source} target="_blank" rel="noopener noreferrer" className="underline">Wikimedia Commons</a>
+                  </figcaption>
+                </figure>
+              ))}
+            </div>
+          )}
+
+          <section className="mb-12 rounded-2xl p-5 sm:p-7" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
+            <h2 className="font-display text-2xl font-semibold mb-5" style={{ color: 'var(--text-primary)' }}>{labels.info}</h2>
+            <dl className="grid sm:grid-cols-2 gap-5 text-sm">
+              <div><dt className="font-semibold mb-1">{labels.place}</dt><dd style={{ color: 'var(--text-secondary)' }}>{data.location || 'Parque Nacional Lagunas de Zempoala · Huitzilac / Ocuilan, México'}</dd></div>
+              <div><dt className="font-semibold mb-1">{labels.access}</dt><dd style={{ color: 'var(--text-secondary)' }}>{data.access || messages?.topics?.['como-llegar']?.subtitle}</dd></div>
+              <div><dt className="font-semibold mb-1">{labels.manager}</dt><dd style={{ color: 'var(--text-secondary)' }}>Comisión Nacional de Áreas Naturales Protegidas (CONANP) · <a className="underline" href="https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=97" target="_blank" rel="noopener noreferrer">{labels.source}</a></dd></div>
+              <div><dt className="font-semibold mb-1">{labels.rating}</dt><dd style={{ color: 'var(--text-secondary)' }}>{messages?.reviews?.ratingValue} ★ · {messages?.reviews?.reviewCount} · {labels.reference}<div><a className="underline" href={parkMap} target="_blank" rel="noopener noreferrer">Google Maps</a></div></dd></div>
+            </dl>
+          </section>
+
           <div className="space-y-10 mb-14">
             {sections.map((s, i) => (
               <section key={i}>
@@ -105,11 +136,11 @@ export default function TopicPage({ topic }: { topic: string }) {
             ))}
           </div>
 
-          {data.mapUrl && (
-            <a href={data.mapUrl} target="_blank" rel="noopener noreferrer"
+          {(data.mapUrl || data.location) && (
+            <a href={data.mapUrl || parkMap} target="_blank" rel="noopener noreferrer"
               className="inline-flex max-w-full break-words rounded-full px-5 py-3 mb-12 text-sm font-semibold text-white"
               style={{ background: 'var(--accent)' }}>
-              {data.mapLabel}
+              {data.mapLabel || labels.map}
             </a>
           )}
 
