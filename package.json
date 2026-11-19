@@ -4,13 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "opennextjs-cloudflare build",
+    "build": "opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion",
     "build:next": "next build",
     "start": "next start",
     "lint": "next lint",
-    "cf:build": "opennextjs-cloudflare build",
-    "cf:deploy": "opennextjs-cloudflare build && wrangler deploy",
-    "cf:preview": "opennextjs-cloudflare build && wrangler dev"
+    "cf:build": "opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion",
+    "cf:deploy": "opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion && wrangler deploy",
+    "cf:preview": "opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion && wrangler dev"
   },
   "dependencies": {
     "next": "^15.1.0",
