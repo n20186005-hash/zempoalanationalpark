@@ -1201,6 +1201,68 @@
       "mapLabel": "打开 Huitzilac 出发路线",
       "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Huitzilac%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
       "relatedTitle": "相关攻略"
+    },
+    "laguna-zempoala": {
+      "title": "Laguna de Zempoala 主湖独立游览指南",
+      "subtitle": "国家公园主湖、松林景观、交通与摄影建议",
+      "intro": "Laguna de Zempoala 位于 Cerro de Zempoala 山脚。根据 CONANP 管理计划，它是公园的主要湖泊，周边集中部分公共游览设施；它与 Tonatiahua、Compila 是不同湖泊。",
+      "location": "Laguna Zempoala · 墨西哥州／莫雷洛斯州 Lagunas de Zempoala 国家公园",
+      "access": "从 Huitzilac 按指示前往公园公共游览区域；出发前核实道路与现场指示",
+      "sections": [
+        {
+          "heading": "历史与地形",
+          "body": "国家公园于 1936 年设立，旨在保护湖泊与森林生态。主湖由高地溪流补给，湖面、草地与针叶林构成主要景观。"
+        },
+        {
+          "heading": "值得观察的景观",
+          "body": "可从允许到达的地点观察山林倒影、湖岸草地过渡带、水鸟及湿地植物。不要惊扰野生动物或采摘植物。"
+        },
+        {
+          "heading": "开放信息与设施",
+          "body": "公共游览区设有部分服务，但可能随季节变化。请核实当日开放、门票、停车与步道状况；不要默认湖岸是可游泳区域。"
+        },
+        {
+          "heading": "交通与步行路线",
+          "body": "从 Huitzilac 沿指示进入公园，或以 Laguna Zempoala 独立坐标导航。仅走开放步道，为拍照与休息预留时间；其他湖泊不一定有方便的游客通道。"
+        },
+        {
+          "heading": "摄影与亲子建议",
+          "body": "可在允许停留的湖岸观景点拍摄云影、松林与湖水倒影。携带保暖衣物、饮水和防滑鞋，照看儿童远离湿滑岸边。"
+        },
+        {
+          "heading": "管理主体与资料",
+          "body": "该国家公园由墨西哥国家自然保护区委员会 CONANP 管理。湖泊介绍依据管理计划，两张实景照片由 Wikimedia Commons 标注为 Laguna de Zempoala。"
+        }
+      ],
+      "faq": [
+        {
+          "q": "这是 Tonatiahua 湖吗？",
+          "a": "不是，两者是国家公园内不同的湖泊。"
+        },
+        {
+          "q": "可以下水游泳吗？",
+          "a": "不能默认允许，应遵守管理人员的现场规定和封闭区域标识。"
+        },
+        {
+          "q": "需要预留多久？",
+          "a": "适合悠闲安排观景与开放步道，并为天气变化留余量。"
+        }
+      ],
+      "mapLabel": "在 Google Maps 定位 Laguna Zempoala",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=19.050717%2C-99.314035",
+      "photos": [
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Zempoala_(6068074727).jpg",
+          "alt": "Laguna de Zempoala 湖景",
+          "source": "https://commons.wikimedia.org/wiki/File:Laguna_de_Zempoala_(6068074727).jpg"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Zempoala.jpg",
+          "alt": "Laguna de Zempoala 湖岸景观",
+          "source": "https://commons.wikimedia.org/wiki/File:Laguna_de_Zempoala.jpg"
+        }
+      ],
+      "relatedTitle": "相关攻略"
     }
   }
 }
