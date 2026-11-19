@@ -6,7 +6,7 @@
   },
   "meta": {
     "title": "Lagunas de Zempoala National Park | Hours, Fees & Directions",
-    "description": "Lagunas de Zempoala National Park guide: opening hours, entrance fees, directions from CDMX & Cuernavaca, weather forecast and what to see. Rated 4.5★ (5,451 Google reviews).",
+    "description": "Lagunas de Zempoala National Park guide: opening hours, entrance fees, directions from CDMX & Cuernavaca, weather forecast and what to see. Rated 4.5★ (5,459 Google reviews).",
     "ogTitle": "Lagunas de Zempoala National Park - Ocuilan Travel Guide",
     "ogImageAlt": "Lagunas de Zempoala National Park in Ocuilan"
   },
@@ -21,9 +21,10 @@
     "title": "Lagunas de Zempoala National Park",
     "subtitle": "State of Mexico · Morelos · Mexico",
     "rating": "4.5",
-    "reviewCount": "5,451",
+    "reviewCount": "5,459",
     "hours": "Sat-Sun & Holidays 09:00-18:00",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imageAlt": "Main lake landscape at Lagunas de Zempoala National Park, Ocuilan, Mexico"
   },
   "intro": {
     "title": "Explore Lagunas de Zempoala National Park",
@@ -185,15 +186,16 @@
     "title": "Rating & Reviews",
     "declaration": "The rating is shown exactly as published by Google Maps. This site does not host or verify individual visitor reviews.",
     "ratingValue": "4.5",
-    "reviewCount": "5,451",
-    "snapshot": "4.5 ★ · 5,451 reviews on Google Maps",
+    "reviewCount": "5,459",
+    "snapshot": "4.5 ★ · 5,459 reviews on Google Maps",
     "verifiedNote": "Rating checked October 2026.",
     "moreReviews": "View reviews on Google Maps"
   },
   "mapSection": {
     "title": "Location & Map",
     "subtitle": "2MHJ+Q2 Lagunas de Zempoala, State of Mexico, Mexico (20.3 km from Cuernavaca)",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "iframeTitle": "Google Maps: Lagunas de Zempoala National Park, Ocuilan"
   },
   "footer": {
     "rights": "© 2026 Lagunas de Zempoala National Park. All rights reserved.",
@@ -363,10 +365,10 @@
       }
     ],
     "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, start at the **Visitor Center** to learn about the park's ecosystem and seven lagoons; then hike the **Interpretive Trails** to enjoy the breathtaking scenery of lagoons and coniferous forests; rest at the **Viewpoints** to observe wildlife; and finally visit the **Craft Shop** for souvenirs. Please be a responsible and eco-friendly visitor, and follow the park rangers' instructions."
+    "guideContent": "When visiting, start at the Visitor Center to learn about the park's ecosystem and seven lagoons; then hike the Interpretive Trails to enjoy the breathtaking scenery of lagoons and coniferous forests; rest at the Viewpoints to observe wildlife; and finally visit the Craft Shop for souvenirs. Please be a responsible and eco-friendly visitor, and follow the park rangers' instructions."
   },
   "seoOverview": {
-    "welcome": "Welcome to **Lagunas de Zempoala National Park**, widely recognized as **Zempoala National Park**. Located in **Ocuilan**, **State of Mexico**, **Mexico** - on the border with **Morelos** - this national park is a primary hub for travelers exploring the lagoons, pine forests and rare wildlife of the region.",
+    "welcome": "Welcome to Lagunas de Zempoala National Park, widely recognized as Zempoala National Park. Located in Ocuilan, State of Mexico, Mexico - on the border with Morelos - this national park is a primary hub for travelers exploring the lagoons, pine forests and rare wildlife of the region.",
     "breadcrumbTitle": "Geographic Location",
     "breadcrumb": [
       "Lagunas de Zempoala National Park",
@@ -389,7 +391,7 @@
       {
         "id": "landmarks",
         "heading": "Landmarks & Attractions Around Zempoala National Park",
-        "text": "When visiting **Lagunas de Zempoala National Park**, travelers can easily explore surrounding landmarks and points of interest, including **Cuernavaca**, with its historic center and cathedral, and the **pueblo mágico** of **Tepoztlán**, home to the Tepozteco pyramid. The **Pico del Águila** viewpoint lies along the same highway."
+        "text": "When visiting Lagunas de Zempoala National Park, travelers can explore regional landmarks including Cuernavaca, with its historic centre and cathedral, and the heritage town of Tepoztlán, home to the Tepozteco pyramid. The Pico del Águila viewpoint lies along the same highway."
       },
       {
         "id": "history",
@@ -1101,7 +1103,7 @@
       "sections": [
         {
           "heading": "Rating and source",
-          "body": "The homepage displays a historical snapshot of 4.5 stars from 5,451 Google Maps reviews, checked in October 2026. It is not live data; open Google Maps for the latest count and original comments."
+          "body": "The homepage displays a historical snapshot of 4.5 stars from 5,459 Google Maps reviews, checked in November 2026. It is not live data; open Google Maps for the latest count and original comments."
         },
         {
           "heading": "How to compare recent reviews",
@@ -1329,5 +1331,15 @@
       ],
       "relatedTitle": "Related guides"
     }
+  },
+  "accessibility": {
+    "theme": "Toggle light and dark appearance",
+    "language": "Choose language",
+    "toggleCookie": "Change cookie preference",
+    "closeGallery": "Close photo viewer",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "galleryAltSuffix": "Lagunas de Zempoala National Park, Ocuilan",
+    "galleryPhoto": "Lagunas de Zempoala photo {number}"
   }
 }
