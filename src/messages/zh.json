@@ -1093,6 +1093,114 @@
         }
       ],
       "relatedTitle": "相关攻略"
+    },
+    "opiniones": {
+      "title": "Lagunas de Zempoala 游客评价与出行核对",
+      "subtitle": "Google Maps 评分、近期体验及评价阅读建议",
+      "intro": "游客评价能提供参考，但道路、天气和设施会随时变化。建议阅读 Google Maps 原始评价，并结合评价日期和官方通知判断。",
+      "sections": [
+        {
+          "heading": "评分及数据来源",
+          "body": "首页显示的 4.5 分、5,451 条 Google Maps 评价是 2026 年 10 月的数据快照，并非实时更新。最新评分及原始评论请通过 Google Maps 查询。"
+        },
+        {
+          "heading": "怎样查看近期评价",
+          "body": "按日期查看近期游客关于道路、停车、步道、清洁和设施的反馈，尤其注意雨季与旱季之间的差异，不要只凭一条评价安排旅程。"
+        },
+        {
+          "heading": "以官方公告为准",
+          "body": "评价不能代替公园管理信息。开放安排、票价、道路封闭及保护区规则都应在出发前向管理方核实。"
+        },
+        {
+          "heading": "亲子与首次到访建议",
+          "body": "携带饮水、保暖衣物和防滑鞋。高山天气与自然路面会影响体验，应选择适合同行者体力的开放步道。"
+        }
+      ],
+      "faq": [
+        {
+          "q": "本站发布原始游客评论吗？",
+          "a": "不发布。原始评论由用户撰写，在 Google Maps 查看。"
+        },
+        {
+          "q": "首页评分是实时的吗？",
+          "a": "不是，当前展示的是 2026 年 10 月快照。请以 Google Maps 的最新数据为准。"
+        }
+      ],
+      "mapLabel": "查看 Google Maps 最新评价",
+      "mapUrl": "https://maps.app.goo.gl/fZYMqK4G6o9FANmg8",
+      "relatedTitle": "相关攻略"
+    },
+    "desde-cuernavaca": {
+      "title": "从 Cuernavaca 前往 Lagunas de Zempoala",
+      "subtitle": "自驾导航、交通准备和一日游行程",
+      "intro": "Cuernavaca 是前往 Lagunas de Zempoala 的常用出发点之一。道路经过山区，出发前请核对实际入口、道路状况及公园开放安排。",
+      "sections": [
+        {
+          "heading": "自驾路线",
+          "body": "通过下方 Google Maps 链接，以 Cuernavaca 为起点、国家公园为终点查看实时路线。遵循道路标志及封闭公告，不要只依赖大致里程。"
+        },
+        {
+          "heading": "交通与返程",
+          "body": "自驾者请安排燃油与白天返程；乘坐公共交通者需提前确认当地接驳与返程班次，不应预设园区入口有频繁车次。"
+        },
+        {
+          "heading": "抵达后的游览安排",
+          "body": "先游览开放的湖畔观景点和步道，再拍摄水面与松林，并为用餐和山区天气变化留出时间。"
+        },
+        {
+          "heading": "建议携带物品",
+          "body": "饮水、分层保暖衣物、雨季防雨用品、防滑鞋、现金及离线地图。"
+        }
+      ],
+      "faq": [
+        {
+          "q": "从 Cuernavaca 可以当天往返吗？",
+          "a": "可以规划一日游，但应先核实公园开放情况及道路条件。"
+        },
+        {
+          "q": "地图链接包含公交路线吗？",
+          "a": "链接默认是驾车导航，公共交通及时间表需另行核对。"
+        }
+      ],
+      "mapLabel": "打开 Cuernavaca 出发路线",
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Cuernavaca%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
+      "relatedTitle": "相关攻略"
+    },
+    "desde-huitzilac": {
+      "title": "从 Huitzilac 前往 Lagunas de Zempoala 及周边游览",
+      "subtitle": "山区路线、沿途风景与游览规划",
+      "intro": "Huitzilac 是前往 Lagunas de Zempoala 山区途中重要的地理参照点，但城镇本身并不等于国家公园入口。出发前应核对具体导航终点。",
+      "sections": [
+        {
+          "heading": "路线与定位",
+          "body": "在 Google Maps 查看从 Huitzilac 至国家公园的导航路线，并遵循交通标志及临时封闭公告。"
+        },
+        {
+          "heading": "沿途观景",
+          "body": "山区松林景观适合观赏，但只在允许停车的地点停留拍照，不要占用车道或未经许可进入私人土地。"
+        },
+        {
+          "heading": "半日或一日行程",
+          "body": "优先预留时间游览湖区及开放步道。若希望结合 Huitzilac 周边其他景点，应分别确认地点及开放条件，不要把所有地方都当作公园设施。"
+        },
+        {
+          "heading": "天气与安全",
+          "body": "雨雾可能影响能见度。建议携带保暖衣物、饮水及离线地图，并在天黑前返程。"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Huitzilac 就是公园入口吗？",
+          "a": "不是，它是山区城镇及路线参照点；应导航到国家公园的具体地点。"
+        },
+        {
+          "q": "能与 Cuernavaca 安排在同一天吗？",
+          "a": "在道路及时间允许时可以，但应优先规划湖区参观。"
+        }
+      ],
+      "mapLabel": "打开 Huitzilac 出发路线",
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Huitzilac%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
+      "relatedTitle": "相关攻略"
     }
   }
 }
