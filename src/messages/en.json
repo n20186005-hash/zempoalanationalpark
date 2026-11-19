@@ -40,7 +40,7 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Seven Lagoons: Zempoala means 'many lagoons' in Nahuatl. The park features seven lagoons — Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta and Huilapan. Only three are permanent; the rest are intermittent depending on rainfall.",
+        "Seven Lagoons: Zempoala means 'many lagoons' in Nahuatl. The park features seven lagoons — Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta and Huilapan. Zempoala is perennial; Compila shrinks sharply in the dry season, while Quila develops shallow water during rainy months.",
         "Rare Species: The only place in Morelos where the ocelot (Leopardus pardalis) has been recorded, along with endemic species like the cross-banded rattlesnake (Crotalus transversus).",
         "Aquifer Recharge: The main recharge area of the Apatlaco River micro-basin aquifer, one of the few perennial water bodies near the Mexico City metropolitan area.",
         "Ecotourism: Activities include camping, hiking, landscape meditation, nature photography, wildlife observation and sport fishing."
@@ -75,7 +75,7 @@
       {
         "id": "nature",
         "title": "Natural Landscape",
-        "content": "The park features seven lagoons surrounded by Montezuma pine forests. Three are perennial lagoons (Quila, Zempoala, Compila), while the remaining four are intermittent, depending on rainfall. It is the only place in Morelos where the ocelot (Leopardus pardalis) has been recorded, along with endemic species such as the cross-banded rattlesnake (Crotalus transversus) and the Mexican salamander (Ambystoma altamirani). Other representative species include bobcat (Lynx rufus), raccoon (Procyon lotor), and Steller's jay (Cyanocitta stelleri)."
+        "content": "The park features seven lagoons surrounded by Montezuma pine forests. Zempoala holds water year-round and Tonatiahua receives a perennial stream; Compila and Quila show strong seasonal changes. It is the only place in Morelos where the ocelot (Leopardus pardalis) has been recorded, along with endemic species such as the cross-banded rattlesnake (Crotalus transversus) and the Mexican salamander (Ambystoma altamirani). Other representative species include bobcat (Lynx rufus), raccoon (Procyon lotor), and Steller's jay (Cyanocitta stelleri)."
       },
       {
         "id": "experience",
@@ -335,7 +335,7 @@
         "year": "Nahuatl",
         "title": "Name Origin: The Meaning of Zempoala",
         "plaque": "Names of the Seven Lagoons",
-        "description": "Zempoala means 'many lagoons' in Nahuatl, as the park features seven lagoons: Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta, and Huilapan. Only three are perennial lagoons; the rest are intermittent, their appearance and formation of large water bodies depending on rainfall."
+        "description": "Zempoala means 'many lagoons' in Nahuatl, as the park features seven lagoons: Quila, Zempoala, Compila, Tonatiwha, Seca, Prieta, and Huilapan. Water conditions differ: Zempoala is perennial, Compila shrinks in the dry season and Quila holds shallow water in rainy months."
       },
       {
         "year": "1936",
@@ -827,7 +827,7 @@
       {
         "id": "seasonal",
         "title": "Why some lagoons appear and disappear",
-        "text": "Only three lagoons are permanent (Quila, Zempoala, Compila); the other four are seasonal. They fill when the summer rains arrive and shrink or vanish in the dry season - a natural rhythm, not a sign of damage."
+        "text": "CONANP describes Zempoala as perennial, Tonatiahua as fed by a year-round stream, Compila as shrinking sharply in the dry season, and Quila as forming shallow water for rainy-season months. Conditions differ across basins."
       },
       {
         "id": "axolotl",
@@ -935,7 +935,7 @@
         },
         {
           "heading": "What to photograph",
-          "body": "The permanent lagoons (Quila, Zempoala, Compila), the viewpoints, the interpretive trails and wildlife such as the ocelot or various birds."
+          "body": "Laguna Zempoala, the seasonal basins of Compila and Quila, the viewpoints, the interpretive trails and wildlife such as the ocelot or various birds."
         },
         {
           "heading": "By season",
