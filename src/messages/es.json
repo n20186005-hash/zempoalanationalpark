@@ -861,14 +861,32 @@
       "subtitle": "Ruta en auto, transporte público y consejos desde CDMX y Cuernavaca",
       "intro": "El Parque Nacional Lagunas de Zempoala se visita fácilmente como día de excursión desde la Ciudad de México. Está en la Carretera Federal 95 (México–Cuernavaca), a unos 20.3 km de Cuernavaca y unas dos horas de la CDMX.",
       "sections": [
-        { "heading": "En automóvil", "body": "Desde la Ciudad de México, toma la Carretera Federal 95 hacia el sur por Cuernavaca. Después de Cuernavaca, sigue la carretera señalizada hacia el parque; el acceso está a unos 20.3 km. Hay estacionamiento administrado cerca de la entrada que se llena temprano los fines de semana." },
-        { "heading": "Transporte público", "body": "Desde la Terminal de Autobuses de Pasajeros de Oriente (TAPO) o Tasqueña en la CDMX, toma un autobús a Cuernavaca (Pullman de Morelos o similar). En Cuernavaca, toma transporte local hacia el parque; conviene coordinarlo con los días de apertura (sábados, domingos y festivos)." },
-        { "heading": "Consejos de viaje", "body": "El parque solo abre fines de semana y días festivos de 09:00 a 18:00. Llega temprano, lleva efectivo para la entrada (95 MXN), comida y agua, y descarga mapas sin conexión porque la señal es intermitente." }
+        {
+          "heading": "En automóvil",
+          "body": "Desde la Ciudad de México, toma la Carretera Federal 95 hacia el sur por Cuernavaca. Después de Cuernavaca, sigue la carretera señalizada hacia el parque; el acceso está a unos 20.3 km. Hay estacionamiento administrado cerca de la entrada que se llena temprano los fines de semana."
+        },
+        {
+          "heading": "Transporte público",
+          "body": "Desde la Terminal de Autobuses de Pasajeros de Oriente (TAPO) o Tasqueña en la CDMX, toma un autobús a Cuernavaca (Pullman de Morelos o similar). En Cuernavaca, toma transporte local hacia el parque; conviene coordinarlo con los días de apertura (sábados, domingos y festivos)."
+        },
+        {
+          "heading": "Consejos de viaje",
+          "body": "El parque solo abre fines de semana y días festivos de 09:00 a 18:00. Llega temprano, lleva efectivo para la entrada (95 MXN), comida y agua, y descarga mapas sin conexión porque la señal es intermitente."
+        }
       ],
       "faq": [
-        { "q": "¿Se puede llegar en transporte público?", "a": "Sí: autobús a Cuernavaca y luego transporte local hacia el parque. El último tramo es más fácil con auto o taxi por los horarios de apertura." },
-        { "q": "¿Cuánto tiempo se tarda desde la CDMX?", "a": "Unas dos horas en automóvil, dependiendo del tráfico en la Carretera Federal 95." },
-        { "q": "¿Hay estacionamiento?", "a": "Sí, hay estacionamiento administrado cerca de la entrada; se llena temprano los fines de semana y festivos." }
+        {
+          "q": "¿Se puede llegar en transporte público?",
+          "a": "Sí: autobús a Cuernavaca y luego transporte local hacia el parque. El último tramo es más fácil con auto o taxi por los horarios de apertura."
+        },
+        {
+          "q": "¿Cuánto tiempo se tarda desde la CDMX?",
+          "a": "Unas dos horas en automóvil, dependiendo del tráfico en la Carretera Federal 95."
+        },
+        {
+          "q": "¿Hay estacionamiento?",
+          "a": "Sí, hay estacionamiento administrado cerca de la entrada; se llena temprano los fines de semana y festivos."
+        }
       ],
       "relatedTitle": "Guías relacionadas"
     },
@@ -877,14 +895,32 @@
       "subtitle": "Entrada, descuentos y días de apertura en 2026",
       "intro": "El parque abre solo sábados, domingos y días festivos de 09:00 a 18:00. La entrada general cuesta 95 MXN por persona y cuenta con descuentos para estudiantes, residentes y gratuidad para grupos específicos.",
       "sections": [
-        { "heading": "Horarios", "body": "Sábados, domingos y días festivos de 09:00 a 18:00. Cerrado de lunes a viernes. Verifica las fechas festivas antes de tu visita." },
-        { "heading": "Precio de entrada", "body": "95 MXN por persona por día. Se paga en la caseta de entrada; lleva efectivo, muchos servicios locales solo aceptan efectivo." },
-        { "heading": "Descuentos y gratuidad", "body": "Entrada gratuita para menores de 12 años, adultos mayores, jubilados y personas con discapacidad (identificación válida). Estudiantes y docentes 75% de descuento; ciudadanos mexicanos y residentes extranjeros 50% de descuento (documento oficial)." }
+        {
+          "heading": "Horarios",
+          "body": "Sábados, domingos y días festivos de 09:00 a 18:00. Cerrado de lunes a viernes. Verifica las fechas festivas antes de tu visita."
+        },
+        {
+          "heading": "Precio de entrada",
+          "body": "95 MXN por persona por día. Se paga en la caseta de entrada; lleva efectivo, muchos servicios locales solo aceptan efectivo."
+        },
+        {
+          "heading": "Descuentos y gratuidad",
+          "body": "Entrada gratuita para menores de 12 años, adultos mayores, jubilados y personas con discapacidad (identificación válida). Estudiantes y docentes 75% de descuento; ciudadanos mexicanos y residentes extranjeros 50% de descuento (documento oficial)."
+        }
       ],
       "faq": [
-        { "q": "¿Cuánto cuesta la entrada?", "a": "95 MXN por persona por día, con descuentos para estudiantes y residentes y gratuidad para menores de 12 y adultos mayores." },
-        { "q": "¿Qué días está abierto el parque?", "a": "Solo sábados, domingos y días festivos, de 09:00 a 18:00." },
-        { "q": "¿Se aceptan tarjetas en la entrada?", "a": "No siempre; lleva efectivo para la entrada y los servicios dentro y cerca del parque." }
+        {
+          "q": "¿Cuánto cuesta la entrada?",
+          "a": "95 MXN por persona por día, con descuentos para estudiantes y residentes y gratuidad para menores de 12 y adultos mayores."
+        },
+        {
+          "q": "¿Qué días está abierto el parque?",
+          "a": "Solo sábados, domingos y días festivos, de 09:00 a 18:00."
+        },
+        {
+          "q": "¿Se aceptan tarjetas en la entrada?",
+          "a": "No siempre; lleva efectivo para la entrada y los servicios dentro y cerca del parque."
+        }
       ],
       "relatedTitle": "Guías relacionadas"
     },
@@ -893,14 +929,32 @@
       "subtitle": "Lagunas, bosque de pino y paisajes de altura",
       "intro": "Las siete lagunas rodeadas de pino de Montezuma forman uno de los paisajes más fotografiados cerca de la Ciudad de México. Aquí tienes consejos para fotografiarlas y qué esperar en cada temporada.",
       "sections": [
-        { "heading": "Mejor luz", "body": "La luz más suave es por la mañana tras la apertura (09:00) y al atardecer. El agua suele estar más calmada y refleja el cielo." },
-        { "heading": "Qué fotografiar", "body": "Las lagunas permanentes (Quila, Zempoala, Compila), los miradores, los senderos interpretativos y la fauna como el ocelote o diversas aves." },
-        { "heading": "Por temporada", "body": "Lluvias (jun–ago): lagunas llenas y cielos dramáticos. Seca (nov–feb): aire limpio y frío, ideal para paisajes nítidos." }
+        {
+          "heading": "Mejor luz",
+          "body": "La luz más suave es por la mañana tras la apertura (09:00) y al atardecer. El agua suele estar más calmada y refleja el cielo."
+        },
+        {
+          "heading": "Qué fotografiar",
+          "body": "Las lagunas permanentes (Quila, Zempoala, Compila), los miradores, los senderos interpretativos y la fauna como el ocelote o diversas aves."
+        },
+        {
+          "heading": "Por temporada",
+          "body": "Lluvias (jun–ago): lagunas llenas y cielos dramáticos. Seca (nov–feb): aire limpio y frío, ideal para paisajes nítidos."
+        }
       ],
       "faq": [
-        { "q": "¿Se puede entrar antes de las 09:00 para fotos?", "a": "No; el parque abre a las 09:00 los días de visita. Llega temprano tras la apertura para la mejor luz." },
-        { "q": "¿Hay tour de fotografía?", "a": "No es un servicio del parque; los guías locales ofrecen caballos y recorridos, acuerda el precio de antemano." },
-        { "q": "¿Se permite el uso de dron?", "a": "Verifica con los guardaparques; normalmente el uso de drones está restringido en el área natural protegida." }
+        {
+          "q": "¿Se puede entrar antes de las 09:00 para fotos?",
+          "a": "No; el parque abre a las 09:00 los días de visita. Llega temprano tras la apertura para la mejor luz."
+        },
+        {
+          "q": "¿Hay tour de fotografía?",
+          "a": "No es un servicio del parque; los guías locales ofrecen caballos y recorridos, acuerda el precio de antemano."
+        },
+        {
+          "q": "¿Se permite el uso de dron?",
+          "a": "Verifica con los guardaparques; normalmente el uso de drones está restringido en el área natural protegida."
+        }
       ],
       "relatedTitle": "Guías relacionadas"
     },
@@ -909,14 +963,32 @@
       "subtitle": "Actividades en la naturaleza para todos los ritmos",
       "intro": "El parque combina siete lagunas, bosque de coníferas y senderos accesibles. Puedes acampar, caminar, observar aves, fotografiar y aprender sobre conservación.",
       "sections": [
-        { "heading": "Senderismo y miradores", "body": "Recorre los senderos interpretativos alrededor de las lagunas y descansa en los miradores con vista al agua." },
-        { "heading": "Campismo y picnic", "body": "Hay zonas de campamento designadas y áreas de descanso; usa solo sitios marcados y retira tu basura." },
-        { "heading": "Observación de fauna", "body": "El parque es el único lugar de Morelos con registro del ocelote; también hay aves, anfibios y el ajolote de altura." }
+        {
+          "heading": "Senderismo y miradores",
+          "body": "Recorre los senderos interpretativos alrededor de las lagunas y descansa en los miradores con vista al agua."
+        },
+        {
+          "heading": "Campismo y picnic",
+          "body": "Hay zonas de campamento designadas y áreas de descanso; usa solo sitios marcados y retira tu basura."
+        },
+        {
+          "heading": "Observación de fauna",
+          "body": "El parque es el único lugar de Morelos con registro del ocelote; también hay aves, anfibios y el ajolote de altura."
+        }
       ],
       "faq": [
-        { "q": "¿Se puede acampar?", "a": "Sí, en zonas de campamento designadas y con equipo propio." },
-        { "q": "¿Es apto para niños?", "a": "Sí, hay rutas planas cerca del centro de visitantes y miradores accesibles." },
-        { "q": "¿Se permite la pesca?", "a": "La pesca deportiva está permitida como actividad; respeta las normas del área natural protegida." }
+        {
+          "q": "¿Se puede acampar?",
+          "a": "Sí, en zonas de campamento designadas y con equipo propio."
+        },
+        {
+          "q": "¿Es apto para niños?",
+          "a": "Sí, hay rutas planas cerca del centro de visitantes y miradores accesibles."
+        },
+        {
+          "q": "¿Se permite la pesca?",
+          "a": "La pesca deportiva está permitida como actividad; respeta las normas del área natural protegida."
+        }
       ],
       "relatedTitle": "Guías relacionadas"
     },
@@ -925,14 +997,100 @@
       "subtitle": "Escapada de un día: ruta, tiempo y consejos",
       "intro": "A solo unas dos horas de la CDMX, Lagunas de Zempoala es una de las escapadas naturales más cercanas. Ideal para un día de senderismo, foto y aire fresco.",
       "sections": [
-        { "heading": "Ruta rápida", "body": "Sal temprano por la Carretera Federal 95 hacia Cuernavaca; el parque está 20.3 km después. Llega cerca de la apertura (09:00) para aprovechar el día." },
-        { "heading": "Plan de día", "body": "Mañana en las lagunas y miradores, comida en el área de descanso, tarde de fotografía o paseo a caballo, regreso antes de las 18:00." },
-        { "heading": "Qué llevar", "body": "Efectivo, agua (1.5–2 L por persona), ropa de capas, bloqueador, snacks y mapas sin conexión." }
+        {
+          "heading": "Ruta rápida",
+          "body": "Sal temprano por la Carretera Federal 95 hacia Cuernavaca; el parque está 20.3 km después. Llega cerca de la apertura (09:00) para aprovechar el día."
+        },
+        {
+          "heading": "Plan de día",
+          "body": "Mañana en las lagunas y miradores, comida en el área de descanso, tarde de fotografía o paseo a caballo, regreso antes de las 18:00."
+        },
+        {
+          "heading": "Qué llevar",
+          "body": "Efectivo, agua (1.5–2 L por persona), ropa de capas, bloqueador, snacks y mapas sin conexión."
+        }
       ],
       "faq": [
-        { "q": "¿Vale la pena ir solo un día?", "a": "Sí, es perfecto para una escapada de día desde la CDMX." },
-        { "q": "¿Cuánto cuesta el viaje?", "a": "Entrada 95 MXN por persona; el transporte varía según auto o autobús más taxi local." },
-        { "q": "¿Cuál es la mejor temporada?", "a": "Todo el año; la temporada de lluvias llena las lagunas y la seca ofrece aire limpio y frío." }
+        {
+          "q": "¿Vale la pena ir solo un día?",
+          "a": "Sí, es perfecto para una escapada de día desde la CDMX."
+        },
+        {
+          "q": "¿Cuánto cuesta el viaje?",
+          "a": "Entrada 95 MXN por persona; el transporte varía según auto o autobús más taxi local."
+        },
+        {
+          "q": "¿Cuál es la mejor temporada?",
+          "a": "Todo el año; la temporada de lluvias llena las lagunas y la seca ofrece aire limpio y frío."
+        }
+      ],
+      "relatedTitle": "Guías relacionadas"
+    },
+    "cabanas-y-alojamiento": {
+      "title": "Cabañas y alojamiento cerca de Lagunas de Zempoala",
+      "subtitle": "Dónde buscar hospedaje para una visita al parque nacional",
+      "intro": "Si buscas cabañas en Lagunas de Zempoala, distingue el parque nacional de los hospedajes de poblaciones cercanas. Esta guía te ayuda a comparar ubicaciones sin asumir que exista alojamiento dentro del área protegida.",
+      "sections": [
+        {
+          "heading": "¿Hay cabañas dentro del parque?",
+          "body": "No contamos con una lista oficial vigente de cabañas operadas dentro del parque. Antes de reservar, pide al alojamiento su dirección exacta, nombre del operador y ubicación en un mapa. No confundas anuncios de la región con servicios autorizados dentro del parque."
+        },
+        {
+          "heading": "Zonas para buscar alojamiento",
+          "body": "Compara opciones en Huitzilac, localidades de la zona de Ocuilan y Cuernavaca. La distancia real y el acceso por carretera pueden variar mucho: revisa el trayecto hasta la entrada del parque, no solo kilómetros en línea recta."
+        },
+        {
+          "heading": "Qué confirmar antes de pagar",
+          "body": "Pregunta si hay agua caliente, calefacción o cobijas para noches frías, estacionamiento, política de cancelación, señal telefónica y horarios de llegada. Confirma también las condiciones de la carretera y la apertura del parque para la fecha elegida."
+        },
+        {
+          "heading": "Itinerario con una noche",
+          "body": "Llega al alojamiento con luz de día, visita el parque durante su horario vigente y reserva tiempo para caminar y fotografiar las lagunas. Evita planear entrada nocturna al área natural sin autorización expresa."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Puedo reservar una cabaña directamente con el parque?",
+          "a": "No se ha verificado un canal oficial de reservas de cabañas del parque. Confirma directamente con la administración o con el proveedor identificable antes de transferir dinero."
+        },
+        {
+          "q": "¿Conviene quedarse en Cuernavaca?",
+          "a": "Puede ser una base con más servicios, pero tendrás que contar con el tiempo del traslado por carretera hasta el parque."
+        }
+      ],
+      "relatedTitle": "Guías relacionadas"
+    },
+    "pesca-y-natacion": {
+      "title": "¿Se puede pescar o nadar en Lagunas de Zempoala?",
+      "subtitle": "Reglas de visita, seguridad y alternativas junto al agua",
+      "intro": "Las búsquedas sobre pesca y natación no equivalen a permisos. Lagunas de Zempoala es un área natural protegida: cualquier actividad dentro o sobre el agua depende de la regulación y de las indicaciones actuales de la administración.",
+      "sections": [
+        {
+          "heading": "Pesca: verifica permisos y restricciones",
+          "body": "No des por autorizada la pesca deportiva o recreativa. Antes de llevar equipo, consulta a la administración del parque si está permitida, en qué laguna, con qué permiso y bajo qué temporadas o restricciones. No extraigas fauna sin autorización."
+        },
+        {
+          "heading": "Natación: no asumas que es una zona de baño",
+          "body": "Una laguna natural no es una alberca vigilada. Las aguas pueden ser frías, profundas o tener fondo irregular. No entres a nadar sin confirmación expresa de que la actividad está permitida y existe una zona habilitada y segura."
+        },
+        {
+          "heading": "Opciones de visita sin entrar al agua",
+          "body": "Disfruta las vistas desde zonas autorizadas, fotografía los reflejos, observa aves a distancia y camina por senderos abiertos. Mantén la distancia de la orilla cuando el terreno esté resbaladizo."
+        },
+        {
+          "heading": "Cómo consultar las reglas vigentes",
+          "body": "Consulta avisos de la administración y de CONANP antes de salir; al llegar, lee la señalización y pregunta al personal sobre zonas cerradas, actividades reguladas y medidas de seguridad."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Está permitido pescar?",
+          "a": "No podemos confirmar un permiso general vigente. Verifica con la administración del área protegida antes de realizar la actividad."
+        },
+        {
+          "q": "¿Puedo nadar en la laguna?",
+          "a": "No se debe asumir que esté permitido o sea seguro. Solo considera entrar al agua si el personal confirma una zona autorizada y condiciones adecuadas."
+        }
       ],
       "relatedTitle": "Guías relacionadas"
     }
