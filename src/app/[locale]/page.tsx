@@ -40,6 +40,7 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <TopicLinks />
         <EntityOverview />
         <Intro />
         <BasicInfo />
@@ -47,7 +48,6 @@ export default async function HomePage({
         <TicketsSection />
         <TransportSection />
         <MapEmbed />
-        <TopicLinks />
         <WeatherSection locale={locale} />
         <SeasonalGuide />
         <RoutePlans />
