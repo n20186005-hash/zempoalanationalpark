@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/site';
+import { NEARBY_PLACES } from '@/lib/nearby-places';
 
 export const dynamic = 'force-static';
 
@@ -23,6 +24,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/desde-huitzilac',
     '/laguna-zempoala',
     '/parroquia-san-juan-bautista-huitzilac',
+    ...NEARBY_PLACES.map((place) => `/nearby/${place.slug}`),
   ];
 
   const sitemap: MetadataRoute.Sitemap = [];
