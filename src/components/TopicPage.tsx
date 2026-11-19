@@ -63,9 +63,9 @@ export default function TopicPage({ topic }: { topic: string }) {
         />
       )}
 
-      <main className="section-padding">
+      <main className="section-padding" style={{ paddingTop: '7rem' }}>
         <div className="max-w-3xl mx-auto px-4">
-          <nav className="text-sm mb-8" style={{ color: 'var(--text-muted)' }}>
+          <nav className="text-sm mb-8 break-words" style={{ color: 'var(--text-muted)' }}>
             <a href={`/${locale}`} style={{ color: 'var(--accent)' }}>
               {t('home')}
             </a>
@@ -104,6 +104,14 @@ export default function TopicPage({ topic }: { topic: string }) {
               </section>
             ))}
           </div>
+
+          {data.mapUrl && (
+            <a href={data.mapUrl} target="_blank" rel="noopener noreferrer"
+              className="inline-flex max-w-full break-words rounded-full px-5 py-3 mb-12 text-sm font-semibold text-white"
+              style={{ background: 'var(--accent)' }}>
+              {data.mapLabel}
+            </a>
+          )}
 
           {faq.length > 0 && (
             <section className="mb-14">
