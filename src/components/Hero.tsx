@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/lagunas-zempoala-park-scene-1.jpg"
-          alt="Lagunas de Zempoala National Park - Main view in Ocuilan, Mexico"
+          alt={t('imageAlt')}
           className="w-full h-full object-cover"
           loading="eager"
           fetchPriority="high"
