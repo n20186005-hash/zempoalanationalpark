@@ -32,7 +32,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Lagunas de Zempoala National Park, Ocuilan, State of Mexico"
+            title={t('iframeTitle')}
           />
         </div>
 
