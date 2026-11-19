@@ -6,7 +6,7 @@
   },
   "meta": {
     "title": "Lagunas de Zempoala 国家公园（森波阿拉潟湖）｜开放时间与交通指南",
-    "description": "墨西哥州/莫雷洛斯州 Lagunas de Zempoala 国家公园（森波阿拉潟湖）实用攻略：开放时间、门票、从墨西哥城与库埃纳瓦卡的交通路线、实时天气与游览建议（Google 评分 4.5，5,451 条评价）。",
+    "description": "墨西哥州／莫雷洛斯州森波阿拉湖泊国家公园实用攻略：开放时间、门票、从墨西哥城与库埃纳瓦卡的交通路线、实时天气与游览建议（Google 评分 4.5，5,459 条评价）。",
     "ogTitle": "Lagunas de Zempoala National Park - Ocuilan 旅行指南",
     "ogImageAlt": "位于 Ocuilan 的 Lagunas de Zempoala National Park"
   },
@@ -21,9 +21,10 @@
     "title": "Lagunas de Zempoala National Park",
     "subtitle": "墨西哥州 · 莫雷洛斯州 · 墨西哥",
     "rating": "4.5",
-    "reviewCount": "5,451",
+    "reviewCount": "5,459",
     "hours": "周六-周日及公众假期 09:00-18:00",
-    "openMaps": "查看位置"
+    "openMaps": "查看位置",
+    "imageAlt": "墨西哥奥库伊兰森波阿拉国家公园的湖泊风景"
   },
   "intro": {
     "title": "探索 Lagunas de Zempoala National Park",
@@ -185,15 +186,16 @@
     "title": "评分与评价",
     "declaration": "评分如实来自 Google Maps 公开数据。本网站不托管也不逐条核实游客评价。",
     "ratingValue": "4.5",
-    "reviewCount": "5,451",
-    "snapshot": "4.5 ★ · Google Maps 5,451 条评价",
+    "reviewCount": "5,459",
+    "snapshot": "4.5 ★ · Google Maps 5,459 条评价",
     "verifiedNote": "评分于 2026 年 10 月核对。",
     "moreReviews": "在 Google Maps 查看评价"
   },
   "mapSection": {
     "title": "地图位置",
     "subtitle": "2MHJ+Q2 Lagunas de Zempoala, 墨西哥州, 墨西哥（距库埃纳瓦卡20.3公里）",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在Google地图上查看位置",
+    "iframeTitle": "Google 地图：奥库伊兰森波阿拉湖泊国家公园"
   },
   "footer": {
     "rights": "© 2026 Lagunas de Zempoala National Park. 保留所有权利。",
@@ -363,10 +365,10 @@
       }
     ],
     "guideTitle": "游客导览建议",
-    "guideContent": "参观时，可以先到**游客中心**了解公园的生态系统和七座潟湖的信息；然后沿**解说步道**徒步，欣赏潟湖与针叶林交相辉映的壮丽景色；在**观景点**休憩，观察野生动植物；最后在**工艺品商店**选购纪念品。请做一名负责任且环保的游客，进入公园后请听从公园管理员的指示。"
+    "guideContent": "参观时，可以先到游客中心了解公园的生态系统和七座湖泊的信息；然后沿解说步道徒步，欣赏湖泊与针叶林交相辉映的壮丽景色；在观景点休憩，观察野生动植物；最后在工艺品商店选购纪念品。请做一名负责任且环保的游客，进入公园后请听从公园管理员的指示。"
   },
   "seoOverview": {
-    "welcome": "欢迎来到 **Lagunas de Zempoala National Park（森波阿拉潟湖国家公园）**，这里也被广泛称为 **Zempoala National Park（森波阿拉国家公园）**。公园坐落于墨西哥 **Ocuilan（奥库伊兰）**、**墨西哥州（State of Mexico）**，与 **Morelos（莫雷洛斯州）**接壤，是游客探索当地潟湖、松林与珍稀野生动物的核心门户。",
+    "welcome": "欢迎来到森波阿拉湖泊国家公园（Lagunas de Zempoala National Park），这里也被称为森波阿拉国家公园。公园位于墨西哥州奥库伊兰（Ocuilan），毗邻莫雷洛斯州，是探索当地高山湖泊、松林与野生动物的重要目的地。",
     "breadcrumbTitle": "地理位置",
     "breadcrumb": [
       "Lagunas de Zempoala National Park",
@@ -389,7 +391,7 @@
       {
         "id": "landmarks",
         "heading": "Zempoala National Park 周边地标与景点",
-        "text": "造访 **Lagunas de Zempoala National Park** 时，可顺路游览周边地标与景点，包括拥有历史中心与主教堂的 **Cuernavaca（库埃纳瓦卡）**，以及作为 Tepozteco 金字塔门户的墨西哥神奇小镇 **Tepoztlán（特波斯特兰）**。同一条公路沿线还有 **Pico del Águila** 观景台。"
+        "text": "造访森波阿拉湖泊国家公园时，还可另外安排区域联游：库埃纳瓦卡（Cuernavaca）的历史中心与大教堂、特波斯特兰（Tepoztlán）的 Tepozteco 金字塔，以及公路沿线的 Pico del Águila 观景点。"
       },
       {
         "id": "history",
@@ -1101,7 +1103,7 @@
       "sections": [
         {
           "heading": "评分及数据来源",
-          "body": "首页显示的 4.5 分、5,451 条 Google Maps 评价是 2026 年 10 月的数据快照，并非实时更新。最新评分及原始评论请通过 Google Maps 查询。"
+          "body": "首页显示的 4.5 分、5,459 条 Google Maps 评价是 2026 年 11 月的数据快照，并非实时更新。最新评分及原始评论请通过 Google Maps 查询。"
         },
         {
           "heading": "怎样查看近期评价",
@@ -1329,5 +1331,15 @@
       ],
       "relatedTitle": "相关攻略"
     }
+  },
+  "accessibility": {
+    "theme": "切换明暗主题",
+    "language": "选择语言",
+    "toggleCookie": "更改 Cookie 选项",
+    "closeGallery": "关闭照片浏览",
+    "previousPhoto": "上一张照片",
+    "nextPhoto": "下一张照片",
+    "galleryAltSuffix": "奥库伊兰森波阿拉湖泊国家公园",
+    "galleryPhoto": "森波阿拉湖泊照片 {number}"
   }
 }
