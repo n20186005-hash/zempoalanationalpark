@@ -116,7 +116,7 @@ export default function TopicPage({ topic }: { topic: string }) {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
               {data.photos.map((photo: { src: string; alt: string; source: string; credit?: string }, i: number) => (
                 <figure key={i} className="min-w-0 rounded-xl overflow-hidden" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
-                  <img src={photo.src} alt={photo.alt} loading="lazy" className="w-full h-56 object-cover" />
+                  <img src={topic === 'laguna-zempoala' && i === 0 ? '/gallery/lagunas-zempoala-park-scene-1.jpg' : photo.src} alt={photo.alt} loading="lazy" referrerPolicy="no-referrer" onError={(event) => { if (topic === 'parroquia-san-juan-bautista-huitzilac' && event.currentTarget.dataset.fallback !== 'used') { event.currentTarget.dataset.fallback = 'used'; event.currentTarget.src = 'https://static.wixstatic.com/media/66e22b_3d54755070e3464f91b6058917f8088c~mv2.jpg'; } }} className="w-full h-56 object-cover" />
                   <figcaption className="p-3 text-xs break-words" style={{ color: 'var(--text-muted)' }}>
                     {photo.alt} · <a href={photo.source} target="_blank" rel="noopener noreferrer" className="underline">{photo.credit || 'Wikimedia Commons'}</a>
                   </figcaption>
