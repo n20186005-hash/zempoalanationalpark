@@ -16,6 +16,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/fotos',
     '/que-hacer',
     '/desde-cdmx',
+    '/cabanas-y-alojamiento',
+    '/pesca-y-natacion',
   ];
 
   const sitemap: MetadataRoute.Sitemap = [];
