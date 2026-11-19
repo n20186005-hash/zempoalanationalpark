@@ -861,14 +861,32 @@
       "subtitle": "Driving route, public transport and tips from CDMX and Cuernavaca",
       "intro": "Lagunas de Zempoala National Park is an easy day trip from Mexico City. It sits on Federal Highway 95 (Mexico–Cuernavaca), about 20.3 km from Cuernavaca and roughly two hours from the CDMX.",
       "sections": [
-        { "heading": "By car", "body": "From Mexico City, take Federal Highway 95 south toward Cuernavaca. After Cuernavaca, follow the signed road to the park; the entrance is about 20.3 km on. There is a staffed parking area near the entrance that fills early on weekends." },
-        { "heading": "Public transport", "body": "From the Terminal de Autobuses de Pasajeros de Oriente (TAPO) or Tasqueña in CDMX, take a bus to Cuernavaca (Pullman de Morelos or similar). In Cuernavaca, take local transport toward the park; coordinate it with opening days (Saturday, Sunday and holidays)." },
-        { "heading": "Travel tips", "body": "The park only opens weekends and holidays from 09:00 to 18:00. Arrive early, bring cash for the 95 MXN entry, food and water, and download offline maps because signal is intermittent." }
+        {
+          "heading": "By car",
+          "body": "From Mexico City, take Federal Highway 95 south toward Cuernavaca. After Cuernavaca, follow the signed road to the park; the entrance is about 20.3 km on. There is a staffed parking area near the entrance that fills early on weekends."
+        },
+        {
+          "heading": "Public transport",
+          "body": "From the Terminal de Autobuses de Pasajeros de Oriente (TAPO) or Tasqueña in CDMX, take a bus to Cuernavaca (Pullman de Morelos or similar). In Cuernavaca, take local transport toward the park; coordinate it with opening days (Saturday, Sunday and holidays)."
+        },
+        {
+          "heading": "Travel tips",
+          "body": "The park only opens weekends and holidays from 09:00 to 18:00. Arrive early, bring cash for the 95 MXN entry, food and water, and download offline maps because signal is intermittent."
+        }
       ],
       "faq": [
-        { "q": "Can you get there by public transport?", "a": "Yes: bus to Cuernavaca then local transport to the park. The last stretch is easier by car or taxi because of opening hours." },
-        { "q": "How long from the CDMX?", "a": "About two hours by car, depending on traffic on Federal Highway 95." },
-        { "q": "Is there parking?", "a": "Yes, a staffed parking area near the entrance; it fills early on weekends and holidays." }
+        {
+          "q": "Can you get there by public transport?",
+          "a": "Yes: bus to Cuernavaca then local transport to the park. The last stretch is easier by car or taxi because of opening hours."
+        },
+        {
+          "q": "How long from the CDMX?",
+          "a": "About two hours by car, depending on traffic on Federal Highway 95."
+        },
+        {
+          "q": "Is there parking?",
+          "a": "Yes, a staffed parking area near the entrance; it fills early on weekends and holidays."
+        }
       ],
       "relatedTitle": "Related guides"
     },
@@ -877,14 +895,32 @@
       "subtitle": "Entry fee, discounts and opening days in 2026",
       "intro": "The park only opens Saturday, Sunday and public holidays from 09:00 to 18:00. General entry is 95 MXN per person, with discounts for students, residents and free entry for specific groups.",
       "sections": [
-        { "heading": "Opening hours", "body": "Saturday, Sunday and public holidays from 09:00 to 18:00. Closed Monday to Friday. Check holiday dates before your visit." },
-        { "heading": "Entry fee", "body": "95 MXN per person per day, paid at the entrance booth. Bring cash; many local services are cash only." },
-        { "heading": "Discounts and free entry", "body": "Free for children under 12, seniors, retirees and people with disabilities (valid ID). Students and teachers 75% off; Mexican citizens and foreign residents 50% off (official document)." }
+        {
+          "heading": "Opening hours",
+          "body": "Saturday, Sunday and public holidays from 09:00 to 18:00. Closed Monday to Friday. Check holiday dates before your visit."
+        },
+        {
+          "heading": "Entry fee",
+          "body": "95 MXN per person per day, paid at the entrance booth. Bring cash; many local services are cash only."
+        },
+        {
+          "heading": "Discounts and free entry",
+          "body": "Free for children under 12, seniors, retirees and people with disabilities (valid ID). Students and teachers 75% off; Mexican citizens and foreign residents 50% off (official document)."
+        }
       ],
       "faq": [
-        { "q": "How much is the entry?", "a": "95 MXN per person per day, with discounts for students and residents and free entry for under-12s and seniors." },
-        { "q": "Which days is the park open?", "a": "Only Saturday, Sunday and public holidays, from 09:00 to 18:00." },
-        { "q": "Are cards accepted at the entrance?", "a": "Not always; bring cash for the entry and for services inside and near the park." }
+        {
+          "q": "How much is the entry?",
+          "a": "95 MXN per person per day, with discounts for students and residents and free entry for under-12s and seniors."
+        },
+        {
+          "q": "Which days is the park open?",
+          "a": "Only Saturday, Sunday and public holidays, from 09:00 to 18:00."
+        },
+        {
+          "q": "Are cards accepted at the entrance?",
+          "a": "Not always; bring cash for the entry and for services inside and near the park."
+        }
       ],
       "relatedTitle": "Related guides"
     },
@@ -893,14 +929,32 @@
       "subtitle": "Lagoons, pine forest and high-altitude scenery",
       "intro": "The seven lagoons surrounded by Montezuma pine form one of the most photographed landscapes near Mexico City. Here are tips for photographing them and what to expect each season.",
       "sections": [
-        { "heading": "Best light", "body": "The softest light is in the morning after opening (09:00) and at sunset. The water is usually calmer and reflects the sky." },
-        { "heading": "What to photograph", "body": "The permanent lagoons (Quila, Zempoala, Compila), the viewpoints, the interpretive trails and wildlife such as the ocelot or various birds." },
-        { "heading": "By season", "body": "Rainy season (Jun–Aug): full lagoons and dramatic skies. Dry season (Nov–Feb): clean, cold air, ideal for crisp landscapes." }
+        {
+          "heading": "Best light",
+          "body": "The softest light is in the morning after opening (09:00) and at sunset. The water is usually calmer and reflects the sky."
+        },
+        {
+          "heading": "What to photograph",
+          "body": "The permanent lagoons (Quila, Zempoala, Compila), the viewpoints, the interpretive trails and wildlife such as the ocelot or various birds."
+        },
+        {
+          "heading": "By season",
+          "body": "Rainy season (Jun–Aug): full lagoons and dramatic skies. Dry season (Nov–Feb): clean, cold air, ideal for crisp landscapes."
+        }
       ],
       "faq": [
-        { "q": "Can you enter before 09:00 for photos?", "a": "No; the park opens at 09:00 on visit days. Arrive early after opening for the best light." },
-        { "q": "Is there a photo tour?", "a": "Not a park service; local guides offer horses and tours, agree the price in advance." },
-        { "q": "Are drones allowed?", "a": "Check with the rangers; drone use is normally restricted in the protected natural area." }
+        {
+          "q": "Can you enter before 09:00 for photos?",
+          "a": "No; the park opens at 09:00 on visit days. Arrive early after opening for the best light."
+        },
+        {
+          "q": "Is there a photo tour?",
+          "a": "Not a park service; local guides offer horses and tours, agree the price in advance."
+        },
+        {
+          "q": "Are drones allowed?",
+          "a": "Check with the rangers; drone use is normally restricted in the protected natural area."
+        }
       ],
       "relatedTitle": "Related guides"
     },
@@ -909,14 +963,32 @@
       "subtitle": "Nature activities for every pace",
       "intro": "The park combines seven lagoons, coniferous forest and accessible trails. You can camp, walk, watch birds, photograph and learn about conservation.",
       "sections": [
-        { "heading": "Hiking and viewpoints", "body": "Walk the interpretive trails around the lagoons and rest at the viewpoints overlooking the water." },
-        { "heading": "Camping and picnics", "body": "There are designated camping areas and rest zones; use only marked sites and take your rubbish with you." },
-        { "heading": "Wildlife watching", "body": "The park is the only place in Morelos with a recorded ocelot; there are also birds, amphibians and the high-altitude axolotl." }
+        {
+          "heading": "Hiking and viewpoints",
+          "body": "Walk the interpretive trails around the lagoons and rest at the viewpoints overlooking the water."
+        },
+        {
+          "heading": "Camping and picnics",
+          "body": "There are designated camping areas and rest zones; use only marked sites and take your rubbish with you."
+        },
+        {
+          "heading": "Wildlife watching",
+          "body": "The park is the only place in Morelos with a recorded ocelot; there are also birds, amphibians and the high-altitude axolotl."
+        }
       ],
       "faq": [
-        { "q": "Can you camp?", "a": "Yes, in designated camping areas with your own equipment." },
-        { "q": "Is it good for children?", "a": "Yes, there are flat routes near the visitor center and accessible viewpoints." },
-        { "q": "Is fishing allowed?", "a": "Sport fishing is allowed as an activity; respect the rules of the protected natural area." }
+        {
+          "q": "Can you camp?",
+          "a": "Yes, in designated camping areas with your own equipment."
+        },
+        {
+          "q": "Is it good for children?",
+          "a": "Yes, there are flat routes near the visitor center and accessible viewpoints."
+        },
+        {
+          "q": "Is fishing allowed?",
+          "a": "Sport fishing is allowed as an activity; respect the rules of the protected natural area."
+        }
       ],
       "relatedTitle": "Related guides"
     },
@@ -925,14 +997,100 @@
       "subtitle": "Day trip: route, time and tips",
       "intro": "Just about two hours from the CDMX, Lagunas de Zempoala is one of the closest nature getaways. Ideal for a day of hiking, photos and fresh air.",
       "sections": [
-        { "heading": "Quick route", "body": "Leave early via Federal Highway 95 toward Cuernavaca; the park is 20.3 km beyond. Arrive near opening (09:00) to make the most of the day." },
-        { "heading": "Day plan", "body": "Morning at the lagoons and viewpoints, lunch at the rest area, afternoon photo or horse ride, back before 18:00." },
-        { "heading": "What to bring", "body": "Cash, water (1.5–2 L per person), layers, sunscreen, snacks and offline maps." }
+        {
+          "heading": "Quick route",
+          "body": "Leave early via Federal Highway 95 toward Cuernavaca; the park is 20.3 km beyond. Arrive near opening (09:00) to make the most of the day."
+        },
+        {
+          "heading": "Day plan",
+          "body": "Morning at the lagoons and viewpoints, lunch at the rest area, afternoon photo or horse ride, back before 18:00."
+        },
+        {
+          "heading": "What to bring",
+          "body": "Cash, water (1.5–2 L per person), layers, sunscreen, snacks and offline maps."
+        }
       ],
       "faq": [
-        { "q": "Is a single day worth it?", "a": "Yes, it is perfect for a day trip from the CDMX." },
-        { "q": "How much does the trip cost?", "a": "95 MXN entry per person; transport varies with car or bus plus local taxi." },
-        { "q": "Best season?", "a": "All year; the rainy season fills the lagoons and the dry season offers clean, cold air." }
+        {
+          "q": "Is a single day worth it?",
+          "a": "Yes, it is perfect for a day trip from the CDMX."
+        },
+        {
+          "q": "How much does the trip cost?",
+          "a": "95 MXN entry per person; transport varies with car or bus plus local taxi."
+        },
+        {
+          "q": "Best season?",
+          "a": "All year; the rainy season fills the lagoons and the dry season offers clean, cold air."
+        }
+      ],
+      "relatedTitle": "Related guides"
+    },
+    "cabanas-y-alojamiento": {
+      "title": "Cabins and lodging near Lagunas de Zempoala",
+      "subtitle": "How to choose accommodation for a national park trip",
+      "intro": "Searching for cabins at Lagunas de Zempoala? Accommodation marketed near the lakes is not necessarily inside the national park. Compare precise locations and verify the provider before booking.",
+      "sections": [
+        {
+          "heading": "Are there cabins inside the park?",
+          "body": "We have not verified a current official list of cabins operated inside the protected area. Ask any provider for a street address, operator details and map location; do not assume a regional listing is a park facility."
+        },
+        {
+          "heading": "Where to look",
+          "body": "Compare lodging around Huitzilac, the Ocuilan area and Cuernavaca. Check the actual driving route to the park entrance, rather than relying on straight-line distance."
+        },
+        {
+          "heading": "Questions before booking",
+          "body": "Confirm hot water, blankets or heating for cool nights, parking, cancellation terms, phone coverage and check-in times. Check road conditions and the park's current opening schedule."
+        },
+        {
+          "heading": "An overnight itinerary",
+          "body": "Reach your lodging before dark and visit the lakes within published park hours. Do not plan night entry to the protected area without explicit authorization."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I book a cabin directly with the park?",
+          "a": "We have not confirmed an official park cabin-booking channel. Verify the operator before paying."
+        },
+        {
+          "q": "Is Cuernavaca a practical base?",
+          "a": "It can offer more services, but allow time for the drive to the park."
+        }
+      ],
+      "relatedTitle": "Related guides"
+    },
+    "pesca-y-natacion": {
+      "title": "Fishing and swimming at Lagunas de Zempoala",
+      "subtitle": "Current rules, water safety and low-impact alternatives",
+      "intro": "Search results about fishing or swimming are not evidence of permission. Lagunas de Zempoala is a protected natural area, so water activities are subject to current management rules.",
+      "sections": [
+        {
+          "heading": "Fishing: confirm restrictions",
+          "body": "Do not assume recreational fishing is allowed. Ask the park administration whether it is permitted, which lagoon may be used and whether permits, seasons or restrictions apply. Never remove wildlife without authorization."
+        },
+        {
+          "heading": "Swimming: do not assume a bathing area",
+          "body": "Natural lagoons may be cold, deep and uneven underfoot. Do not swim unless park staff explicitly confirm an authorized, safe swimming area."
+        },
+        {
+          "heading": "Things to do beside the water",
+          "body": "Use designated viewpoints, photograph reflections, watch birds from a distance and follow open trails. Keep back from slippery edges."
+        },
+        {
+          "heading": "Check rules before your trip",
+          "body": "Review park administration and CONANP notices. On arrival, follow posted signs and ask staff about closures and regulated activities."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is fishing allowed?",
+          "a": "We cannot confirm a blanket current permit. Verify with the protected area's administration before fishing."
+        },
+        {
+          "q": "Can visitors swim?",
+          "a": "Never assume it is allowed or safe. Only consider it if staff confirm an authorized area and suitable conditions."
+        }
       ],
       "relatedTitle": "Related guides"
     }
