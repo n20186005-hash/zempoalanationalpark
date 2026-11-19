@@ -5,8 +5,8 @@
     "home": "Volver al inicio"
   },
   "meta": {
-    "title": "Lagunas de Zempoala: Horarios, Precios y Cómo Llegar (2026)",
-    "description": "Visita el Parque Nacional Lagunas de Zempoala. Consulta horarios, costo de entrada, cómo llegar desde CDMX, mapa, actividades y consejos para tu visita.",
+    "title": "Lagunas de Zempoala 2026: Entrada, Horarios y Ruta",
+    "description": "¿Planeas visitar Lagunas de Zempoala? Revisa entrada, horarios, cómo llegar desde CDMX y Cuernavaca, mapa, fotos y consejos antes de salir.",
     "ogTitle": "Lagunas de Zempoala: Guía para Visitar el Parque Nacional",
     "ogImageAlt": "Parque Nacional Lagunas de Zempoala en Ocuilan"
   },
@@ -1092,6 +1092,114 @@
           "a": "No se debe asumir que esté permitido o sea seguro. Solo considera entrar al agua si el personal confirma una zona autorizada y condiciones adecuadas."
         }
       ],
+      "relatedTitle": "Guías relacionadas"
+    },
+    "opiniones": {
+      "title": "Opiniones de Lagunas de Zempoala: qué revisar antes de ir",
+      "subtitle": "Reseñas de Google Maps, contexto de las valoraciones y consejos útiles",
+      "intro": "Las opiniones de visitantes pueden orientar una excursión, pero las condiciones del parque cambian por clima, temporada y acceso. Aquí explicamos cómo consultar las reseñas originales y qué detalles conviene contrastar.",
+      "sections": [
+        {
+          "heading": "Calificación y fuente",
+          "body": "La página principal muestra una referencia de 4.5 estrellas y 5,451 reseñas de Google Maps, consultada en octubre de 2026. Es una captura histórica, no una actualización en tiempo real; abre el perfil de Google Maps para consultar la cifra actual y las reseñas originales."
+        },
+        {
+          "heading": "Cómo leer opiniones recientes",
+          "body": "Ordena las reseñas por fecha y busca comentarios sobre acceso, estacionamiento, limpieza, senderos y servicios. Compara varias experiencias y presta atención a la fecha de visita, especialmente en temporada de lluvias."
+        },
+        {
+          "heading": "Qué verificar con fuentes oficiales",
+          "body": "Las reseñas no sustituyen avisos del parque: confirma apertura, tarifas, cierres de caminos y reglas de conservación con la administración y los comunicados oficiales antes de salir."
+        },
+        {
+          "heading": "Para familias y visitantes de primera vez",
+          "body": "Lleva agua, abrigo y calzado con buena suela. El terreno natural, el clima de altura y la cobertura telefónica pueden condicionar la visita; selecciona senderos acordes al grupo."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Las reseñas son publicadas por este sitio?",
+          "a": "No. Las reseñas pertenecen a sus autores y se consultan directamente en Google Maps."
+        },
+        {
+          "q": "¿La calificación se actualiza en tiempo real?",
+          "a": "No; la cifra mostrada corresponde a la consulta de octubre de 2026. Verifica el valor actual en Google Maps."
+        }
+      ],
+      "mapLabel": "Ver opiniones actuales en Google Maps",
+      "mapUrl": "https://maps.app.goo.gl/fZYMqK4G6o9FANmg8",
+      "relatedTitle": "Guías relacionadas"
+    },
+    "desde-cuernavaca": {
+      "title": "Cómo llegar a Lagunas de Zempoala desde Cuernavaca",
+      "subtitle": "Ruta por carretera, preparación y visita de un día",
+      "intro": "Desde Cuernavaca puedes organizar una excursión a Lagunas de Zempoala, en la zona de Huitzilac y Ocuilan. La ruta atraviesa un entorno montañoso: revisa condiciones de tránsito y el acceso exacto antes de salir.",
+      "sections": [
+        {
+          "heading": "Ruta desde Cuernavaca",
+          "body": "Abre las indicaciones de Google Maps con Cuernavaca como origen y el parque como destino. Sigue las señales y la ruta vigente; no dependas únicamente de distancias aproximadas porque puede haber desvíos."
+        },
+        {
+          "heading": "Transporte y regreso",
+          "body": "En automóvil organiza combustible y tiempo de retorno con luz de día. Si no conduces, comprueba antes de salir qué transporte local llega al acceso y cómo regresar; no asumas servicios frecuentes."
+        },
+        {
+          "heading": "Plan en el parque",
+          "body": "Prioriza los miradores autorizados, los senderos abiertos y las fotografías de la laguna. Considera una pausa para comer y deja margen para cambios de tiempo."
+        },
+        {
+          "heading": "Qué llevar",
+          "body": "Agua, ropa de capas, impermeable en temporada de lluvias, calzado antideslizante, efectivo y mapa descargado para zonas con poca señal."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Es posible visitar el parque en un día desde Cuernavaca?",
+          "a": "Sí, se puede planear una excursión de día, siempre que compruebes horario de apertura y condiciones de carretera."
+        },
+        {
+          "q": "¿La ruta sirve para transporte público?",
+          "a": "El enlace abre indicaciones por carretera. Confirma por separado las opciones y horarios de transporte local."
+        }
+      ],
+      "mapLabel": "Abrir ruta desde Cuernavaca",
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Cuernavaca%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
+      "relatedTitle": "Guías relacionadas"
+    },
+    "desde-huitzilac": {
+      "title": "Cómo llegar de Huitzilac a Lagunas de Zempoala",
+      "subtitle": "Acceso a la zona de lagunas y lugares para combinar en la visita",
+      "intro": "Huitzilac es una referencia útil para planear el recorrido de montaña hacia Lagunas de Zempoala. Comprueba el trayecto hasta la entrada del parque y no confundas la localidad con el acceso final.",
+      "sections": [
+        {
+          "heading": "Ruta y ubicación",
+          "body": "Consulta el recorrido de Huitzilac al Parque Nacional Lagunas de Zempoala en Google Maps antes de partir. Sigue las señales y respeta cualquier cierre o indicación local."
+        },
+        {
+          "heading": "Paradas y entorno",
+          "body": "El paisaje de bosque y montaña es parte de la experiencia. Si haces paradas fotográficas, usa lugares habilitados y evita detenerte sobre la carretera o ingresar en predios sin permiso."
+        },
+        {
+          "heading": "Excursión de medio día o día completo",
+          "body": "Reserva el tiempo principal para las lagunas y senderos abiertos. Si deseas visitar otros puntos del entorno de Huitzilac, confirma primero su acceso y horario por separado; no des por hecho que todos pertenecen al parque."
+        },
+        {
+          "heading": "Seguridad y clima",
+          "body": "La niebla y la lluvia pueden reducir la visibilidad. Lleva abrigo, agua y navegación sin conexión; vuelve con suficiente luz natural."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Huitzilac es la entrada al parque?",
+          "a": "Es una localidad de referencia en la zona. Usa la ubicación específica del parque para llegar al acceso correcto."
+        },
+        {
+          "q": "¿Puedo combinar la visita con Cuernavaca?",
+          "a": "Sí, si el tiempo y las condiciones de carretera lo permiten. Planifica primero el recorrido a las lagunas."
+        }
+      ],
+      "mapLabel": "Abrir ruta desde Huitzilac",
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Huitzilac%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
       "relatedTitle": "Guías relacionadas"
     }
   }
