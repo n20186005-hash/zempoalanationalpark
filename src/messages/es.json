@@ -1201,6 +1201,68 @@
       "mapLabel": "Abrir ruta desde Huitzilac",
       "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Huitzilac%2C%20Morelos%2C%20Mexico&destination=Lagunas%20de%20Zempoala%20National%20Park%2C%20Mexico&travelmode=driving",
       "relatedTitle": "Guías relacionadas"
+    },
+    "laguna-zempoala": {
+      "title": "Laguna de Zempoala: lago principal, bosque y visita",
+      "subtitle": "Guía del lago más visitado del Parque Nacional Lagunas de Zempoala",
+      "intro": "La Laguna de Zempoala se sitúa al pie del Cerro de Zempoala. Según el programa de manejo de CONANP, es el cuerpo de agua principal del parque y reúne buena parte de la infraestructura de uso público del entorno. No debe confundirse con Tonatiahua ni Compila, que son lagunas diferentes.",
+      "location": "Laguna Zempoala · Parque Nacional Lagunas de Zempoala, Estado de México / Morelos, México",
+      "access": "Acceso por la zona pública del parque desde Huitzilac; consulta el estado de la carretera y la señalización",
+      "sections": [
+        {
+          "heading": "Historia y paisaje",
+          "body": "El parque nacional fue decretado en 1936 para proteger el conjunto de lagunas y sus bosques. La Laguna de Zempoala recibe agua de arroyos de la cuenca alta y se distingue por la relación entre agua, pradera y bosque de coníferas."
+        },
+        {
+          "heading": "Qué observar",
+          "body": "Busca los reflejos de las laderas arboladas, la transición entre orilla y pradera, aves acuáticas a distancia y la vegetación asociada a zonas húmedas. No te acerques a fauna silvestre ni remuevas plantas."
+        },
+        {
+          "heading": "Información práctica y servicios",
+          "body": "La zona de uso público concentra servicios del parque, aunque pueden variar por temporada. Comprueba antes de ir horarios, cuota vigente, estacionamiento y senderos habilitados; no presupongas que la orilla es una zona de baño."
+        },
+        {
+          "heading": "Cómo llegar y recorrido",
+          "body": "Desde Huitzilac sigue el acceso señalizado al área pública del parque, o utiliza la navegación específica hacia Laguna Zempoala. Recorre solo senderos abiertos y deja tiempo para fotografías y descansos; no trates otros lagos como paradas accesibles sin revisar caminos."
+        },
+        {
+          "heading": "Fotografía y viaje en familia",
+          "body": "Desde los puntos permitidos de la ribera puedes fotografiar reflejos, bosque y nubes. Lleva abrigo, agua y calzado antideslizante; mantén a menores alejados del borde del agua."
+        },
+        {
+          "heading": "Gestión y fuentes",
+          "body": "La administración federal del área natural protegida corresponde a CONANP. La descripción geográfica se basa en el programa de manejo del parque y las imágenes identificadas como Laguna de Zempoala proceden de Wikimedia Commons."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Es la misma laguna que Tonatiahua?",
+          "a": "No, son cuerpos de agua distintos dentro del parque nacional."
+        },
+        {
+          "q": "¿Se puede entrar al agua?",
+          "a": "No asumas que está permitido; consulta indicaciones vigentes del personal y respeta zonas restringidas."
+        },
+        {
+          "q": "¿Cuánto tiempo reservar?",
+          "a": "Planifica una visita pausada de fotografía y senderos abiertos, con margen por clima y condiciones de acceso."
+        }
+      ],
+      "mapLabel": "Ubicar Laguna Zempoala en Google Maps",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=19.050717%2C-99.314035",
+      "photos": [
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Zempoala_(6068074727).jpg",
+          "alt": "Vista de la Laguna de Zempoala",
+          "source": "https://commons.wikimedia.org/wiki/File:Laguna_de_Zempoala_(6068074727).jpg"
+        },
+        {
+          "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laguna_de_Zempoala.jpg",
+          "alt": "Orilla y paisaje de Laguna de Zempoala",
+          "source": "https://commons.wikimedia.org/wiki/File:Laguna_de_Zempoala.jpg"
+        }
+      ],
+      "relatedTitle": "Guías relacionadas"
     }
   }
 }
