@@ -7,6 +7,8 @@ export const TOPIC_KEYS = [
   'fotos',
   'que-hacer',
   'desde-cdmx',
+  'cabanas-y-alojamiento',
+  'pesca-y-natacion',
 ] as const;
 
 export type TopicKey = (typeof TOPIC_KEYS)[number];
