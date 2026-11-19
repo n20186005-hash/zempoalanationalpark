@@ -21,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/opiniones',
     '/desde-cuernavaca',
     '/desde-huitzilac',
+    '/laguna-zempoala',
   ];
 
   const sitemap: MetadataRoute.Sitemap = [];
