@@ -18,6 +18,7 @@ export default function Header() {
   }, []);
 
   const homeHref = `/${locale}`;
+  const nearbyLabel = ({ es: 'Cerca', en: 'Nearby', zh: '周边景点' } as Record<string, string>)[locale] || 'Nearby';
 
   return (
     <header
@@ -34,6 +35,7 @@ export default function Header() {
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
+          <a href={`/${locale}/#nearby-attractions`} className="text-sm font-medium" style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>{nearbyLabel}</a>
           {(['gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
@@ -47,6 +49,7 @@ export default function Header() {
         </nav>
 
         <div className="flex items-center gap-2">
+          <a href={`/${locale}/#nearby-attractions`} className="md:hidden rounded-full px-2 py-2 text-xs font-semibold" style={{ background: 'var(--accent)', color: '#fff' }}>{nearbyLabel}</a>
           <ThemeToggle />
           <LanguageToggle />
         </div>
